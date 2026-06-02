@@ -97,7 +97,7 @@
     "platform": "generic",
     "layout": "markdown",
     "fallback_layout": "markdown",
-    "languages": null,
+    "languages": ["en", "zh"],
     "request_body": {
       "msg_type": "interactive",
       "card": {
