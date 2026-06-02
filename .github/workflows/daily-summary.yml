@@ -37,6 +37,21 @@ jobs:
           LWN_KEY: ${{ secrets.LWN_KEY }}
         run: uv run horizon --hours 48
 
+      - name: Generate summaries to docs
+        run: |
+          mkdir -p docs/_posts
+          # 假设 Horizon 生成的文件在 data/summaries/ 中
+          # 需要将其复制到 docs/_posts/ 并修改文件名格式
+          if [ -d "data/summaries" ]; then
+            for file in data/summaries/*.md; do
+              if [ -f "$file" ]; then
+                basename=$(basename "$file" .md)
+                # 提取日期和语言
+                cp "$file" "docs/_posts/$basename.md"
+              fi
+            done
+          fi
+      
       - name: Set current date as environment variable
         run: echo "DATE=$(date +'%Y-%m-%d')" >> $GITHUB_ENV
 
