@@ -40,14 +40,6 @@ jobs:
       - name: Set current date as environment variable
         run: echo "DATE=$(date +'%Y-%m-%d')" >> $GITHUB_ENV
 
-      - name: Copy summaries to docs directory  # ← 新增步骤
-        run: |
-          mkdir -p docs/summaries
-          if [ -d "data/summaries" ]; then
-            cp -v data/summaries/*.md docs/summaries/ || true
-          fi
-          echo "✅ Summaries copied to docs/summaries/"
-
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
         with:
