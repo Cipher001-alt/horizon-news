@@ -2,13 +2,13 @@
   "version": "1.0",
   "ai": {
     "provider": "openai",
-	"base_url": "https://dashscope.aliyuncs.com/compatible-mode/v1",
+    "base_url": "https://dashscope.aliyuncs.com/compatible-mode/v1",
     "model": "qwen-max",
     "api_key_env": "DASHSCOPE_API_KEY",
     "temperature": 0.3,
     "max_tokens": 4096,
     "throttle_sec": 0,
-	"languages": ["en", "zh"]  # ✅ 新增：在 ai 对象内指定双语
+    "languages": ["en", "zh"]  # ✅ 新增：在 ai 对象内指定双语
   },
   "email": {
     "enabled": false,
