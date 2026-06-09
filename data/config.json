@@ -12,15 +12,7 @@
     "enrichment_concurrency": 2
   },
   "email": {
-    "enabled": false,
-    "smtp_server": "smtp.qq.com",
-    "smtp_port": 465,
-    "imap_server": "imap.qq.com",
-    "imap_port": 993,
-    "email_address": "xxx@qq.com",
-    "sender_name": "Horizon Daily",
-    "subscribe_keyword": "SUBSCRIBE",
-    "unsubscribe_keyword": "UNSUBSCRIBE"
+    "enabled": false
   },
   "sources": {
     "github": [
@@ -79,7 +71,6 @@
         "enabled": true,
         "category": "ai"
       },
-  
       {
         "name": "TechCrunch — 科技创投",
         "url": "https://techcrunch.com/feed/",
@@ -115,8 +106,7 @@
         "url": "https://www.practicalecommerce.com/feed",
         "enabled": true,
         "category": "ecommerce"
-      },
-      
+      }
     ],
     "reddit": {
       "enabled": false,
@@ -181,23 +171,13 @@
       ],
       "users": []
     },
-    "telegram": {
-      "enabled": false,
-      "channels": []
-    },
     "twitter": {
       "enabled": false,
       "users": [],
-      "fetch_limit": 10,
-      "fetch_reply_text": false,
-      "max_replies_per_tweet": 3,
-      "max_tweets_to_expand": 10,
-      "reply_min_likes": 5
+      "fetch_limit": 10
     },
     "openbb": {
       "enabled": false,
-      "fetch_filings": false,
-      "filings_provider": "sec",
       "watchlists": []
     },
     "ossinsight": {
