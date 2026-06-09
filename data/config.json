@@ -79,12 +79,7 @@
         "enabled": true,
         "category": "ai"
       },
-      {
-        "name": "Unite.AI — AI与机器人",
-        "url": "https://saizenacuity.com/rss-feeds/unite-ai/",
-        "enabled": true,
-        "category": "ai"
-      },
+  
       {
         "name": "TechCrunch — 科技创投",
         "url": "https://techcrunch.com/feed/",
@@ -121,15 +116,10 @@
         "enabled": true,
         "category": "ecommerce"
       },
-      {
-        "name": "跨境电商雨果网",
-        "url": "https://www.cifnews.com/rss.xml",
-        "enabled": true,
-        "category": "ecommerce"
-      }
+      
     ],
     "reddit": {
-      "enabled": true,
+      "enabled": false,
       "fetch_comments": 3,
       "subreddits": [
         {
