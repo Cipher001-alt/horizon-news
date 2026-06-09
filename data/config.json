@@ -12,7 +12,15 @@
     "enrichment_concurrency": 2
   },
   "email": {
-    "enabled": false
+     "enabled": false,
+    "smtp_server": "",
+    "smtp_port": 465,
+    "imap_server": "",
+    "imap_port": 993,
+    "email_address": "",
+    "sender_name": "Horizon Daily",
+    "subscribe_keyword": "SUBSCRIBE",
+    "unsubscribe_keyword": "UNSUBSCRIBE"
   },
   "sources": {
     "github": [
