@@ -1,14 +1,14 @@
 {
   "version": "1.0",
   "ai": {
-    "provider": "openai",
-    "base_url": "https://dashscope.aliyuncs.com/compatible-mode/v1",
-    "model": "qwen-max",
-    "api_key_env": "DASHSCOPE_API_KEY",
+    "provider": "deepseek",
+    "model": "deepseek-chat",
+    "api_key_env": "DEEPSEEK_API_KEY",
     "temperature": 0.3,
     "max_tokens": 4096,
     "throttle_sec": 0,
-    "languages": ["en", "zh"]
+    "analysis_concurrency": 3,
+    "enrichment_concurrency": 2
   },
   "email": {
     "enabled": false,
@@ -24,8 +24,27 @@
   "sources": {
     "github": [
       {
-        "type": "user_events",
-        "username": "torvalds",
+        "type": "repo_releases",
+        "owner": "openai",
+        "repo": "openai-python",
+        "enabled": true
+      },
+      {
+        "type": "repo_releases",
+        "owner": "anthropics",
+        "repo": "anthropic-sdk-python",
+        "enabled": true
+      },
+      {
+        "type": "repo_releases",
+        "owner": "deepseek-ai",
+        "repo": "DeepSeek-V3",
+        "enabled": true
+      },
+      {
+        "type": "repo_releases",
+        "owner": "ggerganov",
+        "repo": "llama.cpp",
         "enabled": true
       },
       {
@@ -33,62 +52,192 @@
         "owner": "astral-sh",
         "repo": "uv",
         "enabled": true
+      },
+      {
+        "type": "repo_releases",
+        "owner": "shadcn-ui",
+        "repo": "ui",
+        "enabled": true
       }
     ],
     "hackernews": {
       "enabled": true,
-      "fetch_top_stories": 20,
-      "min_score": 100
+      "fetch_top_stories": 30,
+      "min_score": 50
     },
     "rss": [
       {
-        "name": "Simon Willison",
+        "name": "Simon Willison — AI工具",
         "url": "https://simonwillison.net/atom/everything/",
         "enabled": true,
-        "category": "ai-tools"
+        "category": "ai"
       },
       {
-        "name": "LWN.net (subscriber full-text)",
-        "url": "https://lwn.net/headlines/full_text?key=${LWN_KEY}",
-        "enabled": false,
-        "category": "linux"
+        "name": "The Decoder — AI新闻",
+        "url": "https://the-decoder.com/feed/",
+        "enabled": true,
+        "category": "ai"
+      },
+      {
+        "name": "Unite.AI — AI与机器人",
+        "url": "https://saizenacuity.com/rss-feeds/unite-ai/",
+        "enabled": true,
+        "category": "ai"
+      },
+      {
+        "name": "TechCrunch — 科技创投",
+        "url": "https://techcrunch.com/feed/",
+        "enabled": true,
+        "category": "tech"
+      },
+      {
+        "name": "ArsTechnica — 深度科技",
+        "url": "https://feeds.arstechnica.com/arstechnica/index",
+        "enabled": true,
+        "category": "tech"
+      },
+      {
+        "name": "Julia Evans — 编程",
+        "url": "https://jvns.ca/atom.xml",
+        "enabled": true,
+        "category": "skill"
+      },
+      {
+        "name": "Dan Luu — 技术深度分析",
+        "url": "https://danluu.com/atom.xml",
+        "enabled": true,
+        "category": "skill"
+      },
+      {
+        "name": "EcommerceBytes — 电商新闻",
+        "url": "https://www.ecommercebytes.com/feed/",
+        "enabled": true,
+        "category": "ecommerce"
+      },
+      {
+        "name": "Practical Ecommerce",
+        "url": "https://www.practicalecommerce.com/feed",
+        "enabled": true,
+        "category": "ecommerce"
+      },
+      {
+        "name": "跨境电商雨果网",
+        "url": "https://www.cifnews.com/rss.xml",
+        "enabled": true,
+        "category": "ecommerce"
       }
     ],
     "reddit": {
       "enabled": true,
+      "fetch_comments": 3,
       "subreddits": [
         {
           "subreddit": "MachineLearning",
-          "enabled": true,
           "sort": "hot",
-          "time_filter": "day",
           "fetch_limit": 15,
-          "min_score": 50
-        }
-      ],
-      "users": [
+          "min_score": 10,
+          "enabled": true
+        },
         {
-          "username": "iamthatis",
-          "enabled": true,
-          "sort": "new",
-          "fetch_limit": 10
+          "subreddit": "LocalLLaMA",
+          "sort": "hot",
+          "fetch_limit": 15,
+          "min_score": 10,
+          "enabled": true
+        },
+        {
+          "subreddit": "artificial",
+          "sort": "hot",
+          "fetch_limit": 10,
+          "min_score": 20,
+          "enabled": true
+        },
+        {
+          "subreddit": "programming",
+          "sort": "hot",
+          "fetch_limit": 15,
+          "min_score": 30,
+          "enabled": true
+        },
+        {
+          "subreddit": "webdev",
+          "sort": "hot",
+          "fetch_limit": 10,
+          "min_score": 10,
+          "enabled": true
+        },
+        {
+          "subreddit": "ecommerce",
+          "sort": "hot",
+          "fetch_limit": 15,
+          "min_score": 5,
+          "enabled": true
+        },
+        {
+          "subreddit": "dropshipping",
+          "sort": "hot",
+          "fetch_limit": 10,
+          "min_score": 5,
+          "enabled": true
+        },
+        {
+          "subreddit": "AmazonSeller",
+          "sort": "hot",
+          "fetch_limit": 10,
+          "min_score": 5,
+          "enabled": true
         }
       ],
-      "fetch_comments": 5
+      "users": []
+    },
+    "telegram": {
+      "enabled": false,
+      "channels": []
     },
     "twitter": {
       "enabled": false,
-      "users": ["karpathy", "ylecun"],
+      "users": [],
       "fetch_limit": 10,
       "fetch_reply_text": false,
       "max_replies_per_tweet": 3,
       "max_tweets_to_expand": 10,
       "reply_min_likes": 5
+    },
+    "openbb": {
+      "enabled": false,
+      "fetch_filings": false,
+      "filings_provider": "sec",
+      "watchlists": []
+    },
+    "ossinsight": {
+      "enabled": false,
+      "period": "past_24_hours",
+      "languages": ["All", "Python", "TypeScript"],
+      "keywords": [],
+      "min_stars": 10,
+      "max_items": 30
     }
   },
   "filtering": {
     "ai_score_threshold": 6.0,
-    "time_window_hours": 24
+    "time_window_hours": 24,
+    "max_items": 30,
+    "category_groups": {
+      "ai_news": {
+        "limit": 10,
+        "categories": ["ai"]
+      },
+      "tech_skills": {
+        "limit": 8,
+        "categories": ["tech", "skill"]
+      },
+      "ecommerce": {
+        "limit": 8,
+        "categories": ["ecommerce"]
+      }
+    },
+    "default_group": "other",
+    "default_group_limit": 4
   },
   "webhook": {
     "enabled": false,
@@ -98,7 +247,7 @@
     "platform": "generic",
     "layout": "markdown",
     "fallback_layout": "markdown",
-    "languages": ["en", "zh"],
+    "languages": null,
     "request_body": {
       "msg_type": "interactive",
       "card": {
