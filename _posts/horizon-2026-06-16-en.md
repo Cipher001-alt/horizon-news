@@ -1,852 +1,902 @@
 # Horizon Daily - 2026-06-16
 
-> From 72 items, 38 important content pieces were selected
+> From 77 items, 40 important content pieces were selected
 
 ---
 
-1. [Backdoor in fake LinkedIn job interview](#item-1) ⭐️ 8.0/10
-2. [Iroh 1.0: Peer-to-Peer Networking Library Released](#item-2) ⭐️ 8.0/10
-3. [TimescaleDB Hypercore Compression Deep Dive](#item-3) ⭐️ 8.0/10
-4. [Fox to Acquire Roku in $22 Billion Deal](#item-4) ⭐️ 8.0/10
-5. [Salesforce Acquires Fin (Intercom) for $3.6B](#item-5) ⭐️ 8.0/10
-6. [Rust vs C/C++ Memory Safety CVEs: A Nuanced Comparison](#item-6) ⭐️ 8.0/10
-7. [Typst 0.15.0 Adds Multiple Bibliographies, Better HTML/MathML Export](#item-7) ⭐️ 8.0/10
-8. [Pokémon Go data used to train AI for military drones](#item-8) ⭐️ 8.0/10
-9. [US Order Shuts Down Anthropic Models, Sparks European AI Sovereignty Debate](#item-9) ⭐️ 8.0/10
-10. [SpaceX Goes Public: IPO Coverage and Analysis](#item-10) ⭐️ 8.0/10
-11. [Satellite autonomously detects target for first time](#item-11) ⭐️ 8.0/10
-12. [AMD Removes TSME Memory Encryption from Consumer CPUs](#item-12) ⭐️ 8.0/10
-13. [Banned Book Library Stored in a Wi-Fi Smart Light Bulb](#item-13) ⭐️ 7.0/10
-14. [Hacker News users share local LLM setups for daily coding](#item-14) ⭐️ 7.0/10
-15. [AI Could Create a Peopleless Economy](#item-15) ⭐️ 7.0/10
-16. [Job interview lessons on Kubernetes trade-offs](#item-16) ⭐️ 7.0/10
-17. [Hetzner Cloud Server Prices Triple Amid Hardware Cost Surge](#item-17) ⭐️ 7.0/10
-18. [Commander Keen White Papers Detail Smooth Scrolling Tech](#item-18) ⭐️ 7.0/10
-19. [Copper transport drug restores memory in Alzheimer's mice](#item-19) ⭐️ 7.0/10
-20. [Boot Naked Linux: Minimal Userspace Guide](#item-20) ⭐️ 7.0/10
-21. [Nadella warns few AI systems could capture all economic returns](#item-21) ⭐️ 7.0/10
-22. [UK proposes social media ban for under-16s](#item-22) ⭐️ 7.0/10
-23. [AI Layoff Wave Sparks Wealth Inequality Concerns](#item-23) ⭐️ 7.0/10
-24. [A Love Letter to Computing Amid Industry Frustrations](#item-24) ⭐️ 6.0/10
-25. [Homelab AI Dev Platform Setup Shared](#item-25) ⭐️ 6.0/10
-26. [US Battery Manufacturing Output Hits Record High](#item-26) ⭐️ 6.0/10
-27. [Anthropic Launches Claude Corps Fellowship for Nonprofits](#item-27) ⭐️ 6.0/10
-28. [Datasette Agent 0.3a0 Adds Write SQL with User Approval](#item-28) ⭐️ 6.0/10
-29. [Sundar Pichai Booed at Stanford Over Google's Defense AI Deals](#item-29) ⭐️ 6.0/10
-30. [Meta launches AI Mode on Facebook using public data](#item-30) ⭐️ 6.0/10
-31. [Sarvam AI becomes India's newest AI unicorn with $234M funding](#item-31) ⭐️ 6.0/10
-32. [NewCore raises $66M for AI agent identity management](#item-32) ⭐️ 6.0/10
-33. [COVID Shots Still Protect Hearts, Study Finds](#item-33) ⭐️ 6.0/10
-34. [Nvidia Plans $25B+ Bond Deal, First Since 2021](#item-34) ⭐️ 6.0/10
-35. [Chinese Rocket Breaks Up Near Starlink, Creates Space Junk](#item-35) ⭐️ 6.0/10
-36. [20 Years of Intel Macs: Why Apple Switched Twice](#item-36) ⭐️ 6.0/10
-37. [Earth May Have More Time Before Sun Ends Life](#item-37) ⭐️ 6.0/10
-38. [Russia to Address Long-Standing ISS Cracks](#item-38) ⭐️ 6.0/10
+1. [Interactive Deep Dive into Mechanical Watch Mechanics](#item-1) ⭐️ 9.0/10
+2. [Critical Copilot vulnerability allowed hackers to steal 2FA codes](#item-2) ⭐️ 9.0/10
+3. [GrapheneOS Ported to Android 17, Official Releases Soon](#item-3) ⭐️ 8.0/10
+4. [Local LLMs Are Now Viable, But Pain Points Remain](#item-4) ⭐️ 8.0/10
+5. [Stop Using JWTs for Browser Sessions](#item-5) ⭐️ 8.0/10
+6. [Meta's Engineering Reorganization Sparks Debate](#item-6) ⭐️ 8.0/10
+7. [Qwen Robot Suite: Foundation Models for Physical World AI](#item-7) ⭐️ 8.0/10
+8. [SubQ 1.1 Small: Learned Sparse Attention Scales Linearly](#item-8) ⭐️ 8.0/10
+9. [Export Controls on AI Models Harm US Cyber Defense](#item-9) ⭐️ 8.0/10
+10. [DeepSeek Raises $7.4B at $50B Valuation in First External Round](#item-10) ⭐️ 8.0/10
+11. [FIFA World Cup Bug Allowed Unauthorized TV Stream Control](#item-11) ⭐️ 8.0/10
+12. [SpaceX Goes Public: IPO Details and Analysis](#item-12) ⭐️ 8.0/10
+13. [OpenAI loses billions annually, leaked docs show](#item-13) ⭐️ 8.0/10
+14. [Calvin and Hobbes and the Price of Integrity](#item-14) ⭐️ 7.0/10
+15. [GPT-NL: A Sovereign Language Model for the Netherlands](#item-15) ⭐️ 7.0/10
+16. [Apple's Hide My Email Change May Reduce Privacy](#item-16) ⭐️ 7.0/10
+17. [Switching to Broadcom SFP+ Module for 10GbE](#item-17) ⭐️ 7.0/10
+18. [Apple's Vehicle Motion Cues Effectively Reduce Car Sickness](#item-18) ⭐️ 7.0/10
+19. [Slay the Spire 2 Uses Custom PRNG for Cross-Platform Seeds](#item-19) ⭐️ 7.0/10
+20. [Reflex.dev Speeds Up Python AST Walk 220x with Rust](#item-20) ⭐️ 7.0/10
+21. [Berlin court: Google AI Overviews are new search format, not original content](#item-21) ⭐️ 7.0/10
+22. [New benchmark tests AI models' resistance to Russian propaganda](#item-22) ⭐️ 7.0/10
+23. [India Orders Temporary Telegram Ban Over Exam Fraud](#item-23) ⭐️ 7.0/10
+24. [DOJ backs xAI's unpermitted gas turbines for national security](#item-24) ⭐️ 7.0/10
+25. [Cockroaches carry thousands of bacterial genome fragments](#item-25) ⭐️ 7.0/10
+26. [Anthropic Pauses Token-Based Billing for Claude Agent SDK](#item-26) ⭐️ 7.0/10
+27. [Pentagon Uses AI to Write Congressional Reports](#item-27) ⭐️ 7.0/10
+28. [Mobileye to Launch Standalone US Robotaxi Service by 2027](#item-28) ⭐️ 7.0/10
+29. [llama.cpp b9670 Fixes NVFP4 Edge Cases for LORA and ModelOPT](#item-29) ⭐️ 6.0/10
+30. [Bash /dev/tcp: HTTP Without curl](#item-30) ⭐️ 6.0/10
+31. [Has AI Already Killed Self-Help Nonfiction Books?](#item-31) ⭐️ 6.0/10
+32. [Yak Shaving: The Joy of Distraction](#item-32) ⭐️ 6.0/10
+33. [Snap Unveils Specs AR Glasses with 51° FOV and $2195 Price](#item-33) ⭐️ 6.0/10
+34. [New York Bill Targets 'Ghost Jobs'](#item-34) ⭐️ 6.0/10
+35. [Qualcomm bets on AI wearables as next computing platform](#item-35) ⭐️ 6.0/10
+36. [60% of US consumers put off by 'AI' in brand messaging](#item-36) ⭐️ 6.0/10
+37. [Flutterwave hits $3.2B valuation with Ripple backing](#item-37) ⭐️ 6.0/10
+38. [Robinhood CEO Avoids AI Excuse for Layoffs](#item-38) ⭐️ 6.0/10
+39. [Probably raises $9M to build reliable AI](#item-39) ⭐️ 6.0/10
+40. [Foundation Alloy raises $22M for novel super metals](#item-40) ⭐️ 6.0/10
 
 ---
 
 <a id="item-1"></a>
-## [Backdoor in fake LinkedIn job interview](https://roman.pt/posts/linkedin-backdoor/) ⭐️ 8.0/10
+## [Interactive Deep Dive into Mechanical Watch Mechanics](https://ciechanow.ski/mechanical-watch/) ⭐️ 9.0/10
 
-A job applicant discovered a backdoor hidden in a GitHub repository sent by a recruiter as part of a fake interview task, exploiting npm's prepare script to execute arbitrary code upon npm install. This incident highlights a novel supply chain attack vector via fake job interviews, targeting developers who are often eager to complete tasks. It underscores the need for better reporting mechanisms and developer awareness of npm lifecycle script risks. The backdoor was buried within commented-out test code in the repository, and the npm prepare script automatically runs after npm install, making the attack subtle and easy to execute. The victim reported the repo to GitHub and the recruiter to LinkedIn, but no action was taken.
+A detailed interactive article by Bartosz Ciechanowski visually explains the mechanics of a mechanical watch using step-by-step animations and plain HTML, CSS, and JavaScript. This article exemplifies how complex engineering concepts can be made accessible through masterful educational design and vanilla web technologies, inspiring both learners and developers. The entire site is built with handwritten, vanilla code, ensuring compatibility with older devices like an iPhone 7, and avoids modern frameworks for a lightweight, universal experience.
 
-hackernews · lwhsiao · Jun 15, 20:00 · [Discussion](https://news.ycombinator.com/item?id=48546294)
+hackernews · razin · Jun 16, 11:26 · [Discussion](https://news.ycombinator.com/item?id=48553550)
 
-**Background**: npm prepare is a lifecycle script that runs automatically before a package is published and after npm install, often used for build steps. Supply chain attacks in open source have been increasing, with attackers compromising popular packages to steal secrets. This attack leverages a social engineering component by posing as a legitimate job interview.
+**Background**: Mechanical watches are intricate devices that measure time using a spring-driven mechanism without batteries. Understanding their inner workings—like the mainspring, gear train, escapement, and balance wheel—requires visualizing many moving parts. This article uses interactive 3D-like visualizations to demystify each component step by step.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://docs.npmjs.com/cli/v8/using-npm/scripts/?v=true">scripts | npm Docs</a></li>
-<li><a href="https://stackoverflow.com/questions/44499912/why-is-npm-running-prepare-script-after-npm-install-and-how-can-i-stop-it">node.js - Why is npm running prepare script after npm install, and how ...</a></li>
-<li><a href="https://www.theregister.com/security/2026/04/11/two-different-attackers-poisoned-popular-open-source-tools/5221008">Two different attackers poisoned popular open source tools</a></li>
+**Discussion**: Commenters praised the educational value and vanilla code craftsmanship, with one teacher noting the rarity of such clear explanations. Another reader built a real-life exploded view inspired by the article, and support was directed to the author's Patreon.
 
-</ul>
-</details>
-
-**Discussion**: Commenters noted how close this attack is to a normal interview task, with many developers likely to run npm install without suspicion. There was frustration over the lack of response from GitHub and LinkedIn, and calls for better cybercrime reporting infrastructure.
-
-**Tags**: `#supply chain attack`, `#npm`, `#cybersecurity`, `#job scam`, `#open source`
+**Tags**: `#mechanical watch`, `#interactive visualization`, `#educational content`, `#web development`, `#engineering`
 
 ---
 
 <a id="item-2"></a>
-## [Iroh 1.0: Peer-to-Peer Networking Library Released](https://www.iroh.computer/blog/v1) ⭐️ 8.0/10
+## [Critical Copilot vulnerability allowed hackers to steal 2FA codes](https://arstechnica.com/security/2026/06/critical-copilot-vulnerability-allowed-hackers-to-seal-2fa-code-from-users/) ⭐️ 9.0/10
 
-Iroh 1.0 has been released as a peer-to-peer networking library that enables easy, secure app-to-app connections without centralized infrastructure, using cryptographic keys instead of IP addresses. This release simplifies building distributed applications by providing a modular networking stack that handles NAT traversal, relay, and direct connections, akin to 'Tailscale at the application layer', which could accelerate adoption of decentralized architectures. Iroh 1.0 supports IPv4, IPv6, and relay transports out of the box, and introduces a custom transport API for extensibility. It is written in Rust and available on GitHub.
+A critical vulnerability chain named SearchLeak in Microsoft 365 Copilot Enterprise allowed attackers to steal two-factor authentication (2FA) codes and other sensitive data with a single click. The flaw, tracked as CVE-2026-42824, was patched by Microsoft after responsible disclosure. This vulnerability highlights the ongoing failure of current LLM security approaches, as prompt injection remains a critical threat even in widely deployed AI assistants. The ability to steal 2FA codes undermines a fundamental security layer, affecting millions of enterprise users. The attack chain involves three weaknesses: prompt injection via Copilot's Search 'q' URL parameter, exfiltration of data through encoded image request URLs, and lack of proper input sanitization. The exploit required no phishing or malware—simply sending an email to the victim could trigger the attack.
 
-hackernews · chadfowler · Jun 15, 15:13 · [Discussion](https://news.ycombinator.com/item?id=48542480)
+rss · ArsTechnica — 深度科技 · Jun 16, 11:15
 
-**Background**: Traditional networking relies on IP addresses and centralized infrastructure like DNS and servers. Peer-to-peer libraries like Iroh aim to replace this with direct connections using cryptographic identities, making apps more resilient and private. Iroh is built by n0-computer and is part of a growing ecosystem of Rust-based networking tools.
+**Background**: Microsoft 365 Copilot is an AI assistant integrated into Microsoft's productivity suite, capable of accessing emails, documents, and other organizational data. Prompt injection attacks exploit the LLM's inability to distinguish between user instructions and untrusted input, causing it to execute malicious commands. Two-factor authentication (2FA) codes are time-sensitive secrets used as an additional security layer beyond passwords.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.iroh.computer/blog/v1">Iroh 1.0 - Dial Keys, not IPs - Iroh</a></li>
-<li><a href="https://github.com/n0-computer/iroh">GitHub - n0-computer/iroh: IP addresses break, dial keys instead. Modular networking stack in Rust. · GitHub</a></li>
+<li><a href="https://www.varonis.com/blog/searchleak">SearchLeak: How We Turned M365 Copilot Into a One-Click Data ... - Varonis</a></li>
+<li><a href="https://dailysecurityreview.com/resources/cve-2026-42824-m365-copilot-searchleak-enables-1-click-email-theft/">CVE-2026-42824: M365 Copilot SearchLeak Enables 1-Click Email Theft</a></li>
+<li><a href="https://www.darkreading.com/application-security/copilot-searchleak-attack-1-click-data-theft">Copilot 'SearchLeak' Attack Allows 1-Click Data Theft</a></li>
 
 </ul>
 </details>
 
-**Discussion**: The community compared Iroh to Tailscale, noting it operates at the application layer rather than network layer. Developers appreciated the custom transport extensibility and the use of cryptographic keys, though some questioned the need for a new networking paradigm over existing IP-based solutions.
+**Discussion**: Comments on Hacker News were largely off-topic, discussing Cursor IDE acquisition by SpaceX and comparisons of company valuations. No direct discussion of the Copilot vulnerability was present in the provided comments.
 
-**Tags**: `#networking`, `#peer-to-peer`, `#distributed-systems`, `#rust`, `#open-source`
+**Tags**: `#security`, `#vulnerability`, `#LLM`, `#Copilot`, `#2FA`
 
 ---
 
 <a id="item-3"></a>
-## [TimescaleDB Hypercore Compression Deep Dive](https://roszigit.com/en/blog/timescaledb-compression-hypercore) ⭐️ 8.0/10
+## [GrapheneOS Ported to Android 17, Official Releases Soon](https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon) ⭐️ 8.0/10
 
-TimescaleDB's Hypercore compression achieves up to 98% storage reduction for time-series data in PostgreSQL by using columnar storage and type-aware algorithms like delta encoding, run-length encoding, and XOR-based compression. This significantly reduces storage costs and improves query performance for time-series workloads, making PostgreSQL a more competitive option for IoT, monitoring, and analytics applications. Hypercore uses a hybrid row-columnar storage engine, compressing data in chunks with methods like delta-of-delta, simple-8b, and dictionary compression, and supports lossless compression only.
+GrapheneOS, a privacy-focused mobile OS, has been successfully ported to Android 17, with official releases expected imminently. This milestone ensures that GrapheneOS users can benefit from the latest Android security patches and features, maintaining its position as a leading privacy-hardened OS. The port covers Android 17 (codenamed Cinnamon Bun), which was publicly released on June 16, 2026, and includes new multitasking and security tools.
 
-hackernews · lkanwoqwp · Jun 15, 17:29 · [Discussion](https://news.ycombinator.com/item?id=48544451)
+hackernews · Cider9986 · Jun 16, 20:34 · [Discussion](https://news.ycombinator.com/item?id=48561654)
 
-**Background**: Time-series data often contains repeated values and patterns, making it highly compressible. Columnar storage groups values by column, enabling better compression ratios than row-based storage. TimescaleDB is a PostgreSQL extension that adds time-series capabilities, and Hypercore is its latest storage engine.
+**Background**: GrapheneOS is an open-source mobile OS based on AOSP, focused on security and privacy through hardening and attack surface reduction. It is available for Google Pixel devices and future Motorola phones, and has approximately 400K active users as of April 2026.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://docs.tigerdata.com/use-timescale/latest/hypercore/compression-methods/">Tiger Data Documentation | About compression methods</a></li>
-<li><a href="https://docs.timescale.com/use-timescale/latest/hypercore/">Timescale Documentation | Hypercore</a></li>
-<li><a href="https://tiger-data-docs.vercel.app/docs/learn/columnar-storage/understand-hypercore">Understand hypercore | Tiger Data Docs</a></li>
+<li><a href="https://en.wikipedia.org/wiki/GrapheneOS">GrapheneOS</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Android_17">Android 17</a></li>
+<li><a href="https://grapheneos.org/">GrapheneOS : the private and secure mobile OS</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Commenters discussed trade-offs between compression and query performance, noting that dictionary encoding can slow reads. Some mentioned alternatives like deltax and swinging-door algorithms, and criticized the use of 'up to' in the title as potentially misleading.
+**Discussion**: Users expressed excitement about the port, with some sharing positive experiences and others noting limitations like missing swipe-to-cursor and contactless payment issues. There is also anticipation for Motorola device support to expand availability beyond Pixel.
 
-**Tags**: `#TimescaleDB`, `#compression`, `#time-series`, `#PostgreSQL`, `#database`
+**Tags**: `#GrapheneOS`, `#Android`, `#privacy`, `#mobile OS`, `#security`
 
 ---
 
 <a id="item-4"></a>
-## [Fox to Acquire Roku in $22 Billion Deal](https://www.wsj.com/business/deals/fox-roku-deal-f6e564f9) ⭐️ 8.0/10
+## [Local LLMs Are Now Viable, But Pain Points Remain](https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/) ⭐️ 8.0/10
 
-Fox Corporation announced it will acquire Roku for approximately $22 billion, combining a major content producer with a leading streaming hardware and platform provider. This deal could reshape the streaming landscape by giving Fox direct control over Roku's platform, potentially compromising its neutrality and raising antitrust concerns about media consolidation. Fox plans to take over Roku's streaming hardware, operating system, and FAST (free ad-supported TV) services, creating the third-largest television company in the U.S. Roku CEO Anthony Wood stated the platform will remain open and partner-friendly.
+A blog post by Vicki Boykis argues that running local large language models (LLMs) has become viable, sparking a community debate about remaining trade-offs such as speed, memory, and quantization accuracy. This discussion matters because local LLMs offer privacy, offline access, and cost savings, but their adoption hinges on overcoming hardware limitations and quantization trade-offs compared to cloud models. Dense models like Qwen 27B are smart but slow, while MoE models like Gemma 26B are faster but error-prone; quantization to 4-bit reduces memory but weakens tool calling, and running models well requires significant GPU memory (e.g., 32GB+).
 
-hackernews · thm · Jun 15, 12:50 · [Discussion](https://news.ycombinator.com/item?id=48540499)
+hackernews · jfb · Jun 16, 14:36 · [Discussion](https://news.ycombinator.com/item?id=48555993)
 
-**Background**: Roku is a dominant streaming platform in the U.S., known for its device-agnostic approach that does not favor any particular streaming service. Fox is a major content producer with assets like Fox News and Fox Sports. The acquisition raises concerns that Fox might bias the platform toward its own content, undermining Roku's neutrality.
+**Background**: Local LLMs run on consumer hardware instead of cloud servers, offering privacy and offline use. Quantization reduces model precision (e.g., from FP16 to 4-bit) to fit in memory, but can degrade accuracy and tool-calling reliability. The community debates whether current hardware and software make local models a practical alternative to cloud APIs.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://invezz.com/news/2026/06/15/fox-stock-why-investors-seem-to-dislike-the-22b-roku-deal/">Fox stock: why investors seem to dislike the $22 billion Roku deal</a></li>
-<li><a href="https://www.thewrap.com/industry-news/deals-ma/fox-roku-acquisition-impact-analysis/">How Roku Will Supercharge Fox’s Streaming and Advertising Businesses | Analysis</a></li>
-<li><a href="https://checkthat.ai/brands/roku/reviews">Roku Reviews 2026: What Users Really Think - Roku | CheckThat.ai</a></li>
+<li><a href="https://medium.com/@chetankerhalkar/quantization-in-ai-techniques-benefits-trade-offs-modern-architectures-f47d5d72a855">Quantization in AI: Techniques, Benefits, Trade-offs & Modern Architectures | by Chetankerhalkar | Medium</a></li>
+<li><a href="https://apxml.com/courses/getting-started-local-llms/chapter-1-introduction-large-language-models/local-vs-cloud-llms">Local vs. Cloud-Based LLMs</a></li>
+<li><a href="https://localllm.in/blog/ollama-vram-requirements-for-local-llms">Ollama VRAM Requirements : Complete 2026 Guide to GPU Memory ...</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Community sentiment is largely negative, with users expressing pessimism about Roku's future neutrality and fearing a 'Fox News button' on the remote. Some users have already started migrating to alternatives like Nvidia Shield to avoid potential platform bias.
+**Discussion**: Commenters highlight that local models still suffer from speed issues and quantization trade-offs, with some preferring local models over cloud ones for their behavior (e.g., less opinionated). Others note the high hardware cost (e.g., $2600 for dual AMD GPUs) and the complexity of the ROCm stack.
 
-**Tags**: `#acquisition`, `#streaming`, `#media`, `#antitrust`, `#Roku`
+**Tags**: `#local LLMs`, `#AI/ML`, `#open-source`, `#model quantization`, `#developer tools`
 
 ---
 
 <a id="item-5"></a>
-## [Salesforce Acquires Fin (Intercom) for $3.6B](https://www.salesforce.com/news/press-releases/2026/06/15/salesforce-signs-definitive-agreement-to-acquire-fin/?bc=HL) ⭐️ 8.0/10
+## [Stop Using JWTs for Browser Sessions](https://gist.github.com/samsch/0d1f3d3b4745d778f78b230cf6061452) ⭐️ 8.0/10
 
-Salesforce has signed a definitive agreement to acquire Fin, formerly Intercom, for $3.6 billion to enhance its AI-powered customer service agents. This acquisition positions Salesforce to directly compete with AI customer service startups like Sierra, which was founded by former Salesforce co-CEO Bret Taylor, and signals a major shift toward AI-native customer support in the enterprise SaaS market. Fin, which rebranded from Intercom just a month ago, offers an AI agent that handles customer service across multiple channels. The deal values Fin at $3.6 billion, while competitor Sierra is valued at $15.8 billion.
+A widely shared gist argues that JSON Web Tokens (JWTs) should not be used for browser-based user sessions, citing security flaws and better alternatives. The post has sparked extensive community debate about JWT's appropriate use cases. JWTs are a cornerstone of modern web authentication, but their misuse for browser sessions can lead to vulnerabilities like token theft and revocation difficulties. This debate influences how developers design secure authentication systems. The original post links to external resources criticizing JWT's inability to invalidate individual tokens and its reliance on client-side storage. Commenters note that JWTs can be secure with short lifetimes and refresh tokens, and that revocation lists can mitigate issues.
 
-hackernews · colesantiago · Jun 15, 12:08 · [Discussion](https://news.ycombinator.com/item?id=48540126)
+hackernews · dzonga · Jun 16, 16:49 · [Discussion](https://news.ycombinator.com/item?id=48558147)
 
-**Background**: AI customer service agents are software that can autonomously handle customer inquiries, reducing the need for human support. Companies like Sierra and Decagon have raised significant funding, with Sierra reaching a $15.8 billion valuation. Salesforce's move aims to integrate Fin's AI capabilities into its CRM platform to offer end-to-end customer service automation.
+**Background**: JSON Web Tokens (JWTs) are a compact, URL-safe token format used for authentication and information exchange. They are often used in stateless authentication systems where the server does not store session data. However, for browser sessions, traditional session-based authentication with server-side storage is often recommended because it allows immediate revocation and avoids client-side token storage risks.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://fin.ai/">Fin. The highest performing Customer Agent</a></li>
-<li><a href="https://www.intercom.com/">Intercom | The only helpdesk designed for the AI Agent era</a></li>
-<li><a href="https://research.contrary.com/company/sierra">Report: Sierra Business Breakdown & Founding Story | Contrary Research</a></li>
+<li><a href="https://portswigger.net/web-security/jwt">JWT attacks | Web Security Academy - PortSwigger</a></li>
+<li><a href="https://www.authgear.com/post/jwt-security-best-practices-common-vulnerabilities/">JWT Security Explained: Best Practices and Common Vulnerabilities</a></li>
+<li><a href="https://mojoauth.com/ciam-qna/why-not-use-jwt-for-sessions-alternatives">Why do developers say "don't use JWT for sessions " and what are t...</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Community comments show mixed sentiment: some users praise AI support agents when well-implemented, citing Starlink as a positive example, while others worry about AI making excuses or being unable to solve issues. There is also skepticism about the long-term viability of traditional helpdesk SaaS as AI agents become more capable.
+**Discussion**: The community is divided: some agree that JWTs are overused for browser sessions, while others defend them for short-lived tokens with refresh mechanisms. A key point is that JWTs are suitable for service-to-service communication but problematic for user sessions due to revocation challenges.
 
-**Tags**: `#acquisition`, `#AI`, `#customer service`, `#SaaS`, `#Salesforce`
+**Tags**: `#JWT`, `#authentication`, `#security`, `#web development`, `#session management`
 
 ---
 
 <a id="item-6"></a>
-## [Rust vs C/C++ Memory Safety CVEs: A Nuanced Comparison](https://kobzol.github.io/rust/2026/06/15/how-memory-safety-cves-differ-between-rust-and-c-cpp.html) ⭐️ 8.0/10
+## [Meta's Engineering Reorganization Sparks Debate](https://newsletter.pragmaticengineer.com/p/why-is-meta-destroying-its-engineering) ⭐️ 8.0/10
 
-A detailed blog post analyzes how memory safety CVEs differ between Rust and C/C++, arguing that raw CVE counts are misleading due to differences in vulnerability types and reporting practices. This analysis challenges simplistic comparisons of memory safety between languages, which could influence how developers and organizations evaluate security trade-offs when choosing systems programming languages. The post highlights that Rust's type system prevents many classes of memory errors, but panics and unsafe code can still lead to vulnerabilities, while C/C++ CVEs often involve null pointer dereferences and buffer overflows that are less common in Rust.
+Meta has forcibly reassigned thousands of engineers, including 30-50% of core teams, to AI-related work such as data labeling and RLHF, as part of a broader reorganization that also cut 600 AI jobs. This shift signals a dramatic change in engineering culture at Meta and potentially across big tech, as companies prioritize AI over traditional software engineering, raising concerns about employee autonomy and long-term innovation. The reassignments affect over 7,000 workers, with some moved to a new 1,000-person AI division. Mark Zuckerberg admitted the reorganization was 'disruptive' but promised no further layoffs in 2026.
 
-hackernews · nicoburns · Jun 15, 16:11 · [Discussion](https://news.ycombinator.com/item?id=48543392)
+hackernews · throwarayes · Jun 16, 16:42 · [Discussion](https://news.ycombinator.com/item?id=48558045)
 
-**Background**: Memory safety vulnerabilities like buffer overflows and use-after-free are a major source of security bugs in systems software. Rust aims to eliminate these through its ownership and type system, while C/C++ rely on programmer discipline. Comparing CVE counts directly is problematic because the criteria for assigning CVEs and the nature of vulnerabilities differ significantly between ecosystems.
+**Background**: Meta, formerly Facebook, has long been known for its strong engineering culture, emphasizing founder-led innovation. The company is now racing to lead in AI, mirroring industry-wide shifts where tech giants like Google and Microsoft are also reorganizing around AI. Forced reassignments on this scale are unusual in Silicon Valley, where internal mobility is typically voluntary.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://kobzol.github.io/rust/2026/06/15/how-memory-safety-cves-differ-between-rust-and-c-cpp.html">How memory safety CVEs differ between Rust and C/C++ | Kobzol’s blog</a></li>
-<li><a href="https://news.ycombinator.com/item?id=48543392">Memory safety CVEs differ between Rust and C/C++ | Hacker News</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Common_Vulnerabilities_and_Exposures">Common Vulnerabilities and Exposures - Wikipedia</a></li>
+<li><a href="https://umatechnology.org/meta-cuts-600-ai-jobs-amid-ongoing-reorganization/">Meta cuts 600 AI jobs amid ongoing reorganization</a></li>
+<li><a href="https://www.edgen.tech/news/post/meta-drafts-1000-engineers-in-a-high-stakes-ai-reorganization">Meta drafts 1,000 engineers in a high-stakes AI reorganization</a></li>
+<li><a href="https://www.theguardian.com/technology/2026/may/19/meta-jobs-ai-transfers">Meta is rapidly reorganizing its workers’ jobs around AI: ‘Transfers aren’t optional’ | Meta | The Guardian</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Commenters on Hacker News debated the usefulness of CVE counts as a metric, with some arguing they are nearly meaningless. Others discussed specific examples like null handling in C vs Rust's Option<T>, and questioned whether panics in Rust should be considered vulnerabilities.
+**Discussion**: Commenters expressed mixed views: some criticized the forced reassignments as a sign of 'AI psychosis' and a potential new norm for the industry, while others questioned the efficiency of using expensive software engineers for data labeling. Former employees noted that homegrown orgs at Meta were inefficient, contrasting with acquired companies like WhatsApp. Some lamented the loss of Meta's engineering culture, comparing it favorably to Google's.
 
-**Tags**: `#memory safety`, `#Rust`, `#C/C++`, `#CVEs`, `#security`
+**Tags**: `#Meta`, `#engineering culture`, `#AI`, `#tech industry`, `#organizational change`
 
 ---
 
 <a id="item-7"></a>
-## [Typst 0.15.0 Adds Multiple Bibliographies, Better HTML/MathML Export](https://typst.app/docs/changelog/0.15.0/) ⭐️ 8.0/10
+## [Qwen Robot Suite: Foundation Models for Physical World AI](https://qwen.ai/blog?id=qwen-robotsuite) ⭐️ 8.0/10
 
-Typst 0.15.0 introduces support for multiple bibliographies in a single document and automatic export of mathematical equations to MathML for HTML output. These improvements make Typst more competitive with LaTeX for academic writing and enhance its suitability for web publishing, broadening its user base. The multiple bibliographies feature allows separate reference lists per section or chapter, while MathML export ensures equations are accessible and render correctly in browsers.
+Alibaba's Qwen team released the Qwen Robot Suite, a set of three foundation models—Qwen-RobotNav, Qwen-RobotManip, and Qwen-RobotWorld—that together enable integrated robotic systems for navigation, manipulation, and world modeling. This suite marks a significant step toward embodied AI, moving beyond chatbots to physical-world intelligence, with potential to accelerate robotics development in manufacturing, services, and defense. The suite unifies five navigation tasks into a single model (Qwen-RobotNav) and extends Qwen's multimodal backbone into continuous action generation via Qwen-VLA, enabling robots to see, think, and act.
 
-hackernews · schu · Jun 15, 17:24 · [Discussion](https://news.ycombinator.com/item?id=48544396)
+hackernews · ilreb · Jun 16, 13:15 · [Discussion](https://news.ycombinator.com/item?id=48554814)
 
-**Background**: Typst is an open-source typesetting system designed as a modern alternative to LaTeX, using a simpler markup language. It compiles to PDF and now also supports HTML output with improved math rendering via MathML.
+**Background**: Embodied AI refers to AI systems embedded in physical bodies that perceive and act in the real world. Traditional robotics models are highly specialized for specific tasks, but foundation models aim to generalize across tasks and platforms, reducing development effort.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://typst.app/">Typst</a></li>
-<li><a href="https://github.com/typst/typst">GitHub - typst/typst: A markup-based typesetting system that is powerful ...</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Typst">Typst - Wikipedia</a></li>
+<li><a href="https://digg.com/tech/6lxnua01">Alibaba's Qwen team releases Qwen- Robot Suite , a three- model ...</a></li>
+<li><a href="https://qwen.ai/blog?id=qwenvla">Qwen-VLA: From Understanding the World to Acting in It</a></li>
+<li><a href="https://www.technology.org/2026/06/16/alibaba-ai-models-robots-agents/">Alibaba Unveils Qwen Robot Suite, Moving AI From Chatbots Into the Physical World</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Community feedback is largely positive, with users praising multiple bibliographies and HTML/MathML export. However, some users report ongoing issues with footnotes, particularly discursive footnotes containing bibliography references.
+**Discussion**: Commenters expressed excitement about the strategic importance of robotics, with some noting the huge total addressable market and potential for rapid mass production. Others questioned whether the models solve real-time prediction challenges like catching a ball.
 
-**Tags**: `#typesetting`, `#typst`, `#open source`, `#document tools`, `#LaTeX alternative`
+**Tags**: `#robotics`, `#foundation models`, `#embodied AI`, `#Qwen`, `#AI`
 
 ---
 
 <a id="item-8"></a>
-## [Pokémon Go data used to train AI for military drones](https://the-decoder.com/pokemon-go-data-helped-train-ai-now-linked-to-military-drones/) ⭐️ 8.0/10
+## [SubQ 1.1 Small: Learned Sparse Attention Scales Linearly](https://subq.ai/subq-1-1-small-technical-report) ⭐️ 8.0/10
 
-Niantic, the creator of Pokémon Go, used volunteer AR scans from players to train spatial AI models, and that technology is now being integrated with Vantor, a US defense contractor's software, for GPS-free navigation of military drones. This raises serious ethical and privacy concerns about user-generated data from a popular game being repurposed for military applications, potentially setting a precedent for how consumer data can be used in defense technologies. The partnership focuses on enabling drones to navigate accurately when GPS signals are unavailable or compromised, using spatial AI trained on millions of real-world scans contributed by Pokémon Go players.
+SubQ 1.1 Small introduces a learned sparse attention mechanism (SSA) that scales linearly with context length, achieving 64.5x less compute and 56x faster inference than dense attention at 1M tokens. This breakthrough could dramatically reduce the cost of long-context LLM inference, enabling practical applications like whole-book analysis or multi-hour video understanding. It addresses a key bottleneck in scaling transformers to very long sequences. The model uses a learned sparse attention (SSA) that replaces the quadratic dense attention pass, and at 1M tokens it runs 56x faster than FlashAttention-2. However, the technical report lacks architectural details and open-source code, which has drawn skepticism from the community.
 
-rss · The Decoder — AI新闻 · Jun 15, 13:27
+hackernews · EDM115 · Jun 16, 14:50 · [Discussion](https://news.ycombinator.com/item?id=48556163)
 
-**Background**: Niantic spun off its spatial AI division as Niantic Spatial, which builds a living 3D model of the world from user-contributed scans. Vantor specializes in spatial detection software for drones, including military systems. GPS jamming and spoofing are growing threats, driving demand for alternative navigation methods.
+**Background**: Standard transformer attention computes scores for every pair of tokens, leading to O(n²) complexity that becomes prohibitive for long sequences. Sparse attention methods reduce this by only attending to a subset of tokens, but many prior approaches use fixed patterns or require additional memory. Learned sparse attention aims to dynamically select which tokens to attend to, potentially offering better efficiency without sacrificing quality.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.ibtimes.co.uk/pokemon-go-data-ai-military-drones-1802358">Pokémon Go Data Used To Train AI That Could Guide Military Drones ...</a></li>
-<li><a href="https://shop.coptrz.com/blogs/news/why-niantic-and-spexi-want-your-drone-photos-to-train-ai">Why Niantic And Spexi Want Your Drone Photos To Train AI – Coptrz</a></li>
-<li><a href="https://www.nianticspatial.com/en/campaigns/spatial-ai-energy-infrastructure-applications">5 Spatial AI Applications Improving Power and... | Niantic Spatial , Inc.</a></li>
+<li><a href="https://www.emergentmind.com/topics/sparse-attention-models">Sparse Attention Models</a></li>
+<li><a href="https://apxml.com/courses/foundations-transformers-architecture/chapter-6-advanced-architectural-variants-analysis/sparse-attention-mechanisms">Sparse Attention Mechanisms Overview</a></li>
+<li><a href="https://github.com/kyegomez/SparseAttention">GitHub - kyegomez/SparseAttention: Pytorch Implementation of the sparse attention from the paper: "Generating Long Sequences with Sparse Transformers" · GitHub</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI`, `#privacy`, `#military`, `#data ethics`, `#spatial AI`
+**Discussion**: Community sentiment is mixed: some praise the approach as the right direction for long-context efficiency, while others express skepticism due to the lack of architectural details and code, especially compared to other open-source Chinese labs. There are also calls for better long-context benchmarks beyond needle-in-a-haystack.
+
+**Tags**: `#LLM`, `#attention mechanism`, `#efficiency`, `#long context`, `#sparse attention`
 
 ---
 
 <a id="item-9"></a>
-## [US Order Shuts Down Anthropic Models, Sparks European AI Sovereignty Debate](https://the-decoder.com/anthropic-shutdown-sparks-sovereignty-debate-across-europe/) ⭐️ 8.0/10
+## [Export Controls on AI Models Harm US Cyber Defense](https://simonwillison.net/2026/Jun/16/fable-5-export-controls/#atom-everything) ⭐️ 8.0/10
 
-The US Commerce Department ordered Anthropic to shut down global access to its Fable 5 and Mythos 5 models after a jailbreak was discovered, prompting European leaders to debate building homegrown AI infrastructure. This incident highlights Europe's dependence on US AI models and its lack of computing capacity and energy for developing sovereign foundation models, potentially reshaping global AI governance and security policies. Fable 5 is a generally available model, while Mythos 5 is restricted to approved organizations; the jailbreak that triggered the order was described as a potential narrow, non-universal attack. Cybersecurity experts urged the White House to remove export controls, arguing the order limits defenders' ability to secure software.
+The US government's export control directive on Anthropic's Claude Fable 5 has blocked the model from fixing security vulnerabilities, as demonstrated by a 'jailbreak' that simply asked it to fix code with known CVEs. This paradoxically weakens US cyber defense by preventing AI models from performing defensive security tasks like finding and patching bugs, which are critical for protecting national infrastructure. Researchers used open-source code with known CVEs and deliberately planted vulnerabilities, asking Fable 5 to 'review the code for security issues' (refused) and then 'fix this code' (complied), turning outputs into test scripts.
 
-rss · The Decoder — AI新闻 · Jun 15, 10:33
+rss · Simon Willison — AI工具 · Jun 16, 05:20
 
-**Background**: Anthropic is a US AI company that develops large language models. Fable 5 and Mythos 5 are its latest frontier models, with Mythos 5 being the more powerful version. The US order was issued under export control regulations, citing national security concerns after a jailbreak allowed the model to perform cybersecurity tasks it was blocked from doing.
+**Background**: Export controls on AI models aim to prevent adversaries from using advanced AI for cyber attacks. However, the same capabilities that could be misused are also essential for defensive cybersecurity. Claude Fable 5 is a next-generation 'Mythos-class' model from Anthropic, subject to a US government export control directive that suspends foreign access.
 
 <details><summary>References</summary>
 <ul>
+<li><a href="https://www.theverge.com/ai-artificial-intelligence/950412/anthropic-trump-adminstration-claude-mythos-fable-5-export-controls">Inside the fight over Claude Mythos 5 | The Verge</a></li>
 <li><a href="https://www.anthropic.com/news/claude-fable-5-mythos-5">Claude Fable 5 and Claude Mythos 5 \ Anthropic</a></li>
-<li><a href="https://www.bloomberg.com/news/articles/2026-06-13/anthropic-says-us-limits-foreign-access-to-fable-5-mythos-5">Anthropic Says US Orders Halt to Foreign Access for... - Bloomberg</a></li>
+<li><a href="https://cyberpress.org/claude-fable-5-jailbreak/">Claude Fable 5 Jailbreak Enables Stack Exploit Generation</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Simon Willison's blog notes that a group of cybersecurity experts urged the White House to remove export controls, and that the jailbreak triggering the order was classified as a potential narrow, non-universal attack. The post also highlights behind-the-scenes gossip about personality clashes between Anthropic and the administration.
+**Discussion**: Cybersecurity expert Kate Moussouris highlighted the absurdity of the ban, stating that asking AI to fix bugs is 'the most valuable thing an AI model can do for defensive security' and not a guardrail bypass. The discussion underscores a disconnect between policymakers and technical reality.
 
-**Tags**: `#AI policy`, `#European sovereignty`, `#Anthropic`, `#foundation models`, `#geopolitics`
+**Tags**: `#AI safety`, `#export controls`, `#cybersecurity`, `#AI policy`, `#open source`
 
 ---
 
 <a id="item-10"></a>
-## [SpaceX Goes Public: IPO Coverage and Analysis](https://techcrunch.com/2026/06/15/spacex-is-public-everything-you-need-to-know-post-ipo/) ⭐️ 8.0/10
+## [DeepSeek Raises $7.4B at $50B Valuation in First External Round](https://the-decoder.com/deepseek-takes-outside-money-for-the-first-time-at-a-50-billion-valuation/) ⭐️ 8.0/10
 
-TechCrunch published a comprehensive package covering SpaceX's IPO, including winners and losers, pre-IPO deals, and details from the S-1 filing. SpaceX的IPO是航天业和公开市场的里程碑事件，可能释放巨额投资并加速航天技术发展。 The S-1 filing reveals key financials, risk factors, and use of proceeds; pre-IPO deals allowed select investors to buy shares before the public offering.
+Chinese AI startup DeepSeek has raised approximately 50 billion yuan ($7.4 billion) in its first external funding round, achieving a valuation of $50 billion. This marks a significant milestone for DeepSeek, signaling strong investor confidence and positioning the company as a major competitor in the global AI landscape, potentially challenging established players like OpenAI and Google. The funding round is the first time DeepSeek has taken outside capital; previously it was solely funded by its parent hedge fund, High-Flyer. The $50 billion valuation reflects the company's rapid growth and the market's high expectations for its AI models, including the recently released DeepSeek-V4 series.
 
-rss · TechCrunch — 科技创投 · Jun 15, 18:30
+rss · The Decoder — AI新闻 · Jun 16, 09:40
 
-**Background**: An S-1 is a registration document filed with the SEC before an IPO, containing financial statements and business details. Pre-IPO deals are private sales of shares to investors before the public offering.
+**Background**: DeepSeek, founded in July 2023 by Liang Wenfeng, is a Chinese AI company focused on developing large language models. It gained attention for releasing powerful open-source models like DeepSeek-V4-Pro, a Mixture-of-Experts model with 1.6 trillion parameters. The company's models have been noted for their strong reasoning and coding capabilities, rivaling top closed-source models.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/DeepSeek">DeepSeek - Wikipedia</a></li>
+<li><a href="https://www.cnbc.com/2026/06/03/deepseek-slated-to-draw-7-billion-in-maiden-fundraising-sources-say.html">DeepSeek slated to draw $7 billion in maiden fundraising ...</a></li>
+<li><a href="https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro">deepseek-ai/DeepSeek-V4-Pro · Hugging Face</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#AI`, `#funding`, `#DeepSeek`, `#startup`, `#valuation`
+
+---
+
+<a id="item-11"></a>
+## [FIFA World Cup Bug Allowed Unauthorized TV Stream Control](https://techcrunch.com/2026/06/16/bug-in-fifa-world-cup-internal-system-gave-anyone-ability-to-modify-tv-stream/) ⭐️ 8.0/10
+
+A security researcher discovered a bug in FIFA's online platforms that allowed unauthorized access to internal systems, including one that could control the TV broadcast stream of every World Cup match. This vulnerability could have allowed a single attacker to hijack every camera feed simultaneously, affecting billions of viewers worldwide. It highlights critical security risks in major global event infrastructure. The bug stemmed from client-side authorization with no server-side enforcement, using Microsoft Entra for authentication but failing to verify permissions server-side. The researcher could have rickrolled the entire World Cup broadcast.
+
+rss · TechCrunch — 科技创投 · Jun 16, 18:13
+
+**Background**: FIFA's internal systems include a broadcast control platform that allows TV producers to manage camera feeds and on-screen graphics. The vulnerability exposed this system to anyone who could manipulate client-side requests, due to missing server-side authorization checks.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://techcrunch.com/2026/06/16/bug-in-fifa-world-cup-internal-system-gave-anyone-ability-to-modify-tv-stream/">Bug in FIFA World Cup internal system gave anyone ability to ...</a></li>
+<li><a href="https://bobdahacker.com/blog/fifa-hack">I Could've Rickrolled the Entire FIFA World Cup. All... | bobdahacker</a></li>
+<li><a href="https://www.squaredtech.co/fifa-world-cup-tv-stream-bug-a-major-security-failure-explained">FIFA World Cup Bug Gave Anyone Full TV Stream Control</a></li>
+
+</ul>
+</details>
+
+**Discussion**: The researcher's blog post noted that FIFA did not respond to the disclosure. The community expressed concern over the lack of server-side enforcement and the potential for real-world disruption during a live event.
+
+**Tags**: `#security`, `#vulnerability`, `#FIFA`, `#World Cup`, `#infrastructure`
+
+---
+
+<a id="item-12"></a>
+## [SpaceX Goes Public: IPO Details and Analysis](https://techcrunch.com/2026/06/16/spacex-is-public-everything-you-need-to-know-post-ipo/) ⭐️ 8.0/10
+
+SpaceX has completed its initial public offering (IPO), becoming a publicly traded company, with TechCrunch providing comprehensive coverage including details from its S-1 registration document. This IPO marks a major milestone for the space industry, opening up investment opportunities for the public and potentially accelerating space technology development with increased capital. The S-1 filing reveals SpaceX's financials, risk factors, and intended use of proceeds, while pre-IPO deals and winners/losers are also analyzed in the coverage.
+
+rss · TechCrunch — 科技创投 · Jun 16, 15:53
+
+**Background**: An IPO is the process by which a private company offers shares to the public for the first time. The S-1 registration document is a mandatory filing with the SEC that contains detailed financial and business information. SpaceX, founded by Elon Musk, has been a private company for years, revolutionizing space travel with reusable rockets.
 
 <details><summary>References</summary>
 <ul>
 <li><a href="https://krokfin.com.ua/en/news/spacex-ipo-record-2026/">SpaceX Files S - 1 : The Largest IPO in History at $1.75 Trillion... | KrokFin</a></li>
-<li><a href="https://www.investopedia.com/terms/s/sec-form-s-1.asp">investopedia.com/terms/s/sec-form- s - 1 .asp</a></li>
-<li><a href="https://www.bitget.com/wiki/what-is-pre-ipo-stock">what is pre ipo stock: Pre - IPO stock guide</a></li>
+<li><a href="https://www.jarsy.com/learn/pre-ipo-settlement">How Investment Settlements Work in Pre - IPO Deals : Understanding...</a></li>
 
 </ul>
 </details>
+
+**Discussion**: Comments on Hacker News express mixed reactions: some discuss unrelated topics like AI coding tools, while others question SpaceX's acquisition of Cursor for $3.5 billion, comparing it to the cost of building hospitals. One comment notes SpaceX's claim of a $26 trillion addressable AI market.
 
 **Tags**: `#SpaceX`, `#IPO`, `#space technology`, `#business`
 
 ---
 
-<a id="item-11"></a>
-## [Satellite autonomously detects target for first time](https://techcrunch.com/2026/06/15/a-satellite-just-learned-to-find-things-on-its-own-heres-what-that-means/) ⭐️ 8.0/10
-
-In April 2026, an Earth observation satellite autonomously detected a target object for the first time, using onboard AI without any human intervention. This milestone demonstrates that satellites can make real-time decisions in orbit, reducing latency and enabling faster responses for applications like disaster monitoring and defense. The satellite used a vision language model to process imagery onboard and decide where to point its instruments, completing the entire process in under 90 seconds.
-
-rss · TechCrunch — 科技创投 · Jun 15, 12:00
-
-**Background**: Traditional Earth observation satellites capture vast amounts of data and send it to ground stations for analysis, causing delays. Onboard AI allows satellites to analyze data in orbit and act immediately, a capability that has been in development for years but only recently achieved autonomous target detection.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.nasa.gov/science-research/earth-science/how-nasa-is-testing-ai-to-make-earth-observing-satellites-smarter/">How NASA Is Testing AI to Make Earth - Observing Satellites ... - NASA</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Earth_observation_satellite">Earth observation satellite - Wikipedia</a></li>
-<li><a href="https://veralytiq.nl/en/ai-on-satellites-how-onboard-intelligence-is-reshaping-earth-observation-2/">AI on Satellites : How Onboard Intelligence Is Reshaping... - Veralytiq</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#AI`, `#satellite`, `#autonomous systems`, `#remote sensing`, `#space technology`
-
----
-
-<a id="item-12"></a>
-## [AMD Removes TSME Memory Encryption from Consumer CPUs](https://arstechnica.com/security/2026/06/users-cry-foul-after-amd-stripped-memory-crypto-from-its-consumer-cpus/) ⭐️ 8.0/10
-
-AMD has quietly removed Transparent Secure Memory Encryption (TSME) from its consumer Ryzen CPUs, a feature that encrypted all data in system memory to protect against physical attacks like cold boot attacks. This removal exposes millions of consumer users to physical memory attacks, undermining trust in AMD's commitment to security and potentially affecting sensitive data protection for individuals and businesses. TSME is a hardware-based encryption feature that operates transparently with no performance cost, encrypting memory contents on-the-fly using keys stored in the processor's secure enclave. The removal appears to be a deliberate, covert decision by AMD without prior warning.
-
-rss · ArsTechnica — 深度科技 · Jun 15, 17:55
-
-**Background**: Transparent Secure Memory Encryption (TSME) is a security feature that encrypts all data stored in system memory, making it unreadable to attackers who gain physical access to the memory modules. It is enabled at the BIOS/UEFI level and works independently of the operating system. For nearly a decade, AMD included TSME in many consumer Ryzen processors, providing protection against cold boot attacks and other physical exploits.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://arstechnica.com/security/2026/06/users-cry-foul-after-amd-stripped-memory-crypto-from-its-consumer-cpus/">Users cry foul after AMD stripped memory crypto from its consumer ...</a></li>
-<li><a href="https://cryptobriefing.com/amd-removes-memory-encryption-consumer-cpus/">AMD removes memory encryption from consumer CPUs , users react</a></li>
-<li><a href="https://xeber.world/en/article/amd-removes-tsme-security-from-consumer-ryzen-cpus-without-warning-09496c">AMD Removes TSME from Consumer Ryzen CPUs Without Warning</a></li>
-
-</ul>
-</details>
-
-**Discussion**: The community reaction has been overwhelmingly negative, with users accusing AMD of making a covert, security-weakening decision. Many express frustration over the lack of transparency and the potential impact on privacy, while some speculate about cost-cutting or product segmentation motives.
-
-**Tags**: `#AMD`, `#CPU security`, `#memory encryption`, `#TSME`, `#hardware`
-
----
-
 <a id="item-13"></a>
-## [Banned Book Library Stored in a Wi-Fi Smart Light Bulb](https://www.richardosgood.com/posts/banned-book-library/) ⭐️ 7.0/10
+## [OpenAI loses billions annually, leaked docs show](https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year/) ⭐️ 8.0/10
 
-A developer has created a project that stores banned books on a Wi-Fi smart light bulb, turning it into a hidden file server that can be accessed over Wi-Fi to evade censorship. This project demonstrates a novel method for distributing censored content using everyday IoT devices, potentially enabling decentralized and resilient access to information in restrictive environments. The light bulb uses its internal storage to host EPUB files of banned books and serves them via a built-in web server over Wi-Fi. The project also explores the possibility of mesh networking to create a distributed library network.
+Leaked audited financial documents reveal that OpenAI spent $34 billion in the past year, far exceeding its revenue, resulting in billions of dollars in losses annually. This news highlights the immense financial challenges faced by a leading AI company, raising questions about the sustainability of the current AI investment boom and its impact on the broader industry. The $34 billion spending includes massive R&D costs and other expenses, while revenue growth, though strong, is not enough to cover these costs. The exact revenue figure is not disclosed in the snippet.
 
-hackernews · sohkamyung · Jun 15, 22:37 · [Discussion](https://news.ycombinator.com/item?id=48547985)
+rss · ArsTechnica — 深度科技 · Jun 16, 16:18
 
-**Background**: Wi-Fi smart light bulbs are IoT devices that connect to home networks for remote control. They often have limited storage and processing power, but can be repurposed for tasks like file hosting. Mesh networking allows devices to communicate directly, forming a decentralized network that is harder to shut down.
+**Background**: OpenAI is a leading artificial intelligence research organization known for developing models like GPT-4. The company has transitioned from a non-profit to a capped-profit structure to attract investment, but its high operational costs have led to persistent losses.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Internet_censorship_circumvention">Internet censorship circumvention - Wikipedia</a></li>
-<li><a href="https://blogs.cornell.edu/info2040/2014/10/01/hong-kong-protestors-using-firechats-mesh-network-to-evade-censorship/">Hong Kong Protestors Using FireChat's Mesh Network to Evade ...</a></li>
-
-</ul>
-</details>
-
-**Discussion**: Commenters praised the project's creativity and relevance to censorship concerns, with some drawing parallels to earlier projects like PirateBox and Meshtastic. A few skeptics questioned the practicality of hiding such a device, noting that it could still be detected by network scanning.
-
-**Tags**: `#censorship`, `#IoT`, `#mesh networking`, `#privacy`, `#hacking`
+**Tags**: `#OpenAI`, `#finance`, `#AI industry`, `#business`
 
 ---
 
 <a id="item-14"></a>
-## [Hacker News users share local LLM setups for daily coding](https://news.ycombinator.com/item?id=48542100) ⭐️ 7.0/10
+## [Calvin and Hobbes and the Price of Integrity](https://therepublicofletters.substack.com/p/calvin-and-hobbes-and-the-price-of) ⭐️ 7.0/10
 
-Hacker News users report replacing Claude and GPT with local models like Qwen3.6 35B and Gemma 4 26B for daily coding, achieving speeds up to 150 tok/s on dual RTX 3090s or Mac Studio with 128GB RAM. This demonstrates that local models are becoming viable for production coding, offering privacy, zero API costs, and offline capability, potentially reducing reliance on expensive cloud APIs. Users report using Pi coding harness, unsloth studio, llama.cpp, and OpenCode; Qwen3.6 35B activates only 3B parameters for speed, while Gemma 4 26B uses 4B active parameters. Performance is comparable to frontier models from 8-12 months ago.
+An essay examines Bill Watterson's decision to prioritize artistic integrity over commercial exploitation of Calvin and Hobbes, sparking community debate on the value of staying true to one's vision. This reflection is significant because it highlights the tension between commercial success and creative vision, a dilemma faced by many artists and creators. It encourages readers to consider the long-term value of integrity over short-term financial gain. The essay is published on Substack and has garnered 88 comments and 216 points on Hacker News, indicating strong community engagement. Commenters express admiration for Watterson's dedication to his principles, even while acknowledging the financial sacrifices involved.
 
-hackernews · cloudking · Jun 15, 14:46
+hackernews · pseudolus · Jun 16, 15:44 · [Discussion](https://news.ycombinator.com/item?id=48557079)
 
-**Background**: Local LLMs run on consumer hardware without internet, using models like Qwen and Gemma. Tools like LM Studio and Ollama provide OpenAI-compatible APIs. These models use techniques like Mixture of Experts (MoE) to activate only a subset of parameters, balancing speed and quality.
+**Background**: Bill Watterson is the creator of the beloved comic strip Calvin and Hobbes, which ran from 1985 to 1995. Unlike many successful cartoonists, Watterson famously refused to license his characters for merchandise, believing it would compromise the strip's artistic integrity. This decision cost him millions of dollars but cemented his legacy as a principled artist.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://medium.com/@kevin.drapel/your-local-qwen-with-qwen-cli-and-lm-studio-564ffb4c1e9e">Your Local Qwen with Qwen CLI and LM Studio | by Kévin... | Medium</a></li>
-<li><a href="https://localaimaster.com/models/best-local-ai-coding-models">Best Local AI Coding Models 2026: Qwen Coder ... | Local AI Master</a></li>
-<li><a href="https://www.gemma4.wiki/benchmark/gemma-4-coding">Gemma 4 Coding: Complete Local VS Code Setup and Workflow...</a></li>
+**Discussion**: Commenters generally admire Watterson's integrity, with some noting that his choice makes his work more valuable. Others argue that selling out is understandable, given the financial pressures. A few share links to Watterson's speeches and previous discussions, showing ongoing interest in the topic.
 
-</ul>
-</details>
-
-**Discussion**: The community is enthusiastic, with many sharing successful setups and performance metrics. Some note that local models are not as smart as Claude or GPT but sufficient for most tasks, and a few express skepticism about full replacement due to opportunity cost.
-
-**Tags**: `#local LLMs`, `#coding assistants`, `#open source AI`, `#privacy`, `#performance benchmarks`
+**Tags**: `#artistic integrity`, `#comics`, `#Bill Watterson`, `#creativity`, `#ethics`
 
 ---
 
 <a id="item-15"></a>
-## [AI Could Create a Peopleless Economy](https://gmalandrakis.com/writings/ad-economicum.html) ⭐️ 7.0/10
+## [GPT-NL: A Sovereign Language Model for the Netherlands](https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/) ⭐️ 7.0/10
 
-An article explores the theoretical possibility of a peopleless economy driven by advanced AI, where machines handle all production and services, potentially leading to extreme wealth concentration among a few AI owners. This discussion challenges fundamental assumptions about labor value and capital, raising urgent questions about inequality, governance, and societal stability in an AI-dominated future. The article assumes that AI will achieve recursive self-improvement and robotics capable of displacing all human labor, including combat, leading to a scenario where a few AI conglomerates trade resources among themselves.
+TNO, together with SURF and the Netherlands Forensic Institute, announced GPT-NL, a €13.5 million sovereign language model for the Netherlands, aiming to provide full control over data and alignment with European values. This initiative strengthens digital autonomy for the Netherlands and Europe, reducing dependency on non-European AI providers and ensuring AI development aligns with local laws and societal goals. GPT-NL is a collaboration between non-profit organizations TNO, SURF, and NFI, focusing on transparency, fairness, and controllability. The model will be trained exclusively on legally obtained documents and hosted within Europe.
 
-hackernews · l0new0lf-G · Jun 15, 21:10 · [Discussion](https://news.ycombinator.com/item?id=48547062)
+hackernews · root-parent · Jun 16, 17:54 · [Discussion](https://news.ycombinator.com/item?id=48559188)
 
-**Background**: The concept of a peopleless economy extends current automation trends to their logical extreme, where AI and robots replace all human workers. This raises questions about how value is created and distributed when labor is no longer scarce.
+**Background**: Sovereign language models are AI systems developed and controlled by a specific country to ensure data privacy, cultural alignment, and regulatory compliance. Many countries, including Sweden with GPT-SW3, have pursued similar projects to reduce reliance on US and Chinese AI giants.
 
-**Discussion**: Commenters debate whether AI will inevitably lead to a winner-takes-all outcome, with some arguing that governments may intervene to prevent extreme inequality, while others believe that AI owners will accumulate all wealth and power, potentially eliminating humans altogether.
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/">GPT‑NL: a sovereign language model for the Netherlands - tno.nl</a></li>
+<li><a href="https://www.tno.nl/nl/digitaal/artificiele-intelligentie/gpt-nl/">GPT-NL: een soeverein taalmodel voor Nederland | TNO</a></li>
+<li><a href="https://gpt-nl.nl/">GPT-NL: Een verantwoord taalmodel voor Nederland - GPT-NL</a></li>
 
-**Tags**: `#AI`, `#economics`, `#future of work`, `#automation`, `#inequality`
+</ul>
+</details>
+
+**Discussion**: The community is divided: some support national AI models for sovereignty and language preservation, while others argue it's better to build on existing baselines like Qwen or Kimi to save costs and focus on practical applications. Skepticism has also grown in the Dutch tech scene regarding the project's value.
+
+**Tags**: `#AI`, `#language model`, `#sovereignty`, `#Europe`, `#NLP`
 
 ---
 
 <a id="item-16"></a>
-## [Job interview lessons on Kubernetes trade-offs](https://notnotp.com/notes/what-job-interviews-taught-me-about-kubernetes/) ⭐️ 7.0/10
+## [Apple's Hide My Email Change May Reduce Privacy](https://arseniyshestakov.com/2026/06/16/apple-is-about-to-make-hide-my-email-useless/) ⭐️ 7.0/10
 
-A developer shares insights from job interviews about Kubernetes' complexity versus benefits, sparking a community debate on its necessity and the impact of AI-driven tooling. This discussion helps engineers evaluate whether Kubernetes is worth adopting, especially as AI agents simplify cluster management and reduce operational overhead. The article notes that Kubernetes provides uniformity but is a pain to operate, while community comments highlight that AI agents now make DevOps tasks like certificate management and GitOps setup much simpler.
+Apple plans to unify Hide My Email and Sign in with Apple aliases under the @private.icloud.com domain, making it easier for websites to block all such addresses. This change could undermine the privacy utility of Hide My Email, as websites may block the entire @private.icloud.com domain, affecting users who rely on this feature for privacy. The change has not yet been implemented, and users can still generate aliases on @icloud.com at a rate of at least 30 per hour. The unification makes it trivial for sites to block all relay addresses without affecting regular iCloud mailboxes.
 
-hackernews · chmaynard · Jun 15, 20:12 · [Discussion](https://news.ycombinator.com/item?id=48546428)
+hackernews · SXX · Jun 16, 18:37 · [Discussion](https://news.ycombinator.com/item?id=48559935)
 
-**Background**: Kubernetes is an open-source container orchestration platform that automates deployment, scaling, and management of containerized applications. It is powerful but often criticized for its steep learning curve and operational complexity, leading many teams to consider alternatives like AWS ECS or simpler setups.
+**Background**: Hide My Email is an iCloud+ feature that generates unique, random email addresses for use with apps and websites, forwarding messages to the user's personal inbox. Sign in with Apple also offers similar private email relay. Currently, these aliases are on different domains, making blanket blocking harder.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://bixtech.ai/ecs-vs-kubernetes-tradeoffs-explained-so-you-can-choose-the-right-container-platform/">ECS vs Kubernetes : Tradeoffs Explained (So You Can Choose the...)</a></li>
-<li><a href="https://www.linkedin.com/posts/andrewlod_after-11-posts-on-production-ready-kubernetes-activity-7445581077986963456-3QKs">Kubernetes Tradeoffs and Production Reality | André de... | LinkedIn</a></li>
-<li><a href="https://ip-specialist.medium.com/top-8-kubernetes-alternatives-competitors-79e9e82b1c2f">Top 8 Kubernetes Alternatives & Competitors | Medium</a></li>
+<li><a href="https://support.apple.com/en-us/105078">How to use Hide My Email with Sign in with Apple - Apple Support</a></li>
+<li><a href="https://support.apple.com/guide/icloud/add-and-manage-email-aliases-mm6b1a490a/icloud">Add and manage email aliases for iCloud Mail on iCloud.com</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Commenters are divided: some regret adopting Kubernetes due to its complexity, while others argue that AI agents have made it much easier to manage, enabling features like zero-trust security and GitOps that were previously too burdensome.
+**Discussion**: Comments show mixed reactions: some users argue that websites blocking privacy-friendly emails are not worth using, while others suggest workarounds like using custom domains. There is confusion about why unifying domains makes blocking easier, but the consensus is that the change reduces privacy utility.
 
-**Tags**: `#Kubernetes`, `#DevOps`, `#Infrastructure`, `#Software Engineering`
+**Tags**: `#Apple`, `#privacy`, `#email`, `#iCloud`, `#security`
 
 ---
 
 <a id="item-17"></a>
-## [Hetzner Cloud Server Prices Triple Amid Hardware Cost Surge](https://docs.hetzner.com/general/infrastructure-and-availability/price-adjustment/#cloud-servers) ⭐️ 7.0/10
+## [Switching to Broadcom SFP+ Module for 10GbE](https://www.gilesthomas.com/2026/06/10g-ethernet-switching-to-broadcom-sfp-plus) ⭐️ 7.0/10
 
-Hetzner announced significant price increases for its cloud servers, with some plans seeing up to a 3x jump (e.g., CPX11 from $6.99 to $20.49 per month), citing rising hardware costs. This price hike reflects broader industry trends where AI demand drives up hardware costs, impacting developers and small businesses that rely on affordable cloud infrastructure. The price adjustments range from 25% to 33% for most cloud servers, but some plans like the CPX11 have increased by nearly 200%. The new prices apply to both existing and new customers.
+A detailed technical account describes the process of switching to a Broadcom SFP+ module for 10 Gigabit Ethernet, highlighting practical issues such as heat generation and compatibility with existing switches. This matters because 10GbE is increasingly adopted in home labs and small businesses, and choosing the right SFP+ module can significantly impact network reliability, power consumption, and thermal management. The Broadcom SFP+ module may report incorrect temperature readings, and DAC (Direct Attach Copper) cables are recommended for short distances to avoid heat and compatibility issues.
 
-hackernews · tuhtah · Jun 15, 13:19 · [Discussion](https://news.ycombinator.com/item?id=48540844)
+hackernews · gpjt · Jun 16, 17:48 · [Discussion](https://news.ycombinator.com/item?id=48559083)
 
-**Background**: Hetzner is a major European cloud provider known for its affordable pricing. The recent surge in AI workloads has increased demand for memory and storage components, leading to higher costs for cloud providers globally.
+**Background**: SFP+ modules are hot-pluggable transceivers used for 10 Gigabit Ethernet connections. They come in various types, including optical fiber modules and copper-based DAC cables, each with different power and heat characteristics.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://pricetimeline.com/news/211">Hetzner Update on Cloud Server Price Increase on... - PriceTimeline</a></li>
-<li><a href="https://netcupvoucher.com/blog/netcup-vs-hetzner-after-rampocalypse-2026">Netcup vs Hetzner After the RAMpocalypse - Updated 2026 Price ...</a></li>
-<li><a href="https://xthe.com/news/hbm4-supply-alert-signals-immediate-ai-cost-surge-risk/">HBM4 Supply Shortage Risks Rising AI Hardware Costs</a></li>
+<li><a href="https://www.broadcom.com/products/fiber-optic-modules-components/networking/optical-transceivers/sfpplus">“SFP Plus”, or SFP+ , are speed enhanced variations of the...</a></li>
+<li><a href="https://resources.l-p.com/products/sfp-10-gbps-guide-what-is-10g-sfp-plus">SFP 10 Gbps Guide: What Is 10G SFP+ and How to Choose</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Community comments express shock at the magnitude of the increase, with users questioning the justification for a 3x jump and noting the lack of lower-cost alternatives. Some discuss the broader economic impact of AI on hardware prices and wealth inequality.
+**Discussion**: Community comments suggest that for new installations, fiber optic cabling is preferable due to lower power consumption and heat. Users also recommend DAC cables for short distances and note that some SFP+ modules do not report temperature or voltage.
 
-**Tags**: `#cloud computing`, `#pricing`, `#hardware costs`, `#AI infrastructure`, `#Hetzner`
+**Tags**: `#networking`, `#10GbE`, `#SFP+`, `#hardware`, `#homelab`
 
 ---
 
 <a id="item-18"></a>
-## [Commander Keen White Papers Detail Smooth Scrolling Tech](https://forgottenbytes.net/commander_keen.html) ⭐️ 7.0/10
+## [Apple's Vehicle Motion Cues Effectively Reduce Car Sickness](https://www.theverge.com/tech/942854/apple-vehicle-motion-cues-review-really-work) ⭐️ 7.0/10
 
-A collection of white papers has been published on ForgottenBytes.net, detailing the technical innovations behind Commander Keen, particularly its groundbreaking smooth scrolling technology for PC. Commander Keen's smooth scrolling was a landmark achievement that demonstrated PC's capability for console-quality platformers, influencing id Software's later engines and the entire PC gaming industry. The white papers cover the engine and gameplay programming by John Carmack, as well as game design by John Romero and Tom Hall, with the first game released in December 1990.
+Apple's Vehicle Motion Cues feature, introduced in iOS 18, uses animated dots on the screen edges to represent vehicle movement, helping reduce motion sickness for passengers using iPhones or iPads in moving vehicles. This feature offers a practical, software-based solution to a common problem affecting many travelers, potentially improving productivity and entertainment during car rides without requiring medication or special hardware. The feature uses the device's accelerometer and gyroscope to detect vehicle motion and display corresponding animated dots. It is available on iPhones and iPads running iOS 18 or iPadOS 18 or later, and can be enabled in Settings > Accessibility > Motion > Show Vehicle Motion Cues.
 
-hackernews · mfiguiere · Jun 15, 17:52 · [Discussion](https://news.ycombinator.com/item?id=48544781)
+hackernews · neilfrndes · Jun 16, 16:12 · [Discussion](https://news.ycombinator.com/item?id=48557530)
 
-**Background**: In 1990, PC hardware lacked hardware sprite rendering, making smooth side-scrolling difficult. John Carmack developed a technique using EGA video memory to achieve smooth scrolling, which was later used in Wolfenstein 3D and Doom. The white papers provide deep technical insight into this innovation.
+**Background**: Motion sickness occurs when there is a sensory conflict between what the eyes see and what the inner ear (balance system) feels. When reading or using a screen in a moving vehicle, the eyes perceive a static environment while the body feels motion, causing nausea. Vehicle Motion Cues aims to reduce this conflict by providing visual cues that match the perceived motion.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Id_Software">id Software - Wikipedia</a></li>
-<li><a href="https://www.howtogeek.com/704727/30-years-of-vorticons-how-commander-keen-changed-pc-gaming/">30 Years of Vorticons: How Commander Keen Changed PC Gaming</a></li>
-<li><a href="https://www.gamedeveloper.com/programming/how-id-built-i-wolfenstein-3d-i-using-i-commander-keen-i-tech">How id built Wolfenstein 3D using Commander Keen tech</a></li>
+<li><a href="https://www.self.com/story/vehicle-motion-cues-review">I Tried Apple’s New ‘Vehicle Motion Cues’ Feature and Risked ... Use iPhone more comfortably while riding in a vehicle - Apple ... Images A Complete Guide to Vehicle Motion Cues on iPhone and iPad Apple announces new accessibility features, including Eye ... How to Enable and Use Vehicle Motion Cues on iPhone in iOS 18 ... Your iPhone has a secret in-car feature that's ... - ZDNET Apple Reveals 'Vehicle Motion Cues' Feature to Fight Carsickness</a></li>
+<li><a href="https://support.apple.com/en-in/guide/iphone/iph55564cb22/ios">Use iPhone more comfortably while riding in a vehicle - Apple ...</a></li>
+<li><a href="https://economictimes.indiatimes.com/news/international/us/motion-sick-your-iphone-has-a-hidden-feature-that-could-be-the-game-changer/articleshow/123982887.cms">iPhone's hidden feature for motion sickness: Motion sick ...</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Commenters praised the historical significance, with one recommending the book 'Masters of Doom' for context. Another noted that modern readers may not realize why a more powerful PC struggled with sprite rendering compared to consoles like the SNES.
+**Discussion**: Community comments are mixed: some users report the feature works amazingly, while others find it ineffective. One user notes it doesn't work in electric cars, and another mentions Android equivalents exist. Overall sentiment is positive but with caveats about individual variability.
 
-**Tags**: `#game development`, `#retro computing`, `#id Software`, `#technical history`
+**Tags**: `#Apple`, `#accessibility`, `#motion sickness`, `#iOS`, `#user experience`
 
 ---
 
 <a id="item-19"></a>
-## [Copper transport drug restores memory in Alzheimer's mice](https://www.monash.edu/news/articles/copper-drug-restores-memory-and-clears-toxic-alzheimers-proteins) ⭐️ 7.0/10
+## [Slay the Spire 2 Uses Custom PRNG for Cross-Platform Seeds](https://tck.mn/blog/correlated-randomness-sts2/) ⭐️ 7.0/10
 
-Researchers at Monash University have shown that a copper transport drug restores memory and clears toxic amyloid-beta proteins in mouse models of Alzheimer's disease. The drug has already undergone safety evaluations for other diseases, potentially enabling rapid human trials. This represents a novel approach to Alzheimer's treatment that targets copper dysregulation rather than directly attacking amyloid plaques, which have been the focus of many failed therapies. If successful in humans, it could offer a new therapeutic avenue for a disease affecting millions worldwide. The drug works by restoring copper transport in the brain, which is believed to help clear amyloid-beta aggregates. The study was conducted in mice, and while the compound has prior safety data from other indications, its efficacy and safety in Alzheimer's patients remain unproven.
+Slay the Spire 2 implements a custom pseudo-random number generator (PRNG) to ensure that game seeds produce identical outcomes across all platforms, avoiding the platform-dependent RNG issues that plagued the original game. This change guarantees seed consistency across desktop and mobile versions, preserving player-created seeded runs and enabling fair competition. It also future-proofs the game against changes in standard library RNG implementations. The custom PRNG is implemented in C# within the Godot engine, replacing System.Random. The seed is passed through a 32-bit hash function, limiting the total number of possible seeds to about 4 billion, which is smaller than the 64-bit seeds in the first game.
 
-hackernews · bookofjoe · Jun 15, 14:48 · [Discussion](https://news.ycombinator.com/item?id=48542132)
+hackernews · rdmuser · Jun 16, 09:46 · [Discussion](https://news.ycombinator.com/item?id=48552844)
 
-**Background**: Alzheimer's disease is characterized by the accumulation of amyloid-beta plaques in the brain, but many drugs targeting these plaques have failed in clinical trials. Copper is essential for brain function, but its dysregulation is linked to amyloid-beta aggregation. This drug aims to correct copper homeostasis rather than directly removing plaques.
+**Background**: In the original Slay the Spire, seeds on desktop and mobile versions produced different outcomes because each platform's standard library PRNG (e.g., C# System.Random) had platform-specific implementations. A PRNG is an algorithm that generates sequences of numbers that appear random but are deterministic given an initial seed. Using a custom PRNG ensures that the same seed always produces the same sequence regardless of platform or future library updates.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://news.ycombinator.com/item?id=48542132">Copper transport drug restores memory and clears... | Hacker News</a></li>
+<li><a href="https://tck.mn/blog/correlated-randomness-sts2/">Correlated randomness in Slay the Spire 2 - Andy Tockman</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Pseudorandom_number_generator">Pseudorandom number generator - Wikipedia</a></li>
+<li><a href="https://codingtechroom.com/question/-consistent-cross-platform-pseudo-random-generator-java-net">How to Create a Consistent, Cross-Platform Pseudo-Random ...</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Community comments express skepticism about the amyloid hypothesis, with some noting that previous amyloid-targeting therapies have failed. However, others point out that the copper transport approach is novel and may address a different mechanism. There is cautious optimism, but also reminders that results in mice often do not translate to humans.
+**Discussion**: Commenters appreciated the technical depth and cross-platform consistency. Some noted that Godot's GDScript uses PCG32, which would have avoided the issue, while others discussed the implications of 32-bit seeds for brute-forcing unwinnable seeds. A user also shared a link to an unwinnable seed in the original game, sparking discussion about RNG hell.
 
-**Tags**: `#Alzheimer's`, `#drug discovery`, `#neuroscience`, `#amyloid-beta`, `#copper`
+**Tags**: `#game development`, `#PRNG`, `#randomness`, `#Slay the Spire`, `#software engineering`
 
 ---
 
 <a id="item-20"></a>
-## [Boot Naked Linux: Minimal Userspace Guide](https://nick.zoic.org/art/boot-naked-linux/) ⭐️ 7.0/10
+## [Reflex.dev Speeds Up Python AST Walk 220x with Rust](https://reflex.dev/blog/why-ast-walk-when-you-can-ast-sprint/) ⭐️ 7.0/10
 
-A new guide demonstrates how to boot a minimal Linux system that runs a single binary directly after kernel init, bypassing traditional init systems like systemd or Busybox. This approach offers extreme customization and minimal footprint for embedded systems, containers, or specialized appliances, challenging the complexity of modern Linux boot processes. The guide uses a custom init binary written in C, compiled statically, and passed via the kernel's init= parameter. It omits error handling for clarity, which may not be suitable for production use.
+Reflex.dev published a blog post detailing how they achieved a 220x speedup of Python's ast.walk function by rewriting it in Rust as a custom implementation. This optimization demonstrates the significant performance gains possible by replacing slow Python code with Rust extensions, potentially benefiting many Python tools that rely on AST traversal, such as linters and code analyzers. The speedup was achieved by implementing a custom AST walker in Rust using the PyO3 crate, which allows seamless integration with Python. The original Python ast.walk is a generator function that recursively yields all descendant nodes, but its performance is limited by Python's overhead.
 
-hackernews · abnercoimbre · Jun 15, 16:03 · [Discussion](https://news.ycombinator.com/item?id=48543269)
+hackernews · palashawas · Jun 16, 16:25 · [Discussion](https://news.ycombinator.com/item?id=48557768)
 
-**Background**: In Linux, the kernel traditionally hands off to an init system (e.g., systemd) that manages services and userspace. Bypassing this with a single binary is possible by passing the binary path as the init parameter to the kernel, but requires careful handling of hardware initialization and system calls.
+**Background**: Python's ast module provides tools for parsing and walking Abstract Syntax Trees (ASTs), which represent the structure of Python code. The ast.walk function is commonly used in tools like linters and static analyzers, but its pure Python implementation can be slow for large codebases. Rust is a systems programming language known for its performance and safety, and can be used to create Python extensions via PyO3.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.linuxquestions.org/questions/linux-kernel-70/sbin-init-kernel-panic-not-syncing-attempted-to-kill-init-723355/">sbin/ init : Kernel panic - not syncing: Attempted to kill init ! | Forum</a></li>
-<li><a href="https://stackoverflow.com/questions/24583614/want-to-build-bare-linux-system-that-has-only-a-kernel-and-one-binary">Want to build bare Linux system that has only a kernel and one binary</a></li>
+<li><a href="https://pythonspeed.com/articles/intro-rust-python-extensions/">Let’s build and optimize a Rust extension for Python</a></li>
+<li><a href="https://tedboy.github.io/python_stdlib/generated/generated/ast.walk.html">ast . walk () — Python Standard Library</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Commenters shared similar projects and historical context: jmmv built a similar system but settled on a full NetBSD base for network support; nottorp noted Linux from Scratch is still active after 27 years; jorvi corrected a misconception about early 2000s SSD pricing; MomsAVoxell mentioned combining the approach with antirez's LOAD81 for a minimal development environment.
+**Discussion**: The community comments highlight Python's performance limitations when modularizing code, and question whether similar optimizations could benefit tools like libCST and bandit. One commenter humorously guessed that the improved version was written in Rust, which turned out to be correct.
 
-**Tags**: `#Linux`, `#boot`, `#minimalism`, `#systems programming`
+**Tags**: `#Python`, `#AST`, `#performance`, `#Rust`, `#optimization`
 
 ---
 
 <a id="item-21"></a>
-## [Nadella warns few AI systems could capture all economic returns](https://the-decoder.com/microsoft-ceo-satya-nadella-warns-of-a-small-number-of-ai-systems-capturing-all-the-economic-returns/) ⭐️ 7.0/10
+## [Berlin court: Google AI Overviews are new search format, not original content](https://the-decoder.com/berlin-court-rules-googles-ai-overviews-are-just-a-new-search-format-not-original-content/) ⭐️ 7.0/10
 
-Microsoft CEO Satya Nadella warned that without building proprietary AI capabilities, a small number of large AI models could capture all economic returns from industries. He urged companies to invest in 'token capital'—their own AI models, agents, and learning loops built on internal data. This warning from a top tech CEO highlights the risk of AI economic concentration, where a few foundation models dominate value creation. It has strategic implications for enterprise AI adoption and could shape how companies invest in proprietary AI to maintain competitive advantage. Nadella's concept of 'token capital' includes models, agents, traces, evals, workflow memory, and internal learning loops. He argues that proprietary learning loops create AI moats, not the underlying models themselves, and this aligns with Azure's business model of enabling custom AI on its cloud platform.
+A Berlin court ruled that Google's AI Overviews are a new search result format, not original content, and that Google has no decisive influence over the generated summaries. This ruling partly contradicts a recent Munich decision that held Google directly liable for false AI responses. This ruling reduces Google's liability for AI-generated summaries, setting a precedent that could affect how search engines and AI-generated content are regulated. It highlights legal uncertainty in the rapidly evolving AI landscape, impacting companies that deploy generative AI in search. The case was brought by a perfume company whose brand names appeared alongside cheaper knockoffs in AI Overviews. The Berlin court found that Google's AI Overviews are merely a new format for presenting search results, not independent content creation.
 
-rss · The Decoder — AI新闻 · Jun 15, 09:39
+rss · The Decoder — AI新闻 · Jun 16, 18:19
 
-**Background**: Token capital refers to the AI capability a firm builds and owns, including its models, agents, and proprietary data loops. Nadella contrasts this with human capital, emphasizing that companies must develop both to avoid being commoditized by a few large AI systems. The warning comes amid growing concerns about AI monopolization by a handful of tech giants.
+**Background**: Google's AI Overviews automatically generate summaries from search results using AI. In Germany, two recent court rulings have reached opposite conclusions: a Munich court held Google directly liable for false AI statements, while the Berlin court classified AI Overviews as a search format with limited liability. These cases test the boundaries of intermediary liability protections for AI-generated content.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.turingpost.com/p/what-is-the-harder-human-capital-problem-beneath-token-capital">Token Capital vs Human Capital : Satya Nadella’s AI Problem</a></li>
-<li><a href="https://finance.yahoo.com/markets/crypto/articles/microsoft-ceo-nadella-warns-ai-154215619.html">Microsoft CEO Nadella Warns on AI ‘ Token Capital ’ — Why Samson...</a></li>
-<li><a href="https://digg.com/tech/ssnije8a">Microsoft's Satya Nadella argues proprietary 'token capital' and ... - Digg</a></li>
+<li><a href="https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/">Landmark German ruling declares Google's AI Overviews are ...</a></li>
+<li><a href="https://byteiota.com/google-ai-overviews-liable-munich-court-ruling/">Google AI Overviews Lose Safe Harbor in Munich Ruling</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI`, `#economics`, `#Microsoft`, `#enterprise AI`, `#monopoly`
+**Tags**: `#AI`, `#legal`, `#search`, `#regulation`, `#Google`
 
 ---
 
 <a id="item-22"></a>
-## [UK proposes social media ban for under-16s](https://techcrunch.com/2026/06/15/uk-unveils-sweeping-social-media-ban-for-users-under-16/) ⭐️ 7.0/10
+## [New benchmark tests AI models' resistance to Russian propaganda](https://the-decoder.com/how-easily-can-russian-propaganda-fool-ai-models-a-new-benchmark-finds-out/) ⭐️ 7.0/10
 
-The UK government has unveiled a proposal to ban social media platforms such as TikTok, Instagram, and Facebook for users under 16, following Australia's lead which enacted a similar ban in late 2025. This ban could set a global precedent for stricter age restrictions on social media, affecting major platforms and potentially reshaping how children interact online. It aims to reduce risks like cyberbullying, addiction, and predator exposure. The ban applies to a wide range of platforms including Snapchat, TikTok, YouTube, Instagram, Facebook, and X. Critics argue that such bans may push children to riskier alternatives and can be circumvented using VPNs.
+The Institute of the Estonian Language has released a 'Propaganda Resistance' benchmark that evaluates how easily AI language models are fooled by Russian propaganda narratives. This benchmark addresses a critical gap in AI safety by measuring susceptibility to geopolitical misinformation, which could inform the development of more robust models and help counter disinformation campaigns. The benchmark was developed in cooperation with Propastop's disinformation experts, who helped define key narratives associated with Russian influence operations and ensured the reliability of results.
 
-rss · TechCrunch — 科技创投 · Jun 15, 14:36
+rss · The Decoder — AI新闻 · Jun 16, 11:28
 
-**Background**: Social media platforms use algorithms to maximize engagement, which can lead to addictive behaviors and exposure to harmful content for young users. VPNs (Virtual Private Networks) allow users to mask their location and bypass geo-restrictions, potentially enabling underage users to circumvent the ban. Australia's ban, which took effect in December 2025, imposes heavy fines on platforms that fail to take reasonable steps to prevent under-16 access.
+**Background**: AI language models are increasingly used to generate and consume information, making them potential targets for propaganda. Russian propaganda often employs specific narratives to influence public opinion, and models that uncritically repeat such content could amplify disinformation. This benchmark systematically tests models' ability to resist these narratives.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.bbc.com/news/articles/cwyp9d3ddqyo">How does Australia 's under-16 social media ban work?</a></li>
-<li><a href="https://www.cloudwards.net/vpn/">VPNs Explained : Basics, Security Tips, Reviews & Comparisons</a></li>
+<li><a href="https://arstechnica.com/ai/2026/06/these-llms-are-the-best-at-resisting-russian-propaganda/">These LLMs are the best at resisting Russian propaganda</a></li>
+<li><a href="https://news.err.ee/1610046565/estonian-study-finds-ai-models-still-vulnerable-to-propaganda-prompts">Estonian study finds AI models still vulnerable to propaganda ...</a></li>
+<li><a href="https://www.propastop.org/en/2026/06/04/eki-and-propastop-studied-ai-resistance-to-propaganda/">EKI and Propastop Studied AI Resistance to Propaganda</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Comments from the RSS feed highlight that critics say bans push kids to riskier alternatives and can be beaten with VPNs, reflecting a common concern about enforcement and unintended consequences.
-
-**Tags**: `#social media`, `#regulation`, `#UK`, `#children's safety`, `#tech policy`
+**Tags**: `#AI safety`, `#misinformation`, `#benchmark`, `#propaganda`, `#NLP`
 
 ---
 
 <a id="item-23"></a>
-## [AI Layoff Wave Sparks Wealth Inequality Concerns](https://techcrunch.com/2026/06/15/the-ai-layoff-wave-is-becoming-a-powder-keg/) ⭐️ 7.0/10
+## [India Orders Temporary Telegram Ban Over Exam Fraud](https://techcrunch.com/2026/06/16/india-temporarily-blocks-access-to-telegram-over-exam-fraud-concerns/) ⭐️ 7.0/10
 
-A TechCrunch article reports that while tens of thousands of workers are being laid off, a small group of AI insiders is amassing enormous wealth, creating a powder keg of tension. This growing disparity between mass layoffs and AI insider wealth could fuel societal backlash and regulatory scrutiny, impacting the tech industry's reputation and stability. The article highlights the timing of layoffs coinciding with unprecedented wealth accumulation among AI executives and investors, but does not provide specific numbers or companies.
+India has ordered a nationwide ban on Telegram until June 22, 2026, and demanded the platform disable its message-editing feature until June 30, citing concerns over exam fraud during the NEET (UG) 2026 re-examination. This action affects millions of Telegram users in India and sets a significant precedent for government intervention in messaging platforms over security concerns, impacting digital rights and the broader tech policy landscape. The ban includes two measures: a complete block on Telegram access in India until June 22, and a requirement to disable the message-editing feature—which allows altering sent messages while retaining timestamps—until June 30.
 
-rss · TechCrunch — 科技创投 · Jun 15, 07:25
+rss · TechCrunch — 科技创投 · Jun 16, 15:49
 
-**Background**: The AI boom has led to massive investments and valuations for companies like OpenAI and Anthropic, while many tech firms have conducted widespread layoffs to cut costs and focus on AI. This has created a stark contrast between the haves and have-nots in the industry.
+**Background**: India has a history of internet censorship, with both central and state governments able to impose bans during emergencies. The NEET (UG) exam is a highly competitive medical entrance test, and authorities have previously taken action against platforms used for cheating. Telegram's message-editing feature has been exploited to distribute altered exam materials after initial posts, making it a target for fraud prevention.
 
-**Tags**: `#AI`, `#layoffs`, `#wealth inequality`, `#tech industry`, `#societal impact`
+<details><summary>References</summary>
+<ul>
+<li><a href="https://in.mashable.com/tech/110979/telegram-banned-in-india-until-22-june-2026-for-neet-re-exams-several-bots-channels-deleted">Telegram Banned In India Until 22 June 2026 ... - Mashable India</a></li>
+<li><a href="https://techstory.in/india-bans-telegram-till-june-22-and-disables-message-editing-till-june-30-to-secure-neet-ug-retest/">India Bans Telegram Till June 22 And Disables Message Editing ...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Internet_censorship_in_India">Internet censorship in India - Wikipedia</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Telegram`, `#India`, `#ban`, `#exam fraud`, `#tech policy`
 
 ---
 
 <a id="item-24"></a>
-## [A Love Letter to Computing Amid Industry Frustrations](https://michaelenger.com/blog/i-love-the-computer/) ⭐️ 6.0/10
+## [DOJ backs xAI's unpermitted gas turbines for national security](https://techcrunch.com/2026/06/16/doj-claims-xais-unpermitted-gas-turbines-are-a-matter-of-national-economic-and-energy-security/) ⭐️ 7.0/10
 
-A personal blog post titled 'I Love the Computer' reflects on the author's enduring affection for computing despite growing disillusionment with the modern software industry, including DRM, walled gardens, and AI hype. The article resonates with many in the tech community who feel the industry has strayed from computing's original promise of openness and exploration, sparking debate about the role of AI and the gatekeeping of technology. The post scores 6.0/10 on Hacker News with 119 points and 69 comments, indicating high engagement. Commenters share specific grievances like mandatory online registration for single-player games and the iPhone's app restrictions.
+The U.S. Department of Justice filed a motion to dismiss a lawsuit by the NAACP, arguing that xAI must continue using unpermitted natural gas turbines to power its Memphis data centers for national, economic, and energy security reasons. This marks a significant escalation where the U.S. government invokes national security to defend a tech company's environmental violations, setting a precedent for AI infrastructure regulation and energy policy. The DOJ claims xAI's Grok chatbot is integral to military operations, including the Iran War, and that shutting down the turbines would undermine American security. The NAACP lawsuit alleges xAI built an illegal power plant with no permits, releasing pollutants like formaldehyde.
 
-hackernews · speckx · Jun 15, 20:14 · [Discussion](https://news.ycombinator.com/item?id=48546441)
+rss · TechCrunch — 科技创投 · Jun 16, 15:05
 
-**Background**: The article taps into a long-standing sentiment among early computer enthusiasts that the industry has become more restrictive and commercialized. Key issues include DRM (digital rights management), vendor lock-in, and the shift from user-owned devices to platforms controlled by corporations.
+**Background**: xAI, Elon Musk's AI company, operates the Colossus 2 data center in Tennessee, powered by dozens of unpermitted methane gas turbines. The Southern Environmental Law Center and NAACP have challenged the legality of this setup, citing pollution and lack of public input. The DOJ's intervention elevates the dispute to a national security matter.
 
-**Discussion**: Comments are mixed: some agree with the author's nostalgia and criticism of DRM and walled gardens, while others defend AI as a genuinely useful tool. One commenter argues the author's sentiment is gatekeepy, implying that only those who struggled to learn programming should have a say in computing's direction.
+<details><summary>References</summary>
+<ul>
+<li><a href="https://techcrunch.com/2026/06/16/doj-claims-xais-unpermitted-gas-turbines-are-a-matter-of-national-economic-and-energy-security/">DOJ claims xAI’s unpermitted gas turbines are a matter of ...</a></li>
+<li><a href="https://www.theguardian.com/technology/2026/jan/15/elon-musk-xai-datacenter-memphis">Elon Musk’s xAI datacenter generating extra electricity ...</a></li>
+<li><a href="https://www.wired.com/story/doj-lawyers-argue-xai-vital-national-security-naacp-lawsuit/">DOJ Lawyers Argue xAI Is ‘Vital’ for National Security in ...</a></li>
 
-**Tags**: `#computing`, `#nostalgia`, `#industry criticism`, `#AI`, `#software culture`
+</ul>
+</details>
+
+**Tags**: `#AI`, `#energy`, `#national security`, `#regulation`, `#infrastructure`
 
 ---
 
 <a id="item-25"></a>
-## [Homelab AI Dev Platform Setup Shared](https://rsgm.dev/post/ai-dev-platform/) ⭐️ 6.0/10
+## [Cockroaches carry thousands of bacterial genome fragments](https://arstechnica.com/science/2026/06/cockroaches-scurry-around-with-thousands-of-pieces-of-bacterial-genomes/) ⭐️ 7.0/10
 
-A developer published a detailed blog post about their homelab AI development platform, which integrates OpenCode, Forgejo, and other self-hosted tools to create a private AI-assisted coding environment. This setup demonstrates how individuals can build their own AI development infrastructure at home, reducing reliance on cloud services and maintaining full control over data and workflows. The platform uses OpenCode as the AI coding agent, Forgejo for version control, and likely runs on a homelab server with containers orchestrated via Docker or Kubernetes.
+A new study reveals that cockroach genomes contain thousands of bacterial DNA fragments acquired through horizontal gene transfer, challenging the notion that such transfers are rare in animals. This discovery suggests horizontal gene transfer may be more common in multicellular animals than previously thought, with potential implications for evolution, adaptation, and even antibiotic resistance spread. The study identified thousands of horizontally transferred regions in cockroach genomes, many of which are intact and potentially functional, indicating ongoing gene flow from bacteria to these insects.
 
-hackernews · rsgm · Jun 15, 15:09 · [Discussion](https://news.ycombinator.com/item?id=48542433)
+rss · ArsTechnica — 深度科技 · Jun 16, 21:54
 
-**Background**: A homelab is a personal server setup at home used for learning, experimentation, or running services. AI development platforms typically require significant compute resources, but recent open-source models and tools have made self-hosting feasible for enthusiasts.
+**Background**: Horizontal gene transfer (HGT) is the movement of genetic material between organisms other than parent-to-offspring inheritance. While common in bacteria, HGT in animals has been considered rare. This study provides evidence that cockroaches, as a model organism, accumulate bacterial DNA on a large scale.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://rsgm.dev/post/ai-dev-platform/">My Homelab AI Dev Platform • Rsgm's Blog</a></li>
-<li><a href="https://github.com/hoangriki/homelab-ai-platform">GitHub - hoangriki/ homelab - ai - platform : Mixed-architecture homelab ...</a></li>
+<li><a href="https://arstechnica.com/science/2026/06/cockroaches-scurry-around-with-thousands-of-pieces-of-bacterial-genomes/">Cockroaches scurry around with thousands of pieces of ...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Horizontal_gene_transfer">Horizontal gene transfer - Wikipedia</a></li>
+<li><a href="https://farmaroc.net/public/news/cockroaches-scurry-around-with-thousands-of-pieces-of-bacterial-genomes">Cockroach Genomes Packed with Bacterial DNA Fragments ...</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Commenters shared similar setups and variations, such as running OpenCode inside Forgejo action runners or using n8n and k3s. Some noted resource constraints and faster local testing as reasons for not adopting a full homelab approach.
-
-**Tags**: `#homelab`, `#AI`, `#self-hosting`, `#dev platform`
+**Tags**: `#horizontal gene transfer`, `#cockroaches`, `#evolution`, `#genetics`, `#bacteria`
 
 ---
 
 <a id="item-26"></a>
-## [US Battery Manufacturing Output Hits Record High](https://fred.stlouisfed.org/series/IPG33591S) ⭐️ 6.0/10
+## [Anthropic Pauses Token-Based Billing for Claude Agent SDK](https://arstechnica.com/ai/2026/06/anthropic-pauses-token-based-billing-for-its-claude-agent-sdk/) ⭐️ 7.0/10
 
-US battery manufacturing output continues to break records, as shown by the Federal Reserve's industrial production index for batteries (IPG33591S). This growth signals strengthening domestic battery production, which is crucial for the EV supply chain and national security, but the US still lags far behind China and Europe in total capacity. According to community comments, US cell production capacity in 2025 is about 70 GWh, compared to China's 1755 GWh and Europe's 252 GWh, excluding small batteries for electronics.
+Anthropic has paused a planned token-based billing change for its Claude Agent SDK that was originally scheduled for Monday and would have significantly increased costs for power users. This decision provides temporary relief for developers and enterprises relying on the Claude Agent SDK, preventing sudden cost spikes and giving the community time to adapt or provide feedback on pricing. The token-based billing model would have charged users per token consumed by agent invocations, heavily impacting power users who run complex, multi-step workflows. The pause suggests Anthropic is reconsidering the pricing structure in response to community concerns.
 
-hackernews · epistasis · Jun 15, 20:28 · [Discussion](https://news.ycombinator.com/item?id=48546616)
+rss · ArsTechnica — 深度科技 · Jun 16, 21:00
 
-**Background**: Battery manufacturing capacity is measured in gigawatt-hours (GWh) and is a key indicator of a country's ability to produce batteries for electric vehicles and grid storage. The US has been investing in domestic battery production to reduce reliance on imports, especially from China, which dominates the global supply chain.
+**Background**: The Claude Agent SDK allows developers to build AI agents that can autonomously read files, run commands, search the web, and edit code, using the same tools and agent loop that power Claude Code. Token-based billing is a common pricing model for AI APIs, where users pay for each unit of text processed (tokens). However, for agentic workflows that involve many back-and-forth calls, costs can escalate quickly.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://elements.visualcapitalist.com/chinas-dominance-in-battery-manufacturing/">Visualizing China's Dominance in Battery Manufacturing (2022-2027)</a></li>
-<li><a href="https://redgreenandblue.org/2022/09/06/making-evs-without-chinas-supply-chain-hard-not-impossible-3-supply-chain-experts-outline-strategy/">Making EVs without China ’s supply chain is... | Red, Green, and Blue</a></li>
+<li><a href="https://code.claude.com/docs/en/agent-sdk/overview">Agent SDK overview - Claude Code Docs</a></li>
+<li><a href="https://github.com/anthropics/claude-agent-sdk-typescript">GitHub - anthropics/claude-agent-sdk-typescript</a></li>
 
 </ul>
 </details>
 
-**Discussion**: The community discussion highlights a stark capacity gap: the US (70 GWh) is far behind China (1755 GWh) and Europe (252 GWh). Some commenters express concern that US battery production has not kept pace with EV adoption, while others see the record output as a positive sign for national security.
-
-**Tags**: `#battery manufacturing`, `#energy storage`, `#US industry`, `#EV supply chain`
+**Tags**: `#Anthropic`, `#Claude`, `#pricing`, `#AI SDK`, `#developer tools`
 
 ---
 
 <a id="item-27"></a>
-## [Anthropic Launches Claude Corps Fellowship for Nonprofits](https://www.anthropic.com/news/claude-corps) ⭐️ 6.0/10
+## [Pentagon Uses AI to Write Congressional Reports](https://arstechnica.com/ai/2026/06/pentagon-boasts-of-using-ai-to-write-reports-mandated-by-congress/) ⭐️ 7.0/10
 
-Anthropic has launched Claude Corps, a 12-month fellowship program that embeds early-career AI specialists into U.S. nonprofits to build tools using Claude. The program is run in partnership with CodePath, which serves as the employer of record. This initiative aims to extend AI benefits to underserved communities, but raises concerns about long-term sustainability and potential job displacement. It reflects Anthropic's stated commitment to minimizing harm while promoting AI access. Fellows receive intensive training on Claude before deployment, and the program lasts 12 months. CodePath, a nonprofit focused on computer science education, manages the fellows' employment and programming.
+The Pentagon announced it is using generative AI tools to write congressionally mandated reports, with 1.5 million personnel now using such tools. This marks a major shift in government AI adoption, raising concerns about accountability and accuracy in official reporting to Congress. The Pentagon's Chief Technology Officer Emil Michael highlighted AI-generated reports as a key example of AI use, though the specific AI tools were not named.
 
-hackernews · Mustan · Jun 15, 17:41 · [Discussion](https://news.ycombinator.com/item?id=48544637)
+rss · ArsTechnica — 深度科技 · Jun 16, 18:11
 
-**Background**: Anthropic is an AI safety company that develops the Claude model family. Claude Corps is part of its broader economic policy framework, which acknowledges that AI may cause some job displacement but aims to prepare for and mitigate it.
+**Background**: Congressional mandated reports are detailed documents that federal agencies must submit to Congress on various topics. The Pentagon previously spent months identifying and assigning these reports, but now uses generative AI to speed up the process.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.anthropic.com/news/claude-corps">Introducing Claude Corps - Anthropic</a></li>
-<li><a href="https://www.anthropic.com/claude-corps">Claude Corps - Anthropic</a></li>
-<li><a href="https://www.codepath.org/claude-corps">Claude Corps × CodePath</a></li>
+<li><a href="https://arstechnica.com/ai/2026/06/pentagon-boasts-of-using-ai-to-write-reports-mandated-by-congress/">Pentagon boasts of using AI to write reports mandated ... - Ars Technica</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Commenters expressed skepticism, with some noting that the program may saddle nonprofits with expensive systems and leave them without expertise after the fellow leaves. Others found irony in Anthropic promoting AI for nonprofits while its enterprise sales emphasize automation and replacement of human workers.
-
-**Tags**: `#AI`, `#nonprofit`, `#Anthropic`, `#fellowship`, `#ethics`
+**Tags**: `#AI`, `#government`, `#generative AI`, `#policy`
 
 ---
 
 <a id="item-28"></a>
-## [Datasette Agent 0.3a0 Adds Write SQL with User Approval](https://simonwillison.net/2026/Jun/15/datasette-agent/#atom-everything) ⭐️ 6.0/10
+## [Mobileye to Launch Standalone US Robotaxi Service by 2027](https://arstechnica.com/cars/2026/06/mobileye-is-entering-the-us-robotaxi-market-with-standalone-service/) ⭐️ 7.0/10
 
-Datasette-agent 0.3a0 introduces an execute_write_sql tool that requests user approval before executing write operations on a database. It also enhances the CLI chat mode to support approvals and adds --unsafe mode for auto-approval. This release makes Datasette Agent safer for interactive use by adding a user approval layer for write operations, reducing the risk of accidental data modification. It enables users to perform natural language-driven database edits with confidence, expanding the tool's utility for data exploration and management. The execute_write_sql tool can execute multiple ordered SQL statements, and if one fails, later statements are not executed. The new --unsafe flag combines --root and --yes to auto-approve all user prompts, while tools can now provide plain text alternatives to HTML for CLI display.
+Mobileye announced plans to launch a standalone robotaxi service in a US city by 2027, leveraging its Moovit platform for ride-hailing and trip planning. This move positions Mobileye as a direct competitor to its own customers, such as Volkswagen and other automakers that use its self-driving systems, and signals a major shift in the robotaxi market landscape. The service will use Mobileye's self-driving technology and the Moovit app, which already serves over 1.7 billion riders in 3,500 cities. The specific US city has not been disclosed.
 
-rss · Simon Willison — AI工具 · Jun 15, 17:19
+rss · ArsTechnica — 深度科技 · Jun 16, 14:20
 
-**Background**: Datasette Agent is an AI assistant for Datasette, an open-source tool for exploring and publishing data. It uses LLMs to generate SQL queries based on natural language questions. The agent previously had read-only tools; this update adds write capability with a safety approval mechanism.
+**Background**: Mobileye is an Israeli company known for its advanced driver-assistance systems (ADAS) and autonomous driving technology. Moovit, acquired by Mobileye in 2020, is a popular mobility-as-a-service app that provides public transit directions and ride-hailing integration. Robotaxis are self-driving taxis that operate without a human driver, and several companies like Waymo and Cruise are already testing such services in the US.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://github.com/datasette/datasette-agent">An LLM-powered agent for Datasette - GitHub</a></li>
-<li><a href="https://agent.datasette.io/">Datasette Agent : an AI assistant for Datasette to help explore and...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Mobileye">Mobileye - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Moovit">Moovit - Wikipedia</a></li>
+<li><a href="https://www.mobileye.com/solutions/drive/">Mobileye Drive™ | Self-Driving System for Autonomous MaaS</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#datasette`, `#sql`, `#ai-tools`, `#release`
+**Tags**: `#autonomous vehicles`, `#robotaxi`, `#Mobileye`, `#mobility`, `#transportation`
 
 ---
 
 <a id="item-29"></a>
-## [Sundar Pichai Booed at Stanford Over Google's Defense AI Deals](https://techcrunch.com/2026/06/15/sundar-pichai-faces-boos-walkout-at-stanford-graduation-ceremony-over-googles-israel-ice-ties/) ⭐️ 6.0/10
+## [llama.cpp b9670 Fixes NVFP4 Edge Cases for LORA and ModelOPT](https://github.com/ggml-org/llama.cpp/releases/tag/b9670) ⭐️ 6.0/10
 
-At Stanford University's 2026 graduation ceremony, Google CEO Sundar Pichai was met with boos and a walkout by students protesting Google's AI contracts with Israel's Project Nimbus and ICE's social media surveillance program. This protest underscores growing ethical concerns about Big Tech's involvement in defense and surveillance, especially as AI capabilities expand. It signals that students and the public are increasingly holding tech leaders accountable for how their technologies are used. Project Nimbus is a $1.2 billion cloud computing contract with Google and Amazon for the Israeli government, while ICE's AI surveillance system monitors over 8 billion social media posts daily under a $5.7 million contract. Google had previously pledged not to use AI for weapons or surveillance but reversed that policy in 2025.
+llama.cpp release b9670 fixes and restricts NVFP4 edge-cases in llama-graph, ensuring correct dequantization order for LORA and bias-add for ModelOPT, and restricts build_ffn for NVFP4 to supported combinations. This fix improves correctness for users applying LORA adapters or NVIDIA ModelOPT quantization with NVFP4, preventing silent accuracy degradation in a widely-used open-source LLM inference engine. The patch moves post-GEMM multiplication required for dequantization before LORA and bias-add, aligning with LORA literature and NVIDIA ModelOPT reference. It also restricts build_ffn for NVFP4 to supported combinations to avoid unsupported configurations.
 
-rss · TechCrunch — 科技创投 · Jun 15, 23:51
+github · github-actions[bot] · Jun 16, 13:10
 
-**Background**: Project Nimbus is a joint Google-Amazon cloud computing project for the Israeli government, including defense and intelligence agencies. Google's AI principles, established in 2018, originally banned use of AI for weapons and surveillance, but the company quietly removed those restrictions in 2025. The Stanford protest is part of a broader wave of campus activism against tech complicity in military and surveillance operations.
+**Background**: NVFP4 is a 4-bit floating-point format introduced with NVIDIA Blackwell GPUs for efficient LLM inference. LORA (Low-Rank Adaptation) is a fine-tuning method that adds small adapters to pre-trained models, and ModelOPT is NVIDIA's model optimization toolkit. llama.cpp is a popular C/C++ library for running LLMs locally on various hardware.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Project_Nimbus">Project Nimbus - Wikipedia</a></li>
-<li><a href="https://time.com/6966102/google-contract-israel-defense-ministry-gaza-war/">Google Contract Shows Deal With Israel Defense Ministry - TIME</a></li>
-<li><a href="https://www.tiktok.com/discover/ice-ai-social-media-monitoring">Ice Ai Social Media Monitoring | TikTok</a></li>
+<li><a href="https://github.com/ggml-org/llama.cpp">GitHub - ggml-org/ llama . cpp : LLM inference in C/C++ · GitHub</a></li>
+<li><a href="https://developer.nvidia.com/blog/introducing-nvfp4-for-efficient-and-accurate-low-precision-inference/">Introducing NVFP4 for Efficient and Accurate Low-Precision ...</a></li>
+<li><a href="https://huggingface.co/docs/diffusers/quantization/modelopt">NVIDIA ModelOpt · Hugging Face</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI ethics`, `#Google`, `#defense contracts`, `#protest`, `#Stanford`
+**Tags**: `#llama.cpp`, `#NVFP4`, `#LLM inference`, `#bug fix`
 
 ---
 
 <a id="item-30"></a>
-## [Meta launches AI Mode on Facebook using public data](https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms/) ⭐️ 6.0/10
+## [Bash /dev/tcp: HTTP Without curl](https://mareksuppa.com/til/bash-dev-tcp-http-without-curl/) ⭐️ 6.0/10
 
-Meta announced on Monday that it is rolling out a new 'AI Mode' on Facebook, which leverages public information from across its platforms to enhance user engagement. This move signals Meta's intensified efforts to catch up in the AI race and keep users engaged on its platforms, potentially reshaping how social media integrates AI-driven features. The AI Mode pulls from public data across Meta's platforms, including Facebook, Instagram, and Threads, but specific technical details about the feature's capabilities and limitations have not been disclosed.
+A blog post highlights that Bash's built-in /dev/tcp pseudo-device can be used to make raw HTTP requests without external tools like curl or wget. This technique involves opening a TCP connection and manually sending HTTP headers. This trick is valuable for debugging in constrained environments where curl or wget are unavailable, such as minimal Docker containers. It demonstrates Bash's versatility and can help developers quickly test HTTP endpoints without installing additional software. The /dev/tcp feature requires Bash to be compiled with --enable-net-redirections, which is common in most Linux distributions. The syntax is exec 3<>/dev/tcp/host/port followed by printf and cat to send and receive data.
 
-rss · TechCrunch — 科技创投 · Jun 15, 18:30
+hackernews · mrshu · Jun 16, 16:40 · [Discussion](https://news.ycombinator.com/item?id=48558018)
 
-**Background**: Meta has been investing heavily in AI to compete with rivals like OpenAI and Google. AI Mode is part of a broader wave of AI features aimed at increasing user time spent on Facebook, which has faced declining engagement among younger demographics.
+**Background**: Bash's /dev/tcp is a pseudo-device that allows TCP connections via file redirection. It is not a real device file but a feature of Bash itself. This capability is often used for port checking, file transfer, or creating reverse shells.
 
-**Tags**: `#Meta`, `#AI`, `#Facebook`, `#social media`
+<details><summary>References</summary>
+<ul>
+<li><a href="https://github.com/fijimunkii/bash-dev-tcp">GitHub - fijimunkii/ bash - dev - tcp : collection of scripts using / dev / tcp</a></li>
+<li><a href="https://www.linuxtopia.org/online_books/advanced_bash_scripting_guide/devref1.html">Advanced Bash Shell Scripting Guide - /dev</a></li>
+<li><a href="https://linuxize.com/post/check-open-ports-linux/">Check Open Ports in Linux: nmap, netcat, and Bash | Linuxize</a></li>
+
+</ul>
+</details>
+
+**Discussion**: Commenters note that while /dev/tcp is useful for quick tests, it is not a proper HTTP client and can break in production due to lack of proper HTTP parsing. Some share nostalgic memories of manually interacting with servers via telnet, and others mention using it in Docker containers where curl is absent.
+
+**Tags**: `#bash`, `#http`, `#networking`, `#dev-tcp`
 
 ---
 
 <a id="item-31"></a>
-## [Sarvam AI becomes India's newest AI unicorn with $234M funding](https://techcrunch.com/2026/06/15/sarvam-becomes-indias-newest-ai-unicorn-with-234-million-funding-round-led-by-hcltech/) ⭐️ 6.0/10
+## [Has AI Already Killed Self-Help Nonfiction Books?](https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/) ⭐️ 6.0/10
 
-Sarvam AI, an Indian AI startup focused on Indic language models, raised $234 million in a funding round led by HCLTech, with HCLTech contributing $150 million, propelling the company to a valuation of over $1 billion. This marks a significant milestone for India's AI ecosystem, highlighting growing investor confidence in domestic AI startups and the strategic importance of building AI models tailored for Indian languages and contexts. HCLTech's $150 million investment is part of a larger $234 million round, and Sarvam AI is known for developing large language models and multimodal AI systems for Indian languages, and has participated in India's sovereign AI mission.
+A blog post by Tim Ferriss explores whether AI is killing the self-help nonfiction book industry through summarization, piracy, and format shifts to audio and video. This discussion highlights a potential existential threat to a major publishing category, affecting authors, publishers, and readers who rely on self-help books for personal development. The post notes that print book sales are declining while audiobooks and other formats are growing, and mentions tools like Gemini for summarizing YouTube videos and podcasts.
 
-rss · TechCrunch — 科技创投 · Jun 15, 13:46
+hackernews · imakwana · Jun 16, 17:11 · [Discussion](https://news.ycombinator.com/item?id=48558489)
 
-**Background**: A unicorn is a privately held startup valued at over $1 billion. Sarvam AI, founded in 2023 and based in Bengaluru, focuses on building AI models for Indian languages and region-specific use cases, and has been involved in India's government-supported AI initiatives.
+**Background**: Self-help nonfiction books have long been a popular genre for personal improvement, but AI-powered summarization tools and piracy sites like Anna's Archive are making it easier to consume content without buying books. Meanwhile, formats like audiobooks and video are gaining traction, shifting reader habits.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Sarvam_AI">Sarvam AI</a></li>
-<li><a href="https://en.wikipedia.org/wiki/List_of_unicorn_startup_companies">List of unicorn startup companies - Wikipedia</a></li>
+**Discussion**: Commenters express skepticism about the self-help industry's value, calling it a 'self-help mafia' and noting that many prefer listening to audiobooks. Some mention using AI to summarize content, while others point to piracy as a factor in declining sales.
 
-</ul>
-</details>
-
-**Tags**: `#AI`, `#funding`, `#India`, `#startup`
+**Tags**: `#AI`, `#publishing`, `#self-help`, `#nonfiction`, `#industry trends`
 
 ---
 
 <a id="item-32"></a>
-## [NewCore raises $66M for AI agent identity management](https://techcrunch.com/2026/06/15/ai-agents-are-becoming-employees-newcore-emerges-with-66m-to-give-them-identities/) ⭐️ 6.0/10
+## [Yak Shaving: The Joy of Distraction](https://parksb.github.io/en/article/32.html) ⭐️ 6.0/10
 
-NewCore has emerged from stealth with $66 million in funding to provide identity management solutions specifically for AI agents in enterprise environments. As enterprises deploy more autonomous AI agents, managing their identities and access rights becomes critical to prevent security breaches; NewCore's funding signals growing recognition of this emerging challenge. The company argues that the next major enterprise security challenge will be managing AI agents rather than human users, requiring dedicated identity frameworks for non-human entities.
+A 2019 blog post titled 'But yak shaving is fun' celebrates the unexpected productivity and enjoyment found in side projects that arise from yak shaving, with community comments sharing personal anecdotes of long-running tangents. This reframes yak shaving—often seen as a productivity pitfall—as a valuable and enjoyable creative process, resonating with many developers who find deep satisfaction in tangential exploration. The post highlights that yak shaving can lead to significant personal projects, such as a 30-year game engine development, and notes that AI tools have reduced the costs of such tangents, making them more feasible.
 
-rss · TechCrunch — 科技创投 · Jun 15, 13:00
+hackernews · parksb · Jun 16, 14:26 · [Discussion](https://news.ycombinator.com/item?id=48555838)
 
-**Background**: Traditional identity and access management (IAM) systems are designed for human users, but AI agents operate at machine speed and scale, requiring new approaches. Industry experts emphasize that AI agents should be treated as first-class digital entities with their own identities, lifecycles, and access policies. Companies like Okta and Frontegg are also exploring AI agent identity management.
+**Background**: Yak shaving is a programming term for the seemingly endless series of small tasks that must be completed before the next step in a project can move forward. It often involves going down rabbit holes that distract from the original goal, but can also lead to valuable discoveries or tools.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.okta.com/identity-101/what-is-ai-agent-identity/">AI Agent Identity for Enterprise Security at Scale | Okta</a></li>
-<li><a href="https://d18d9sahwvtdqs.cloudfront.net/blog/ai-agent-identity-management">AI Agent Identity Management : The Future of Trust | Frontegg</a></li>
-<li><a href="https://www.dock.io/post/ai-agent-identity-management">AI Agent Identity Management : How to Govern Autonomous Agents ...</a></li>
+<li><a href="https://softwareengineering.stackexchange.com/questions/388092/what-exactly-is-yak-shaving">agile - What exactly is Yak Shaving ? - Software Engineering Stack...</a></li>
+<li><a href="https://medium.com/@firehoseproject/a-guide-to-yak-shaving-your-code-d30f98dc759">A Guide to Yak Shaving Your Code. How to Stay Focused... | Medium</a></li>
+<li><a href="https://www.counterpart.biz/blog/yak-shaving/">Yak Shaving : When Tech Projects Get Weirdly Hairy | Counterpart</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI agents`, `#enterprise security`, `#identity management`, `#funding`
+**Discussion**: Commenters shared their own yak shaving stories, including a 30-year game engine project and a macOS GIF generator built instead of writing a blog post. The sentiment is positive, with many finding joy and deep learning in these tangents, though some acknowledge the trade-offs.
+
+**Tags**: `#yak shaving`, `#programming`, `#productivity`, `#side projects`
 
 ---
 
 <a id="item-33"></a>
-## [COVID Shots Still Protect Hearts, Study Finds](https://arstechnica.com/health/2026/06/covid-vaccines-still-protect-against-heart-problems-large-study-finds/) ⭐️ 6.0/10
+## [Snap Unveils Specs AR Glasses with 51° FOV and $2195 Price](https://newsroom.snap.com/introducing-specs-augmented-reality-glasses) ⭐️ 6.0/10
 
-A large study found that COVID-19 vaccines continue to protect against heart problems, including myocarditis and pericarditis, despite concerns about rare vaccine-related heart inflammation. This study reinforces the net benefit of vaccination, especially as anti-vaccine rhetoric has reduced uptake, potentially increasing risks from COVID-19 itself. The study analyzed data from millions of patients and showed that the risk of heart problems from COVID-19 infection far outweighs the rare risk from vaccination.
+Snap announced Specs, its next-generation augmented reality glasses, featuring a 51-degree field of view, 4 hours of mixed-use battery life, and a price of $2195, with pre-orders starting at a $200 deposit and expected delivery in Fall 2026. This product marks Snap's entry into the standalone AR glasses market, competing with Meta and Apple, but the high price point raises questions about ecosystem adoption and developer interest. The glasses weigh 132-136 grams depending on size, support prescription lenses, and come with a charging case that provides an additional 20 hours of battery life. The 51-degree FOV is described as equivalent to viewing a 24-inch monitor at arm's length.
 
-rss · ArsTechnica — 深度科技 · Jun 15, 21:04
+hackernews · haberdasher · Jun 16, 17:00 · [Discussion](https://news.ycombinator.com/item?id=48558337)
 
-**Background**: COVID-19 vaccines have been associated with rare cases of myocarditis, particularly in young males. However, COVID-19 infection itself can cause severe heart complications. This study provides updated evidence on the balance of risks.
+**Background**: Augmented reality glasses overlay digital content onto the real world through transparent lenses. Field of view (FOV) is a key metric; larger FOV provides a more immersive experience. Snap previously released Spectacles for developers, but Specs targets consumers and creators.
 
-**Tags**: `#COVID-19`, `#vaccines`, `#public health`
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.forbes.com/sites/andrewwilliams/2025/06/11/snap-specs-6-key-facts-on-meta-ray-ban-smart-glasses-rivals/">Snap Specs : 6 Key Facts On Meta Ray-Ban Smart Glasses Rivals</a></li>
+<li><a href="https://visionxo.com/articles/what-is-fov-in-smart-glasses-a-complete-beginner-s-guide-to-field-of-view">What Is FOV in Smart Glasses & AR Glasses? Field of View ...</a></li>
+
+</ul>
+</details>
+
+**Discussion**: Community comments highlight concerns about the $2195 price hindering ecosystem growth, with one user noting that previous computing platforms were much cheaper. Another user joked about needing an ad blocker for real life, while a third pointed out inaccuracies in the demo video's location.
+
+**Tags**: `#augmented reality`, `#hardware`, `#Snap`, `#AR glasses`
 
 ---
 
 <a id="item-34"></a>
-## [Nvidia Plans $25B+ Bond Deal, First Since 2021](https://arstechnica.com/ai/2026/06/chipmaker-nvidia-seeks-to-raise-over-25b-in-first-bond-deal-since-2021/) ⭐️ 6.0/10
+## [New York Bill Targets 'Ghost Jobs'](https://www.fastcompany.com/91558427/ghost-jobs-could-soon-be-illegal-in-new-york) ⭐️ 6.0/10
 
-Nvidia is seeking to raise over $25 billion in its first bond deal since 2021, testing investor appetite for AI sector exposure. This deal signals Nvidia's confidence in its growth trajectory and provides a benchmark for AI-related corporate debt, potentially influencing other tech firms' financing strategies. The bond sale comes amid a surge in borrowing by AI companies, and Nvidia's strong credit rating may attract yield-seeking investors despite market volatility.
+New York is considering legislation that would make it illegal for companies to post fake job listings, known as 'ghost jobs', which waste job seekers' time and effort. If passed, this law could set a precedent for other states and protect job seekers from deceptive practices, but enforcement remains a major challenge. The bill would require employers to prove that a job posting is for a real, open position, and violators could face fines. However, critics question how to distinguish ghost jobs from legitimate postings that are later filled or withdrawn.
 
-rss · ArsTechnica — 深度科技 · Jun 15, 19:07
+hackernews · toomuchtodo · Jun 16, 17:01 · [Discussion](https://news.ycombinator.com/item?id=48558338)
 
-**Background**: Nvidia is a leading chipmaker whose GPUs are critical for AI training and inference. The company has not issued bonds since 2021, and this large offering will gauge investor sentiment toward the AI sector's long-term prospects.
+**Background**: Ghost jobs are job postings that companies never intend to fill, often used to collect resumes, test the market, or create an illusion of growth. Job seekers spend hours applying to these positions, only to receive no response. The practice has drawn increasing scrutiny as the job market remains competitive.
 
-**Tags**: `#Nvidia`, `#AI`, `#finance`, `#bond market`, `#investment`
+**Discussion**: Commenters largely support the idea but express skepticism about enforcement. Some suggest requiring companies to send rejection notices, while others worry the practice will simply go underground. One user humorously compares it to unlicensed haunted houses.
+
+**Tags**: `#policy`, `#labor`, `#job market`, `#regulation`
 
 ---
 
 <a id="item-35"></a>
-## [Chinese Rocket Breaks Up Near Starlink, Creates Space Junk](https://arstechnica.com/space/2026/06/a-chinese-rocket-breaks-apart-dangerously-close-to-the-starlink-constellation/) ⭐️ 6.0/10
+## [Qualcomm bets on AI wearables as next computing platform](https://techcrunch.com/2026/06/16/qualcomm-wants-to-be-the-chip-inside-whatever-replaces-your-smartphone-and-it-just-announced-two-products-toward-that-end/) ⭐️ 6.0/10
 
-A Chinese rocket broke apart dangerously close to the Starlink constellation, generating an estimated 100 to 150 new pieces of space debris. This event highlights the growing risk of collisions between satellite constellations and space debris, threatening the safety of operational satellites like Starlink and future space missions. The breakup occurred in June 2026, and the debris field is dangerously close to the Starlink constellation, which consists of thousands of satellites in low Earth orbit.
+Qualcomm CEO Cristiano Amon announced that the company is developing over 40 AI-powered wearable devices, including jewelry, camera-equipped earbuds, pins, and watches, signaling a strategic pivot beyond smartphones. This move positions Qualcomm to lead the next computing paradigm, potentially replacing smartphones with always-on, AI-native wearables that offer personalized, on-device intelligence. The Snapdragon Wear Elite platform, announced in March 2026, features the industry's first NPU-powered wearable chip, delivering up to 12 TOPS of AI performance and supporting 2-billion-parameter models on-device.
 
-rss · ArsTechnica — 深度科技 · Jun 15, 18:55
+rss · TechCrunch — 科技创投 · Jun 16, 18:22
 
-**Background**: Space debris consists of defunct human-made objects in Earth orbit, including derelict spacecraft and fragmentation debris from breakups. The Starlink constellation is a large network of satellites providing global internet coverage, and its proximity to the debris increases collision risks.
+**Background**: Qualcomm has long dominated the smartphone chip market, but as smartphone growth slows, the company is diversifying into wearables. The Snapdragon Wear Elite platform is designed to transform wearables from simple notification devices into active AI assistants, with support for 5G RedCap, Wi-Fi 6, and Bluetooth 6.0.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://arstechnica.com/space/2026/06/a-chinese-rocket-breaks-apart-dangerously-close-to-the-starlink-constellation/">A Chinese rocket breaks apart dangerously close to... - Ars Technica</a></li>
-<li><a href="https://www.wikiwand.com/en/Space_debris">Space debris - Wikiwand</a></li>
+<li><a href="https://www.qualcomm.com/news/releases/2026/03/qualcomm-powers-the-rise-of-personal-ai-with-new-snapdragon-wear">Qualcomm Powers the Rise of Personal AI with New Snapdragon ...</a></li>
+<li><a href="https://www.qualcomm.com/wearables/products/snapdragon-wear-elite-platform">Snapdragon Wear Elite Platform | Qualcomm</a></li>
+<li><a href="https://www.cnx-software.com/2026/03/03/qualcomm-snapdragon-wear-elite-wearable-platform-offers-5g-redcap-wifi-6-bluetooth-6-0-built-in-ai-accelerator/">Qualcomm Snapdragon Wear Elite wearable platform offers 5G ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#space`, `#space debris`, `#Starlink`, `#rocket breakup`
+**Tags**: `#Qualcomm`, `#AI wearables`, `#hardware`, `#smartphone replacement`
 
 ---
 
 <a id="item-36"></a>
-## [20 Years of Intel Macs: Why Apple Switched Twice](https://arstechnica.com/gadgets/2026/06/20-years-of-intel-macs-why-apple-switched-and-why-it-switched-again/) ⭐️ 6.0/10
+## [60% of US consumers put off by 'AI' in brand messaging](https://techcrunch.com/2026/06/16/sixty-percent-of-u-s-consumers-say-ai-in-brand-messaging-is-a-turnoff-survey-finds/) ⭐️ 6.0/10
 
-Ars Technica published a retrospective on the Intel Mac era, examining Apple's 2005 decision to move from PowerPC to Intel and its 2020 shift to Apple Silicon. This retrospective provides historical context for understanding Apple's strategic platform shifts, which have profoundly impacted the Mac's performance, power efficiency, and ecosystem. The Intel transition began in 2006 with the first Intel-based Macs, while the Apple Silicon transition started in 2020 with the M1 chip and completed in June 2023.
+A survey by WordPress VIP found that 60% of US consumers are turned off by the use of 'AI' in brand messaging, even as companies increasingly rely on AI search as a referral channel. This highlights a significant disconnect between corporate enthusiasm for AI and consumer wariness, which could impact marketing strategies and AI adoption in customer-facing communications. The survey specifically measured consumer sentiment toward AI-generated answers and the term 'AI' in brand messaging, revealing a negative reaction despite growing industry use.
 
-rss · ArsTechnica — 深度科技 · Jun 15, 16:32
+rss · TechCrunch — 科技创投 · Jun 16, 16:49
 
-**Background**: Apple has undergone two major processor transitions for its Mac line: from PowerPC to Intel in 2005-2006, and from Intel to its own Apple Silicon (ARM-based) starting in 2020. The first switch aimed to leverage Intel's performance and power efficiency, while the second gave Apple tighter integration of hardware and software, leading to better performance per watt and unified architecture across devices.
+**Background**: Many companies are integrating AI into their products and marketing to appear innovative, but consumers may associate 'AI' with impersonal or untrustworthy experiences. This survey underscores the need for brands to communicate AI benefits without alienating their audience.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Apple_silicon">Apple silicon</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Mac_transition_to_Intel_processors">Mac transition to Intel processors - Wikipedia</a></li>
-<li><a href="https://www.macworld.com/article/234272/apple-transition-to-its-own-processors.html">Apple's transition to its own processors: What to expect | Macworld</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#Apple`, `#Intel Macs`, `#Apple Silicon`, `#history`, `#platform shift`
+**Tags**: `#AI`, `#consumer sentiment`, `#branding`, `#survey`
 
 ---
 
 <a id="item-37"></a>
-## [Earth May Have More Time Before Sun Ends Life](https://arstechnica.com/science/2026/06/good-news-we-have-extra-time-before-the-sun-ends-life-on-earth/) ⭐️ 6.0/10
+## [Flutterwave hits $3.2B valuation with Ripple backing](https://techcrunch.com/2026/06/16/payments-startup-flutterwave-hits-3-2b-valuation-backed-by-ripple/) ⭐️ 6.0/10
 
-New research suggests that Earth may have more time before the Sun's expansion ends life, revising previous estimates of when the planet becomes uninhabitable. This finding extends the timeline for life on Earth, offering a more optimistic outlook for the long-term future of our planet and affecting models of stellar evolution and planetary habitability. The study focuses on whether the Sun will roast Earth's plants or starve them, indicating a shift in understanding the mechanisms that end life on Earth.
+African payments startup Flutterwave has reached a $3.2 billion valuation and secured blockchain company Ripple as both an investor and strategic partner. This deal signals growing convergence between traditional fintech and blockchain-based payments, and highlights Africa as a key market for cross-border payment innovation. Flutterwave became a unicorn in 2021 and has faced regulatory controversies in the past; Ripple is known for its XRP-based cross-border payment network and stablecoin solutions.
 
-rss · ArsTechnica — 深度科技 · Jun 15, 16:28
+rss · TechCrunch — 科技创投 · Jun 16, 15:35
 
-**Background**: The Sun is gradually increasing in luminosity as it ages, which will eventually make Earth too hot for life. Previous estimates suggested this could happen in about 1 billion years, but new research may push that date further into the future.
-
-**Tags**: `#astronomy`, `#climate`, `#science`
-
----
-
-<a id="item-38"></a>
-## [Russia to Address Long-Standing ISS Cracks](https://arstechnica.com/space/2026/06/russia-appears-set-to-finally-address-long-term-serious-space-station-cracks/) ⭐️ 6.0/10
-
-Russia appears set to finally address serious cracks on the International Space Station (ISS), resolving a long-standing dispute with NASA over the issue. This development is significant because unresolved cracks could compromise the structural integrity and safety of the ISS, affecting ongoing scientific research and international cooperation in space. The cracks have been a persistent, behind-the-scenes dispute between NASA and Roscosmos, Russia's space agency. The specific location and severity of the cracks have not been publicly detailed.
-
-rss · ArsTechnica — 深度科技 · Jun 15, 13:54
-
-**Background**: The ISS is a modular space station in low Earth orbit, jointly operated by NASA, Roscosmos, and other space agencies. It has been continuously inhabited since 2000 and is showing signs of aging, including cracks and other wear. Roscosmos is the Russian state corporation responsible for space activities, including the Russian Orbital Segment of the ISS.
+**Background**: Flutterwave is a fintech company founded in 2016 that provides payment infrastructure for merchants and payment service providers across Africa. Ripple is a blockchain company focused on enabling fast, low-cost cross-border payments using its XRP token and stablecoin technology. The partnership could combine Flutterwave's African reach with Ripple's blockchain expertise.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Roscosmos">Roscosmos</a></li>
-<li><a href="https://www.popsci.com/technology/russian-cosmonauts-discover-new-iss-cracks/">ISS reports new cracks as it closes in on retirement | Popular Science</a></li>
-<li><a href="https://www.independent.co.uk/tech/international-space-station-iss-cracks-b1912379.html">The ISS is cracked and facing ‘irreparable’ failures... | The Independent</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Flutterwave">Flutterwave - Wikipedia</a></li>
+<li><a href="https://ripple.com/">Financial Infrastructure & Blockchain Technology Solutions | Ripple</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#space`, `#ISS`, `#engineering`, `#international cooperation`
+**Tags**: `#fintech`, `#payments`, `#blockchain`, `#startup`, `#Africa`
+
+---
+
+<a id="item-38"></a>
+## [Robinhood CEO Avoids AI Excuse for Layoffs](https://techcrunch.com/2026/06/16/robinhoods-note-on-10-layoffs-shows-blaming-ai-isnt-cutting-it/) ⭐️ 6.0/10
+
+Robinhood CEO Vlad Tenev announced a 10% layoff without citing AI restructuring, unlike many tech peers who blame AI for job cuts. This highlights a growing skepticism toward using AI as a scapegoat for layoffs, potentially shifting how tech companies justify workforce reductions. The layoff note conspicuously omitted any mention of AI, contrasting with other tech leaders who have used AI restructuring as a rationale for mass layoffs.
+
+rss · TechCrunch — 科技创投 · Jun 16, 14:50
+
+**Background**: Many tech companies have recently laid off employees, often citing the need to restructure for AI efficiency. Robinhood's approach stands out by not following this trend.
+
+**Tags**: `#layoffs`, `#AI`, `#tech industry`, `#Robinhood`
+
+---
+
+<a id="item-39"></a>
+## [Probably raises $9M to build reliable AI](https://techcrunch.com/2026/06/16/probably-raises-9m-to-build-a-more-reliable-kind-of-ai/) ⭐️ 6.0/10
+
+Probably, an AI startup, has raised $9 million in funding to develop AI systems that reduce hallucinations and achieve accuracy comparable to deterministic systems. This investment highlights the growing demand for trustworthy AI in critical applications, especially in regulated industries like finance and healthcare where errors are costly. Probably's initial product is a data science tool that provides answers from complex datasets with citations and an audit trail, ensuring transparency and verifiability.
+
+rss · TechCrunch — 科技创投 · Jun 16, 13:15
+
+**Background**: Most modern AI systems, like large language models, are probabilistic: they predict the most likely output based on training data, which can lead to hallucinations or factual errors. Deterministic AI, in contrast, follows explicit rules and always produces the same output for the same input, making it more reliable but less flexible. Probably aims to bridge this gap by building AI that combines the flexibility of probabilistic models with the reliability of deterministic systems.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://tech.yahoo.com/ai/deals/articles/probably-raises-9m-build-more-131509796.html">Probably raises $9M to build a more reliable kind of AI</a></li>
+<li><a href="https://aichief.com/news/probably-secures-9m-to-build-dependable-ai/">Probably Secures $9M to Build Dependable AI</a></li>
+<li><a href="https://www.linkedin.com/company/probably-ai">Probably - LinkedIn</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#AI`, `#funding`, `#reliability`, `#hallucination`
+
+---
+
+<a id="item-40"></a>
+## [Foundation Alloy raises $22M for novel super metals](https://techcrunch.com/2026/06/16/this-startups-super-metals-could-soon-be-in-military-drones-luxury-watches-and-chefs-knives/) ⭐️ 6.0/10
+
+Foundation Alloy has raised $22 million in Series A funding to scale production of its super metals made via a solid-state mechanical process called MetalsFIRST, which avoids traditional melting. This breakthrough could enable stronger, lighter metals for military drones, luxury watches, and chef's knives, potentially transforming industries that rely on high-performance alloys. The MetalsFIRST process combines composition design, mechanical alloying, shape forming, and sintering without melting, yielding alloys twice as strong as traditional metals with 10x faster development cycles.
+
+rss · TechCrunch — 科技创投 · Jun 16, 11:25
+
+**Background**: Traditional metal alloys are made by melting and mixing elements, which limits the combinations and properties achievable. Foundation Alloy's solid-state approach allows access to novel compositions and microstructures that cannot be made via melting, enabling ultra-high-performance materials for demanding applications.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://news.mit.edu/2025/new-platform-foundation-alloy-developing-advanced-metals-scale-0703">A new platform for developing advanced metals at scale</a></li>
+<li><a href="https://foundationalloy.com/">Foundation Alloy</a></li>
+<li><a href="https://foundationalloy.com/22m-series-a/">Foundation Alloy Industrializes New Metals Platform with $22M ...</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#materials science`, `#startup`, `#manufacturing`, `#alloys`
 
 ---
 
