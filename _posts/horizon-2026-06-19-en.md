@@ -1,614 +1,357 @@
 # Horizon Daily - 2026-06-19
 
-> From 79 items, 47 important content pieces were selected
+> From 54 items, 32 important content pieces were selected
 
 ---
 
-1. [10K GitHub Repos Found Distributing Trojan Malware](#item-1) ⭐️ 9.0/10
-2. [Noam Shazeer Leaves Google Again to Join OpenAI](#item-2) ⭐️ 9.0/10
-3. [Zero-Touch OAuth for MCP Enhances AI Agent Security](#item-3) ⭐️ 8.0/10
-4. [Forced Consent Costs Elkjop €1.8M After 5-Year Battle](#item-4) ⭐️ 8.0/10
-5. [Hospitals and Universities Repurpose Drugs at 90% Lower Cost](#item-5) ⭐️ 8.0/10
-6. [New Tool Checks How Well LLMs Recognize Your Name](#item-6) ⭐️ 8.0/10
-7. [Modos Flow: 60Hz Color E-Paper Monitor Breaks Barriers](#item-7) ⭐️ 8.0/10
-8. [New Outlook takes 10 seconds vs instant in classic](#item-8) ⭐️ 8.0/10
-9. [Google DeepMind Treats AI Agents as Insider Threats](#item-9) ⭐️ 8.0/10
-10. [AI systems match doctors in diagnosis, but may age poorly](#item-10) ⭐️ 8.0/10
-11. [Baseten reportedly raising $1.5B at $13B valuation](#item-11) ⭐️ 8.0/10
-12. [Amazon aims to challenge Nvidia by selling AI chips](#item-12) ⭐️ 8.0/10
-13. [FERC mandates fast-track grid access for AI data centers](#item-13) ⭐️ 8.0/10
-14. [Texas Data Breach Exposes 3 Million Driver's Licenses](#item-14) ⭐️ 8.0/10
-15. [Apple Opens App Store to Competition in Brazil](#item-15) ⭐️ 8.0/10
-16. [General Intuition in talks to raise $300M at $2B valuation](#item-16) ⭐️ 8.0/10
-17. [FDA Advisors Unanimously Back Moderna's mRNA Vaccine](#item-17) ⭐️ 8.0/10
-18. [Anthropic Python SDK v0.110.0 Adds Code Execution Tool](#item-18) ⭐️ 7.0/10
-19. [Ubiquiti Unveils Enterprise NAS Built on ZFS](#item-19) ⭐️ 7.0/10
-20. [Swiss parliament lifts ban on new nuclear plants](#item-20) ⭐️ 7.0/10
-21. [Cornell's CS 6120 Advanced Compilers Free Online](#item-21) ⭐️ 7.0/10
-22. [The Token Compression Illusion: Why I'm Skeptical of RTK](#item-22) ⭐️ 7.0/10
-23. [Beyond .gitignore: Alternative Git Ignore Methods](#item-23) ⭐️ 7.0/10
-24. [W Social Criticized as Performative European Digital Sovereignty](#item-24) ⭐️ 7.0/10
-25. [Gerrymandle: Daily Puzzle Game Teaches Gerrymandering](#item-25) ⭐️ 7.0/10
-26. [Emacs 31 Preview: Daily Driving New Features](#item-26) ⭐️ 7.0/10
-27. [Datasette Apps: Sandboxed HTML/JS Apps with SQL Access](#item-27) ⭐️ 7.0/10
-28. [ChatGPT Health Upgrade Outperforms Doctors, OpenAI Claims](#item-28) ⭐️ 7.0/10
-29. [Anthropic adds Artifacts to Claude Code for team sharing](#item-29) ⭐️ 7.0/10
-30. [US Blocks SK Telecom's Access to Anthropic's AI Model Over China Ties](#item-30) ⭐️ 7.0/10
-31. [LeCun warns AI labs face bubble explosion](#item-31) ⭐️ 7.0/10
-32. [Midjourney Unveils Full-Body Ultrasound Scanner and Spa](#item-32) ⭐️ 7.0/10
-33. [Adobe Adds AI Agents to Creative Cloud Apps](#item-33) ⭐️ 7.0/10
-34. [Waymo Recalls 3,900 Robotaxis Over Construction Zone Incidents](#item-34) ⭐️ 7.0/10
-35. [NASA Halts Work on Northrop Grumman's Lunar HALO Module](#item-35) ⭐️ 7.0/10
-36. [Android Developer Verification Timeline Announced](#item-36) ⭐️ 7.0/10
-37. [Chinese Investors Secretly Acquired SpaceX Stakes Before IPO](#item-37) ⭐️ 7.0/10
-38. [Sanders Proposes $7 Trillion AI Wealth Fund](#item-38) ⭐️ 7.0/10
-39. [llama.cpp b9701 Refactors Preprocessor, Adds New API](#item-39) ⭐️ 6.0/10
-40. [uv 0.11.22: Wheel-first publishing and preview features](#item-40) ⭐️ 6.0/10
-41. [TesterArmy Launches Agentic Testing Platform for Web and Mobile](#item-41) ⭐️ 6.0/10
-42. [Migrating from GNU Stow to Chezmoi for Dotfiles](#item-42) ⭐️ 6.0/10
-43. [How Alberta Eradicated Rats](#item-43) ⭐️ 6.0/10
-44. [A2A Protocol Adoption Questioned](#item-44) ⭐️ 6.0/10
-45. [Datasette-acl 0.6a0 Expands to General Resource Sharing](#item-45) ⭐️ 6.0/10
-46. [Snap spins off AI video team into new company Dotmo](#item-46) ⭐️ 6.0/10
-47. [Apple Patches High-Severity Eavesdropping Bug in Beats Studio Buds](#item-47) ⭐️ 6.0/10
+1. [Project Valhalla Arrives in JDK 28 After a Decade](#item-1) ⭐️ 9.0/10
+2. [Amateur may have cracked Linear A using AI tools](#item-2) ⭐️ 8.0/10
+3. [ATProto Has No Instances: An RSS Analogy](#item-3) ⭐️ 8.0/10
+4. [AI Use May Degrade Cognitive Skills, Early Evidence Shows](#item-4) ⭐️ 8.0/10
+5. [Zero-Touch OAuth for MCP Goes Stable](#item-5) ⭐️ 8.0/10
+6. [Nobel laureate John Jumper leaves Google DeepMind for Anthropic](#item-6) ⭐️ 8.0/10
+7. [New benchmark shows AI solves only 3% of real knowledge tasks](#item-7) ⭐️ 8.0/10
+8. [Small doses of beneficial trait training broadly improve AI safety](#item-8) ⭐️ 8.0/10
+9. [Google Appeals German Ruling on AI Overview Liability](#item-9) ⭐️ 8.0/10
+10. [FDA Advisors Unanimously Back Moderna mRNA Vaccine](#item-10) ⭐️ 8.0/10
+11. [llama.cpp b9723 Adds Eagle3 Speculative Decoding for Qwen](#item-11) ⭐️ 7.0/10
+12. [Hyundai fully acquires Boston Dynamics from SoftBank](#item-12) ⭐️ 7.0/10
+13. [Bipartisan Bill Targets Government Jawboning of Online Speech](#item-13) ⭐️ 7.0/10
+14. [Google Workspace may block Firefox via Context-Aware Access](#item-14) ⭐️ 7.0/10
+15. [Datasette Apps: Sandboxed HTML/JS Apps with SQL Access](#item-15) ⭐️ 7.0/10
+16. [Norway bans generative AI in elementary schools](#item-16) ⭐️ 7.0/10
+17. [In the Weights: Tool Reveals AI Model Recall of Individuals](#item-17) ⭐️ 7.0/10
+18. [Elastic to Acquire AI Bug Detection Startup DeductiveAI for $85M](#item-18) ⭐️ 7.0/10
+19. [Microsoft discovers lightweight backdoor stealing crypto via USB](#item-19) ⭐️ 7.0/10
+20. [uv 0.11.22: Publish order tweaks, env vars, preview config](#item-20) ⭐️ 6.0/10
+21. [AirPods as Social Escape Tools](#item-21) ⭐️ 6.0/10
+22. [Amazon drops OpenAI film after $50B deal](#item-22) ⭐️ 6.0/10
+23. [AI Chatbot News Usage Rises, Trust Stays Low](#item-23) ⭐️ 6.0/10
+24. [Fusion Startups with Over $100M Raised](#item-24) ⭐️ 6.0/10
+25. [US Ban on Anthropic Models May Boost Brand](#item-25) ⭐️ 6.0/10
+26. [Reliance to Embed AI in Telecom for 500M+ Users](#item-26) ⭐️ 6.0/10
+27. [US Claims ASML's Top Chip Tool May Be in China](#item-27) ⭐️ 6.0/10
+28. [Baseten reportedly raising $1.5B at $13B valuation](#item-28) ⭐️ 6.0/10
+29. [Snap Spins Off AI Video Team into New Company Dotmo](#item-29) ⭐️ 6.0/10
+30. [Satellite rescue mission organized in record time](#item-30) ⭐️ 6.0/10
+31. [Taiwan ramps up drone production amid China tensions](#item-31) ⭐️ 6.0/10
+32. [NASA Halts Work on Northrop Grumman's Lunar HALO Module](#item-32) ⭐️ 6.0/10
 
 ---
 
 <a id="item-1"></a>
-## [10K GitHub Repos Found Distributing Trojan Malware](https://orchidfiles.com/github-repositories-distributing-malware/) ⭐️ 9.0/10
+## [Project Valhalla Arrives in JDK 28 After a Decade](https://www.jvm-weekly.com/p/project-valhalla-explained-how-a) ⭐️ 9.0/10
 
-A security researcher discovered over 10,000 GitHub repositories distributing Trojan malware, exploiting automated dependency resolution and AI agents to infect systems. This large-scale supply chain attack highlights a new vector where malware targets automated tools and AI agents, potentially affecting countless developers and organizations that rely on open-source dependencies. The repositories are frequently updated with new commits to appear in search results, and they target automated dependency resolution rather than human users. The campaign is particularly concerning due to the rise of AI agents that automatically fetch dependencies.
+Project Valhalla's value types and primitive objects, after a decade of development, are finally arriving in JDK 28, enabling dense memory layouts and improved performance for the JVM. This represents a major paradigm shift for Java performance and memory layout, allowing the JVM to store values densely in arrays without per-element headers or pointers, significantly reducing memory footprint and improving cache locality. The feature includes inline classes (value types) that are immutable and identity-free, enabling heap flattening for objects up to 64 bits; larger objects will not be flattened. Null-safety is addressed via a separate null flag.
 
-hackernews · theorchid · Jun 18, 11:45 · [Discussion](https://news.ycombinator.com/item?id=48583928)
+hackernews · philonoist · Jun 19, 06:35 · [Discussion](https://news.ycombinator.com/item?id=48595511)
 
-**Background**: A supply chain attack targets less secure elements in the software supply chain, such as open-source dependencies. Trojan malware disguises itself as legitimate software to trick users or automated systems into installing it. Automated dependency resolution tools like npm, pip, and Maven automatically download dependencies during builds, making them a prime target for such attacks.
+**Background**: Project Valhalla is an experimental OpenJDK project announced in July 2014, led by Brian Goetz, aiming to introduce value types to Java. Traditionally, Java objects carry overhead like headers and pointers, making them memory-inefficient compared to primitive types. Value types combine the performance of primitives with the expressiveness of objects.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Supply_chain_attack">Supply chain attack</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Trojan_(malware)">Trojan (malware)</a></li>
-<li><a href="https://ones.com/blog/automated-dependency-resolution-strategies-tools/">Implementing Automated Dependency Resolution : Key Strategies...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Project_Valhalla_(Java_language)">Project Valhalla (Java language) - Wikipedia</a></li>
+<li><a href="https://medium.com/@vishalpriyadarshi/project-valhalla-bringing-value-types-and-performance-efficiency-to-java-83b85e00b791">Project Valhalla : Bringing Value Types and Performance... | Medium</a></li>
+<li><a href="https://cr.openjdk.org/~dlsmith/jep401/jep401-20210702/specs/primitive-objects-jvms.html">Primitive Objects</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Community members shared personal experiences of similar attacks on their repositories, and discussed how the malware targets AI agents and automated systems rather than humans. Some noted that frequent updates help the repositories appear in 'last updated' searches, increasing their visibility.
+**Discussion**: Community comments show mixed reactions: some appreciate the long-awaited improvement, while others criticize the complexity and compare it unfavorably to C++ features. There is also debate about null-safety and the decision not to flatten larger objects.
 
-**Tags**: `#security`, `#malware`, `#supply chain attack`, `#GitHub`, `#open source`
+**Tags**: `#Java`, `#JVM`, `#Project Valhalla`, `#performance`, `#programming languages`
 
 ---
 
 <a id="item-2"></a>
-## [Noam Shazeer Leaves Google Again to Join OpenAI](https://twitter.com/NoamShazeer/status/2067400851438932297) ⭐️ 9.0/10
+## [Amateur may have cracked Linear A using AI tools](https://aiclambake.com/clamtakes/linear-a/) ⭐️ 8.0/10
 
-Noam Shazeer, co-author of the seminal 'Attention Is All You Need' paper and former Gemini co-lead at Google, has announced he is joining OpenAI. This move comes shortly after his return to Google via the Character.AI talent acquisition in 2024. Shazeer's move from Google to OpenAI signals a major talent shift in the AI industry, potentially accelerating OpenAI's research in transformer-based models. It also highlights the intense competition for top AI researchers between leading companies. Shazeer was a long-time Google researcher who left in 2021 to co-found Character.AI, then returned to Google in 2024 via a licensing deal reportedly worth $2.7 billion. He was made a Gemini co-lead but is now leaving again for OpenAI.
+An amateur researcher, Tom Di Mino, claims to have partially deciphered Linear A, an ancient script that has remained undeciphered for over 120 years, using AI tools including Claude Code. He has translated over 300 words, and his work is currently under academic review by linguistics experts at Rutgers and Cambridge. If validated, this would be a major breakthrough in understanding the Minoan civilization and the history of writing systems. It also demonstrates how AI can assist in deciphering ancient scripts by enabling systematic analysis of fragmented corpora. Di Mino used Claude Code to build Python scripts that query and cross-reference the digitized Linear A corpus from the GORILA and SigLA databases. His approach builds on the 'Libation Formula,' the most studied recurring phrase in Linear A, and reportedly also solves some problems in Linear B.
 
-hackernews · lukasgross · Jun 18, 00:26 · [Discussion](https://news.ycombinator.com/item?id=48578913)
+hackernews · Kosturdistan · Jun 19, 16:04 · [Discussion](https://news.ycombinator.com/item?id=48600107)
 
-**Background**: Noam Shazeer is a co-author of the 2017 paper 'Attention Is All You Need,' which introduced the transformer architecture that underpins most modern AI models like GPT-4 and Gemini. He also contributed to key innovations such as multi-head attention and sparsely-gated mixture of experts. His career spans Google, Character.AI, and now OpenAI.
+**Background**: Linear A is a writing system used by the Minoans on Crete from 1800 BC to 1450 BC. It was rediscovered in 1900 but remains undeciphered, with only about 7,500 characters surviving across roughly 1,500 inscriptions. Linear B, a related script used for Mycenaean Greek, was deciphered in the 1950s, but Linear A's underlying language is unknown.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Noam_Shazeer">Noam Shazeer</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Attention_Is_All_You_Need">Attention Is All You Need - Wikipedia</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Gemini_(AI_model)">Gemini (AI model)</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Linear_A_script">Linear A script</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Claude_Code">Claude Code</a></li>
+<li><a href="https://code.claude.com/docs/en/overview">Overview - Claude Code Docs</a></li>
 
 </ul>
 </details>
 
-**Discussion**: The community expressed surprise at Shazeer's quick departure from Google after his return, with some speculating about internal disagreements or better opportunities at OpenAI. Many commenters highlighted his legendary status at Google and his critical role in the transformer paper, emphasizing that this is a significant loss for Google.
+**Discussion**: The community is cautiously optimistic, with commenters noting that Di Mino's work is more credible than past claims because it is under academic review. Some highlight the clever use of Claude Code to build tools rather than as a black-box solver, while others emphasize that this is an attempt at decipherment, not a proven solution.
 
-**Tags**: `#AI`, `#OpenAI`, `#Google`, `#Transformers`, `#Talent Movement`
+**Tags**: `#linguistics`, `#AI`, `#ancient scripts`, `#Claude Code`, `#research`
 
 ---
 
 <a id="item-3"></a>
-## [Zero-Touch OAuth for MCP Enhances AI Agent Security](https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/) ⭐️ 8.0/10
+## [ATProto Has No Instances: An RSS Analogy](https://overreacted.io/there-are-no-instances-in-atproto/) ⭐️ 8.0/10
 
-Anthropic, in partnership with Okta, Microsoft, and others, introduced Zero-Touch OAuth for the Model Context Protocol (MCP), enabling secure, isolated authentication flows for AI agents using a new ID-JAG token format. This advancement significantly improves security and user experience for AI agents by isolating authentication outside the agent's context window, making it easier for enterprises and end-users to adopt AI tools without compromising security. The Zero-Touch OAuth is powered by the ID-JAG token format, which is not MCP-specific and can be used for secure data sharing between applications using the same SSO provider. The Enterprise Managed Auth (EMA) is now a stable extension in the MCP spec.
+Dan Abramov published a blog post explaining that ATProto, the protocol behind Bluesky, has no 'instances' like Mastodon, and instead uses a modular architecture of Personal Data Servers (PDS), Relays, and AppViews, drawing an analogy to RSS and feed readers. This clarification helps correct a common misconception among those familiar with ActivityPub-based platforms like Mastodon, and highlights ATProto's design philosophy of separating data storage, relay, and application logic, which could influence the future of decentralized social media. In ATProto, a user's data is hosted on their own PDS, which can be self-hosted or provided by a hosting service; Relays aggregate data from many PDSes and make it available to AppViews, which are the actual applications users interact with, such as Bluesky's official app or third-party clients.
 
-hackernews · niyikiza · Jun 18, 21:54 · [Discussion](https://news.ycombinator.com/item?id=48592163)
+hackernews · danabramov · Jun 19, 15:10 · [Discussion](https://news.ycombinator.com/item?id=48599515)
 
-**Background**: MCP (Model Context Protocol) is an open-source standard for connecting AI applications to external systems, providing a standardized interface for reading files, executing functions, and handling contextual prompts. OAuth is a widely used authorization framework that allows third-party services to exchange tokens without sharing credentials. The ID-JAG token format is a new JWT-based token type designed for secure identity assertion between applications.
+**Background**: ActivityPub, used by Mastodon, organizes users into instances (servers) that each host a community and its data; users on different instances can communicate via federation. ATProto, in contrast, decouples these roles: PDS handles storage, Relays handle data propagation, and AppViews handle presentation and logic, allowing for more flexible scaling and independent operation of each component.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://modelcontextprotocol.io/docs/getting-started/intro">What is the Model Context Protocol (MCP)? - Model Context Protocol</a></li>
-<li><a href="https://xaa.dev/docs/token-structure/">Token Structure Reference — ID Token , ID - JAG , Access... | XAA.dev</a></li>
+<li><a href="https://getskyscraper.com/blog/atprotocol-federation-architecture-guide">ATProtocol Federation Architecture : PDS , Relay , AppView & How...</a></li>
+<li><a href="https://news.ycombinator.com/item?id=45078704">in what way can smaller players federate with ATProto ... | Hacker News</a></li>
+<li><a href="https://en.wikipedia.org/wiki/AT_Protocol">AT Protocol - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Community members praised the collaboration and highlighted the security benefits of isolating auth flows outside the agent's context window. Some expressed interest in applying ID-JAG to CLI tools, while others sought clarification on the advantages over regular OAuth. An Anthropic representative engaged directly, welcoming feedback.
+**Discussion**: Comments on Hacker News debated the accuracy of the RSS analogy, with some arguing that Relays are expensive to run and that AppViews heavily depend on them, unlike RSS which didn't rely on a central reader. Others praised the separation of concerns as a beautiful system design solution, while some questioned whether the PDS model is truly decentralized, likening it to client-server architecture.
 
-**Tags**: `#MCP`, `#OAuth`, `#AI agents`, `#security`, `#authentication`
+**Tags**: `#ATProto`, `#decentralized social media`, `#protocol design`, `#Bluesky`, `#ActivityPub`
 
 ---
 
 <a id="item-4"></a>
-## [Forced Consent Costs Elkjop €1.8M After 5-Year Battle](https://www.thatprivacyguy.com/blog/elkjop-forced-consent-fine/) ⭐️ 8.0/10
+## [AI Use May Degrade Cognitive Skills, Early Evidence Shows](https://www.nature.com/articles/d41586-026-01947-1) ⭐️ 8.0/10
 
-A privacy advocate reported that Elkjop, a Norwegian electronics retailer, was fined €1.8 million for requiring customers to consent to marketing as a condition of joining its loyalty club, violating GDPR's consent requirements. The fine was imposed by the Norwegian Data Protection Authority (Datatilsynet) five years after the initial complaint. This case demonstrates that GDPR enforcement can be effective even after years of delay, sending a strong signal to companies that forced consent practices are unlawful. It also empowers individuals to challenge such practices, potentially leading to broader compliance improvements across the EU. The fine was based on a single sentence in Elkjop's response: 'in order to receive marketing/offers, it is a condition to be a member of the customer club.' The Norwegian DPA found that making consent a condition of service violates GDPR Article 7(4), which prohibits bundling consent with contract performance unless necessary.
+A Nature article and Hacker News discussion present early evidence that reliance on AI tools can degrade certain cognitive skills, such as low-level coding and image analysis, while potentially shifting focus to higher-level thinking. This matters because as AI becomes ubiquitous, understanding its impact on human skills is critical for education, workplace productivity, and personal development, raising questions about the long-term trade-offs between efficiency and skill retention. The discussion notes that users like nilirl haven't written a full function of code in over a year but spend more time on architecture, while hodler reports learning new things at an unprecedented pace using AI as a lever.
 
-hackernews · speckx · Jun 18, 18:31 · [Discussion](https://news.ycombinator.com/item?id=48589501)
+hackernews · Michelangelo11 · Jun 19, 18:00 · [Discussion](https://news.ycombinator.com/item?id=48601286)
 
-**Background**: Under the GDPR, consent must be freely given, specific, informed, and unambiguous. Forced consent—where a service is conditional on agreeing to data processing that is not necessary for the service—is explicitly prohibited. This case is a landmark example of that principle being enforced.
+**Background**: Cognitive skills include abilities like memory, attention, and problem-solving. The concern is that outsourcing tasks to AI may lead to skill atrophy, similar to how over-reliance on calculators can weaken mental arithmetic. However, AI might also free up cognitive resources for higher-level tasks.
 
-**Discussion**: Commenters shared links to the official decision and translations, and expressed support for the advocate's persistence. Some noted broader issues with forced consent in job interviews and US privacy practices, highlighting the challenge of exercising rights in environments that discourage pushback.
+**Discussion**: Commenters debate whether AI-induced skill loss mirrors delegation to humans, with cortesoft questioning if wealthy executives face similar atrophy. Others like mellosouls warn of a fundamental challenge to deep thinking, while ianbutler notes that tool use typically follows a curve where preservation requires deliberate effort.
 
-**Tags**: `#GDPR`, `#privacy`, `#consent`, `#data protection`, `#regulation`
+**Tags**: `#AI`, `#cognitive skills`, `#human-computer interaction`, `#productivity`, `#technology impact`
 
 ---
 
 <a id="item-5"></a>
-## [Hospitals and Universities Repurpose Drugs at 90% Lower Cost](https://www.kcl.ac.uk/news/hospitals-and-universities-repurposing-drugs-at-90-lower-cost) ⭐️ 8.0/10
+## [Zero-Touch OAuth for MCP Goes Stable](https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/) ⭐️ 8.0/10
 
-Hospitals and universities are repurposing existing drugs for new indications at a fraction of the cost, challenging traditional pharmaceutical pricing models and improving access to treatments. This approach could significantly reduce healthcare costs and expand treatment options, especially for rare diseases where developing new drugs is economically unviable for pharmaceutical companies. For example, the cancer drug Avastin (bevacizumab) is being used off-label for macular degeneration at $50 per dose, compared to the on-label drug Lucentis at $1,500 per dose, despite being molecularly similar.
+Anthropic, Okta, Microsoft, and others have announced the stable release of Enterprise-Managed Authorization (EMA) for the Model Context Protocol (MCP), enabling zero-touch OAuth flows for AI agents. This is powered by a new IETF draft token format called ID-JAG (Identity Assertion JWT Authorization Grant). This eliminates the need for per-app OAuth configuration, dramatically simplifying enterprise adoption of AI tools while improving security by isolating authentication outside the agent's context window. It also introduces a cross-domain token format (ID-JAG) that is not MCP-specific, potentially benefiting broader identity federation scenarios. EMA is now a stable extension in the MCP spec, and support is rolling out in Claude, VS Code, and other clients. The ID-JAG token enables cross-domain API access by leveraging the existing SSO trust relationship with an identity provider, without requiring interactive OAuth flows.
 
-hackernews · giuliomagnifico · Jun 18, 10:33 · [Discussion](https://news.ycombinator.com/item?id=48583386)
+hackernews · niyikiza · Jun 18, 21:54 · [Discussion](https://news.ycombinator.com/item?id=48592163)
 
-**Background**: Drug repurposing involves investigating existing drugs for new therapeutic purposes, bypassing the costly early-stage development process. However, regulatory pathways for extending approved drugs to new indications without manufacturer consent remain limited, posing a barrier to widespread adoption.
+**Background**: The Model Context Protocol (MCP) is an open standard introduced by Anthropic in November 2024 to standardize how AI systems integrate with external data sources and tools. Traditionally, each MCP server required its own OAuth setup, creating friction for enterprise deployment. EMA addresses this by allowing organizations to centrally manage authorization through their identity provider, with the client automatically obtaining tokens on first login.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Drug_repurposing">Drug repurposing</a></li>
-<li><a href="https://www.fda.gov/news-events/press-announcements/fda-advances-drug-repurposing-address-unmet-medical-needs">FDA Advances Drug Repurposing to Address Unmet Medical Needs</a></li>
-<li><a href="https://link.springer.com/article/10.1007/s10198-024-01731-w">Drug pricing models, no ‘one-size-fits-all’ approach: a ...</a></li>
+<li><a href="https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/">Enterprise-Managed Authorization: Zero-touch OAuth for MCP | Model Context Protocol Blog</a></li>
+<li><a href="https://www.techtimes.com/articles/318708/20260619/mcp-enterprise-authorization-goes-stable-zero-touch-sso-okta-anthropic-vs-code.htm">MCP Enterprise Authorization Goes Stable: Zero-Touch SSO for Okta, Anthropic, VS Code</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Model_Context_Protocol">Model Context Protocol - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Commenters shared personal experiences and examples, such as using Avastin for eye disease and esketamine (Spravato) for depression, highlighting how drug repurposing exposes pricing inefficiencies. Some noted the lack of a regulatory pathway for off-label use without manufacturer consent, while others praised nonprofits like Cures Within Reach for funding repurposing studies for rare diseases.
+**Discussion**: Community members praised the security and UX improvements, with one contributor noting that isolating auth flow outside the agent's context window is a key advantage over alternatives like Skills/CLI. Another developer shared frustration with current Microsoft Entra ID auth implementation, while an Anthropic representative welcomed feedback and confirmed plans to expand adoption to other identity providers.
 
-**Tags**: `#drug repurposing`, `#healthcare`, `#pharmaceutical pricing`, `#rare diseases`, `#cost reduction`
+**Tags**: `#OAuth`, `#MCP`, `#AI agents`, `#security`, `#enterprise`
 
 ---
 
 <a id="item-6"></a>
-## [New Tool Checks How Well LLMs Recognize Your Name](https://www.intheweights.com/) ⭐️ 8.0/10
+## [Nobel laureate John Jumper leaves Google DeepMind for Anthropic](https://the-decoder.com/google-deepmind-loses-another-top-ai-researcher-as-nobel-laureate-john-jumper-leaves-for-anthropic/) ⭐️ 8.0/10
 
-A website called 'Are You in the Weights?' (intheweights.com) queries multiple frontier and small LLMs in parallel to determine how strongly they recognize a given person's name, clustering responses to show recognition strength. This tool reveals the traces individuals leave in LLM training data, raising important questions about privacy, model hallucination, and the extent to which models 'know' specific people, especially as AI becomes a primary information source. The site queries models in parallel and clusters responses; it distinguishes between correct recognition and hallucination (e.g., Llama 3.2 1B misidentified Alfred E. Neuman as a German writer). Users can check their own name, but privacy concerns are noted.
+John Jumper, a 2024 Nobel laureate in Chemistry for his work on AlphaFold, has left Google DeepMind after nearly nine years to join AI safety company Anthropic. This follows the departure of Gemini co-lead Noam Shazeer to OpenAI and AlphaGo researcher David Silver starting his own company. The loss of three top AI researchers from Google DeepMind in a short period signals a potential talent drain that could weaken the lab's competitive edge. Jumper's move to Anthropic, a rival focused on AI safety, may accelerate Anthropic's research capabilities and shift the balance of AI talent. John Jumper joined DeepMind in 2017 and is the youngest Nobel laureate in Chemistry in over 70 years. Anthropic, founded by former OpenAI employees, develops the Claude series of large language models and emphasizes AI safety.
 
-hackernews · turtlesoup · Jun 18, 20:49 · [Discussion](https://news.ycombinator.com/item?id=48591348)
+rss · The Decoder — AI新闻 · Jun 19, 17:54
 
-**Background**: LLM weights are numerical values that determine how the model processes inputs; they encode knowledge from training data. 'Being in the weights' means the model has learned about a person from its training corpus. Frontier models (e.g., GPT-4) are large and capable, while small models (e.g., Llama 3.2 1B) are more efficient but may hallucinate more.
+**Background**: AlphaFold is an AI system developed by DeepMind that predicts protein structures with high accuracy, solving a 50-year-old grand challenge in biology. The 2024 Nobel Prize in Chemistry was awarded to John Jumper and Demis Hassabis for this breakthrough. Anthropic is an AI safety company founded in 2021 by former OpenAI members, known for its Claude models.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.webopedia.com/technology/llm-tokens-weights-parameters/">Anatomy of an LLM: Tokens, Weights and Parameters - Webopedia</a></li>
-<li><a href="https://www.ibm.com/think/topics/llm-parameters">What are LLM parameters? - IBM</a></li>
-<li><a href="https://dev.to/raihan-js/where-small-models-beat-frontier-llms-and-where-they-dont-a-125m-phi-detector-4edb">Where small models beat frontier LLMs... - DEV Community</a></li>
+<li><a href="https://en.wikipedia.org/wiki/John_M._Jumper">John M. Jumper - Wikipedia</a></li>
+<li><a href="https://deepmind.google/blog/demis-hassabis-john-jumper-awarded-nobel-prize-in-chemistry/">Demis Hassabis & John Jumper awarded Nobel Prize in Chemistry</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Anthropic">Anthropic - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Commenters expressed mixed reactions: some found it ego-stroking (nickcw), others worried about privacy (urbnspacecowboy). Several shared their results, noting hallucinations (hyperpape) and the influence of open-source bubbles. The discussion also touched on name disambiguation and SEO tricks.
-
-**Tags**: `#LLM`, `#privacy`, `#AI`, `#web tool`, `#hallucination`
+**Tags**: `#AI research`, `#talent movement`, `#Google DeepMind`, `#Anthropic`, `#Nobel laureate`
 
 ---
 
 <a id="item-7"></a>
-## [Modos Flow: 60Hz Color E-Paper Monitor Breaks Barriers](https://spectrum.ieee.org/modos-e-paper-monitor) ⭐️ 8.0/10
+## [New benchmark shows AI solves only 3% of real knowledge tasks](https://the-decoder.com/new-benchmark-exposes-how-badly-ai-struggles-with-real-knowledge-work/) ⭐️ 8.0/10
 
-Modos, a two-person startup, is developing the Modos Flow, a 13.3-inch color e-paper monitor with a native resolution of 3200x2400, touch input, and a 60Hz refresh rate enabled by a new display controller. This marks a significant leap in e-paper technology, making color e-ink displays viable for general computing tasks like scrolling and video playback, potentially reducing eye strain and power consumption for auxiliary devices. The Modos Flow achieves 60Hz through a custom display controller, a major improvement over typical e-ink screens that refresh at 1-15Hz. The monitor is portable with USB-C connectivity and targets everyday computing use.
+A new benchmark reveals that even the best AI models fully solve only 3% of realistic knowledge work tasks, highlighting severe limitations in current AI capabilities. This finding is significant because it exposes a major gap between AI performance on simplified benchmarks and real-world knowledge work, which could impact enterprise adoption and trust in AI tools. The benchmark specifically targets realistic knowledge work tasks, and the 3% success rate indicates that current AI models struggle with tasks requiring deep reasoning, context understanding, and multi-step problem solving.
 
-hackernews · Vinnl · Jun 18, 11:41 · [Discussion](https://news.ycombinator.com/item?id=48583897)
+rss · The Decoder — AI新闻 · Jun 19, 13:50
 
-**Background**: E-paper displays, like those from E Ink, are bistable and consume power only when changing content, making them ideal for low-power applications like e-readers. However, traditional e-paper has low refresh rates and limited color, hindering its use for dynamic content. The Modos Flow aims to overcome these limitations with a high-refresh color panel.
+**Background**: AI benchmarks often test models on narrow, well-defined tasks, which may not reflect real-world complexity. Knowledge work involves nuanced decision-making, synthesis of information, and domain expertise. This new benchmark aims to provide a more realistic assessment of AI's practical utility.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://spectrum.ieee.org/modos-e-paper-monitor">Modos Color Monitor Pushes E-Paper Displays Further - IEEE Spectrum</a></li>
-<li><a href="https://www.androidauthority.com/modos-flow-e-ink-paper-60hz-display-3677057/">Someone made a portable 60Hz E-Ink display that you can game on - Android Authority</a></li>
-
-</ul>
-</details>
-
-**Discussion**: Community comments are enthusiastic, praising the specs as 'mighty' and noting this is the first e-ink monitor responsive enough for general use. Some express curiosity about the impact of high refresh rates on panel longevity, while others discuss potential use cases like ultralight Android tablets with outdoor displays.
-
-**Tags**: `#e-paper`, `#display technology`, `#hardware`, `#startup`, `#color e-ink`
+**Tags**: `#AI`, `#benchmark`, `#knowledge work`, `#limitations`
 
 ---
 
 <a id="item-8"></a>
-## [New Outlook takes 10 seconds vs instant in classic](https://www.windowslatest.com/2026/06/15/microsofts-new-outlook-takes-10-seconds-to-do-what-outlook-classic-does-instantly-on-windows/) ⭐️ 8.0/10
+## [Small doses of beneficial trait training broadly improve AI safety](https://the-decoder.com/openai-researchers-show-small-doses-of-beneficial-trait-training-make-ai-models-broadly-safer-and-harder-to-manipulate/) ⭐️ 8.0/10
 
-Microsoft's new Outlook, built on WebView2, takes about 10 seconds to perform tasks that Outlook Classic does instantly, as reported by Windows Latest on June 15, 2026. This performance gap highlights the broader issue of software bloat in modern web-based desktop applications, affecting user productivity and satisfaction, especially on high-end hardware. The new Outlook uses WebView2, a Chromium-based rendering engine, which introduces overhead compared to the native Win32 code of Outlook Classic. The delay is noticeable even on fast SSDs and modern CPUs.
+OpenAI researchers demonstrated that applying small amounts of reinforcement learning to reinforce beneficial traits like truthfulness and corrigibility makes AI models safer and harder to manipulate across multiple domains. This approach offers a scalable path to improve AI alignment without extensive human oversight, potentially reducing risks from adversarial manipulation and unintended behaviors in deployed models. The training used only 5% beneficial-trait data mixed with 95% standard RL data, and the model improved on 44 out of 53 benchmarks, including better deception detection after health-domain training.
 
-hackernews · Adam-Hincu · Jun 18, 12:19 · [Discussion](https://news.ycombinator.com/item?id=48584207)
+rss · The Decoder — AI新闻 · Jun 19, 10:08
 
-**Background**: WebView2 allows developers to embed web content (HTML, CSS, JavaScript) into native Windows apps using the Microsoft Edge (Chromium) engine. While it enables hybrid apps, it can lead to performance degradation compared to fully native implementations. Software bloat refers to successive versions of a program becoming slower and more resource-intensive, often due to added features or abstraction layers.
+**Background**: Reinforcement learning from human feedback (RLHF) is a common technique to align AI models, but it can be costly and narrow. Corrigibility refers to an AI's willingness to be corrected or shut down by humans, a key safety property. This research differs from Anthropic's Constitutional AI, which uses a fixed set of principles to guide behavior.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/WebView2">WebView2</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Software_bloat">Software bloat</a></li>
+<li><a href="https://cdn.openai.com/pdf/beneficial-rl.pdf">Reinforcement Learning Towards Broadly and</a></li>
+<li><a href="https://aisecurityandsafety.org/en/glossary/corrigibility/">Corrigibility — AI Safety & Security Definition</a></li>
+<li><a href="https://www.anthropic.com/research/constitutional-ai-harmlessness-from-ai-feedback">Constitutional AI: Harmlessness from AI Feedback - Anthropic</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Commenters expressed frustration with the trend of web-based desktop apps, noting that even Notepad on Windows 11 takes 3-4 seconds to load. Some argued that the new Outlook's slowness stems from poor engineering, not just the web technology, citing Fastmail's fast web client as a counterexample.
-
-**Tags**: `#Microsoft Outlook`, `#performance`, `#WebView2`, `#software bloat`, `#desktop apps`
+**Tags**: `#AI safety`, `#reinforcement learning`, `#OpenAI`, `#alignment`, `#beneficial traits`
 
 ---
 
 <a id="item-9"></a>
-## [Google DeepMind Treats AI Agents as Insider Threats](https://the-decoder.com/google-deepmind-treats-its-own-ai-agents-like-rogue-employees-with-office-keys/) ⭐️ 8.0/10
+## [Google Appeals German Ruling on AI Overview Liability](https://the-decoder.com/google-appeals-ruling-that-made-it-directly-liable-for-ai-generated-search-overview-content/) ⭐️ 8.0/10
 
-Google DeepMind released its 'AI Control Roadmap,' a security framework that treats AI agents as potential insider threats, linking security measures to measurable AI capabilities. An analysis of one million coding tasks revealed that most issues stem from overzealous agents rather than malicious intent. This approach addresses a critical and timely issue of AI agent safety, as AI agents become more capable and integrated into business systems. By treating agents as insider threats, DeepMind sets a precedent for security standards that could influence the entire AI industry. The roadmap includes 15 security measures tied to capability levels, and the analysis of one million coding tasks showed that overzealous agents caused more problems than malicious ones. DeepMind warns that the window for global security standards is closing fast.
+Google is appealing a Munich Regional Court ruling that held it directly liable for AI-generated search overviews that falsely linked two publishers to fraud schemes. This ruling could set a precedent making AI companies directly liable for false statements in AI-generated summaries, potentially reshaping liability frameworks for generative AI in search and beyond. The Munich court treated AI Overviews as Google's own speech rather than neutral aggregation of third-party content, rejecting safe-harbor protections. Google argues the ruling threatens the fundamental operation of AI search features.
 
-rss · The Decoder — AI新闻 · Jun 18, 18:07
+rss · The Decoder — AI新闻 · Jun 19, 09:49
 
-**Background**: AI agents are autonomous systems that can perform tasks on behalf of users, often with access to sensitive data and systems. As they become more capable, they pose insider threat risks similar to rogue employees, potentially causing harm through mistakes or adversarial behavior. Traditional security measures like sandboxing and prompt injection resistance are foundational, but the AI Control Roadmap adds alignment-based guardrails.
+**Background**: AI Overviews are AI-generated summaries that appear above traditional search results. Previously, search engines enjoyed limited liability for third-party content under safe-harbor laws. This ruling challenges that protection for AI-generated output.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://digg.com/tech/s3pamay3">Google DeepMind releases its first AI Control Roadmap , detailing 15...</a></li>
-<li><a href="https://www.lesswrong.com/posts/hEtkyKGoPpFeWnKkX/gdm-ai-control-roadmap">GDM AI Control Roadmap — LessWrong</a></li>
-<li><a href="https://deepmind.google/blog/securing-the-future-of-ai-agents/">Securing internal systems against increasingly capable and imperfectly aligned AI — Google DeepMind</a></li>
+<li><a href="https://the-decoder.com/google-appeals-ruling-that-made-it-directly-liable-for-ai-generated-search-overview-content/">Google appeals ruling that made it directly liable for AI - generated ...</a></li>
+<li><a href="https://cryptobriefing.com/german-court-google-ai-overviews-liability/">German court rules Google liable for false statements in AI Overviews</a></li>
+<li><a href="https://www.techtimes.com/articles/318298/20260612/google-will-appeal-german-ruling-that-makes-it-legally-liable-when-its-ai-overviews-lie.htm">Google Will Appeal a German Ruling That Makes It Legally Liable ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI safety`, `#AI agents`, `#Google DeepMind`, `#cybersecurity`, `#machine learning`
+**Tags**: `#AI liability`, `#legal precedent`, `#Google`, `#search overviews`, `#regulation`
 
 ---
 
 <a id="item-10"></a>
-## [AI systems match doctors in diagnosis, but may age poorly](https://the-decoder.com/ai-systems-rival-doctors-in-new-nature-studies-but-one-result-suggests-the-tech-wont-age-well/) ⭐️ 8.0/10
+## [FDA Advisors Unanimously Back Moderna mRNA Vaccine](https://arstechnica.com/health/2026/06/fda-advisors-unanimously-vote-to-approve-modernas-mrna-after-agency-drama/) ⭐️ 8.0/10
 
-Two new studies published in Nature show that specialized AI systems can diagnose diseases and make treatment decisions as well as physicians in simulated patient cases, sometimes even outperforming them. This demonstrates AI's potential to augment clinical decision-making, but the finding that both systems run on already outdated base models raises concerns about model aging and long-term reliability in medical applications. Both AI systems are specialized for medical tasks and were evaluated on simulated patient cases; however, the base models they run on are already outdated, suggesting that AI performance may degrade over time without continuous updates.
-
-rss · The Decoder — AI新闻 · Jun 18, 14:37
-
-**Background**: AI systems for medical diagnosis are typically trained on large datasets of medical records and images to recognize patterns associated with diseases. Model aging refers to the phenomenon where an AI model's performance degrades over time due to changes in data distribution, clinical practices, or disease patterns. The Nature studies highlight that even state-of-the-art specialized models can become outdated quickly.
-
-**Tags**: `#AI`, `#medical AI`, `#Nature`, `#diagnosis`, `#model aging`
-
----
-
-<a id="item-11"></a>
-## [Baseten reportedly raising $1.5B at $13B valuation](https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/) ⭐️ 8.0/10
-
-AI inference startup Baseten is reportedly close to finalizing a $1.5 billion funding round at a $13 billion valuation, just months after its previous mega-round. This massive round underscores the 'inference gold rush' as investors bet heavily on infrastructure for deploying AI models in production, signaling strong market momentum and confidence in the AI inference space. The reported valuation of $13 billion represents a significant jump from Baseten's previous valuation, reflecting the rapid growth in demand for inference platforms that serve and scale open-source and custom AI models.
-
-rss · TechCrunch — 科技创投 · Jun 18, 21:20
-
-**Background**: AI inference is the process of running a trained AI model to generate outputs, as opposed to training which builds the model. As companies move beyond training into deploying AI applications, inference infrastructure has become a critical bottleneck, driving a surge in investment for startups like Baseten that provide optimized platforms for model serving.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.axios.com/pro/enterprise-software-deals/2026/05/15/inference-training-ai-model">Inference is the new AI gold rush - Axios</a></li>
-<li><a href="https://www.openempower.com/blog/inference-gold-rush-255b-market-kubernetes-wins">The Inference Gold Rush: $255B Market, $5B Startups, and…</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#AI`, `#startup`, `#funding`, `#inference`, `#Baseten`
-
----
-
-<a id="item-12"></a>
-## [Amazon aims to challenge Nvidia by selling AI chips](https://techcrunch.com/2026/06/18/amazon-hopes-to-challenge-nvidia-more-directly-by-selling-its-ai-chips/) ⭐️ 8.0/10
-
-Amazon is in talks to sell its custom AI chips, including Trainium and Inferentia, to other data centers, directly competing with Nvidia in the $50 billion AI chip market. This move could disrupt Nvidia's dominance in AI hardware, offering customers more choices and potentially lowering costs, while opening a massive revenue stream for AWS. CEO Andy Jassy stated this represents a $50 billion opportunity, and Amazon has already secured deals like providing Meta with hundreds of thousands of AI chips.
-
-rss · TechCrunch — 科技创投 · Jun 18, 18:22
-
-**Background**: Amazon has been developing custom AI chips like Trainium for training and Inferentia for inference to reduce reliance on Nvidia's expensive GPUs. These chips are currently used within AWS to power services like Amazon SageMaker and are offered to cloud customers. Selling them directly to other data centers marks a strategic shift from internal use to external sales.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lxcmJiLUVCRTBZcHNZYkZPYmx5Z0FQAQ?hl=en-GH&gl=GH&ceid=GH:en">Google News - Meta to use Amazon Graviton chips in multiyear AI ...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#AI chips`, `#AWS`, `#Nvidia`, `#hardware`, `#cloud computing`
-
----
-
-<a id="item-13"></a>
-## [FERC mandates fast-track grid access for AI data centers](https://techcrunch.com/2026/06/18/ai-data-centers-just-got-a-government-mandated-fast-lane-to-the-grid/) ⭐️ 8.0/10
-
-The U.S. Federal Energy Regulatory Commission (FERC) ordered all six regional grid operators to give data centers a fast lane for grid interconnections, but did not address the underlying electricity supply shortages. This policy accelerates AI infrastructure deployment but risks straining the grid without ensuring adequate power generation, potentially leading to higher energy costs and reliability issues for other consumers. The order requires grid operators to justify or reform tariffs for large energy users, and follows a prior FERC approval of PJM's expedited interconnection track for 'shovel-ready' power projects.
-
-rss · TechCrunch — 科技创投 · Jun 18, 17:49
-
-**Background**: AI data centers consume enormous amounts of electricity—a single hyperscaler can use as much power as 100,000 homes. Global data center electricity demand is projected to reach 1,700 TWh by 2035, about 4.4% of global demand. FERC's action aims to reduce interconnection delays, but critics argue it ignores the need for new power generation.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.ferc.gov/news-events/news/ferc-launches-aggressive-targeted-action-speed-large-load-integration">FERC Launches Aggressive Targeted Action to Speed Large Load Integration</a></li>
-<li><a href="https://www.utilitydive.com/news/ferc-pjm-fast-track-expedited-interconnection-eit/822479/">FERC approves PJM fast-track review for 'shovel-ready' power projects | Utility Dive</a></li>
-<li><a href="https://www.iea.org/reports/energy-and-ai/energy-demand-from-ai">Energy demand from AI – Energy and AI – Analysis - IEA</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#AI infrastructure`, `#energy policy`, `#data centers`, `#grid regulation`, `#sustainability`
-
----
-
-<a id="item-14"></a>
-## [Texas Data Breach Exposes 3 Million Driver's Licenses](https://techcrunch.com/2026/06/18/texas-government-data-breach-allowed-hackers-to-steal-3-million-drivers-licenses-and-passports/) ⭐️ 8.0/10
-
-A data breach in Texas government systems compromised over 3 million driver's licenses and passports, as reported by TechCrunch on June 18, 2026. This breach affects millions of Texans, exposing sensitive identity documents that can be used for fraud and identity theft, highlighting critical vulnerabilities in government cybersecurity. The stolen data includes driver's licenses and passports, which are high-value targets for cybercriminals. The exact method of breach and the affected agency have not been disclosed.
-
-rss · TechCrunch — 科技创投 · Jun 18, 17:12
-
-**Background**: Government databases often contain highly sensitive personal information, making them prime targets for hackers. Data breaches of this scale can lead to long-term identity theft risks for victims.
-
-**Tags**: `#data breach`, `#cybersecurity`, `#privacy`, `#government`
-
----
-
-<a id="item-15"></a>
-## [Apple Opens App Store to Competition in Brazil](https://techcrunch.com/2026/06/18/apple-opens-up-app-store-to-new-competition-in-brazil/) ⭐️ 8.0/10
-
-Apple has agreed to allow alternative app stores and third-party payment processing on iOS in Brazil, following a settlement with Brazilian antitrust regulator CADE. This marks a major regulatory shift in a large market, potentially influencing global app store policies and reducing Apple's control over iOS app distribution. The settlement requires Apple to implement these changes by April 2026, ending a long antitrust investigation that began in 2022.
-
-rss · TechCrunch — 科技创投 · Jun 18, 15:48
-
-**Background**: Apple's App Store has long been criticized for its strict control over app distribution and in-app payments, leading to antitrust investigations worldwide. Brazil's antitrust regulator CADE had issued a provisional measure requiring Apple to loosen restrictions, which the company has now accepted.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://9to5mac.com/2025/05/14/brazilian-regulator-upholds-order-against-apple/">Brazilian antitrust regulator upholds order against Apple - 9to5Mac</a></li>
-<li><a href="https://www.neonpay.com/blog/apples-brazil-antitrust-settlement-whats-going-to-change-for-mobile-game-developers">Apple 's Brazil antitrust settlement: what's going to change for mobile...</a></li>
-<li><a href="https://www.MacObserver.com/news/apple-accepts-new-app-store-rules-to-end-brazil-antitrust-probe/">Apple Accepts New App Store Rules to End Brazil Antitrust Probe</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#Apple`, `#App Store`, `#Brazil`, `#antitrust`, `#regulation`
-
----
-
-<a id="item-16"></a>
-## [General Intuition in talks to raise $300M at $2B valuation](https://techcrunch.com/2026/06/18/general-intuition-in-talks-to-raise-300m-at-around-2b-valuation/) ⭐️ 8.0/10
-
-General Intuition is reportedly in talks to raise $300 million at a valuation of around $2 billion, leveraging Medal's dataset of 2 billion videos per year from 10 million monthly active users to train embodied AI and world models. This massive funding round signals strong investor confidence in embodied AI and world models, which could accelerate the development of AI systems that understand and interact with the physical world, impacting robotics, autonomous systems, and simulation. The dataset consists of 2 billion videos annually from 10 million monthly active users, providing a rich source of real-world interactions for training. General Intuition aims to build world models that can simulate and predict outcomes, enabling more capable embodied agents.
-
-rss · TechCrunch — 科技创投 · Jun 18, 15:20
-
-**Background**: Embodied AI refers to AI systems that have a physical or virtual body and can perceive and act in an environment, while world models are internal predictive models that allow agents to simulate future states. These concepts are central to advancing robotics and autonomous systems, as they enable planning and sample-efficient learning. General Intuition's approach uses large-scale video data to train these models, similar to how large language models are trained on text.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Embodied_cognition">Embodied cognition</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Embodied_agent">Embodied agent - Wikipedia</a></li>
-<li><a href="https://en.wikipedia.org/wiki/World_models">World models</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#AI`, `#funding`, `#embodied AI`, `#world models`, `#startup`
-
----
-
-<a id="item-17"></a>
-## [FDA Advisors Unanimously Back Moderna's mRNA Vaccine](https://arstechnica.com/health/2026/06/fda-advisors-unanimously-vote-to-approve-modernas-mrna-after-agency-drama/) ⭐️ 8.0/10
-
-The FDA's Vaccines and Related Biological Products Advisory Committee voted unanimously to recommend approval of Moderna's mRNA vaccine, following a delay caused by a Trump administration official who refused to review the vaccine in February. This decision reinforces the regulatory credibility of mRNA vaccines amid political interference, and paves the way for broader public access to a key COVID-19 vaccine platform. The unanimous vote came after the FDA advisory committee reviewed data on the vaccine's safety and efficacy; the final approval decision now rests with the FDA itself.
+FDA advisors voted unanimously to recommend approval of Moderna's mRNA vaccine after a Trump administration official initially refused to review it. This decision could pave the way for broader use of mRNA technology beyond COVID-19, impacting public health and vaccine development. The unanimous vote came after political controversy, as a Trump official had blocked the review process earlier this year.
 
 rss · ArsTechnica — 深度科技 · Jun 18, 22:08
 
-**Background**: mRNA vaccines work by delivering genetic instructions for cells to produce a harmless piece of a virus, training the immune system to recognize and fight the actual pathogen. The FDA advisory committee is an independent panel of experts that provides recommendations on vaccine approvals, though the FDA is not bound to follow them. The delay in reviewing Moderna's vaccine was reportedly due to political interference by a Trump administration official.
+**Background**: mRNA vaccines use messenger RNA to instruct cells to produce a harmless piece of a virus, triggering an immune response. FDA advisory committees provide independent expert recommendations to the agency, though the FDA is not bound to follow them.
 
 <details><summary>References</summary>
 <ul>
 <li><a href="https://en.wikipedia.org/wiki/MRNA_vaccine">mRNA vaccine - Wikipedia</a></li>
-<li><a href="https://www.pogo.org/investigations/some-fda-advisors-tapped-to-review-coronavirus-vaccines-received-payments-from-vaccine-companies">Some FDA Advisors Tapped to Review Coronavirus Vaccines Received</a></li>
+<li><a href="https://www.fda.gov/advisory-committees">Advisory Committees | FDA</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#health`, `#vaccine`, `#FDA`, `#Moderna`, `#mRNA`
+**Tags**: `#FDA`, `#Moderna`, `#mRNA vaccine`, `#public health`, `#regulation`
 
 ---
 
-<a id="item-18"></a>
-## [Anthropic Python SDK v0.110.0 Adds Code Execution Tool](https://github.com/anthropics/anthropic-sdk-python/releases/tag/v0.110.0) ⭐️ 7.0/10
+<a id="item-11"></a>
+## [llama.cpp b9723 Adds Eagle3 Speculative Decoding for Qwen](https://github.com/ggml-org/llama.cpp/releases/tag/b9723) ⭐️ 7.0/10
 
-Anthropic released v0.110.0 of its Python SDK on June 18, 2026, adding support for the new code_execution_20260120 tool and fixing several bugs related to header merging and stream event handling. This release enables developers to execute Python code in a sandboxed environment directly through the Anthropic API, expanding the SDK's utility for building AI agents that can perform computations and data analysis. The code execution tool is versioned (code_execution_20260120) and must match the model version; it is not yet available on Amazon Bedrock or Vertex AI. The bug fixes include preserving stream event types in Bedrock and preventing header clobbering for x-stainless-helper.
+llama.cpp release b9723 adds support for Eagle3 speculative decoding for Qwen3.5 and Qwen3.6 models, including deferred boundary checkpoints restore for hybrid models. This release significantly improves inference efficiency for Qwen models, enabling faster token generation while maintaining output quality. It brings state-of-the-art speculative decoding to the widely-used llama.cpp ecosystem, benefiting developers and researchers running LLMs on local hardware. The implementation includes deferred boundary checkpoints restore for hybrid models, a technical enhancement that improves memory management during speculative decoding. The release also includes a server update adding schema and validation features.
 
-github · stainless-app[bot] · Jun 18, 17:18
+github · github-actions[bot] · Jun 19, 11:00
 
-**Background**: Anthropic's Python SDK provides a client interface for interacting with Claude models via the Anthropic API. The code execution tool allows Claude to run Python code in a secure sandbox, enabling tasks like calculations, data processing, and tool orchestration. This feature was previously available in some model versions but is now formally supported in the SDK.
+**Background**: Speculative decoding is an inference optimization technique that uses a lightweight draft model to predict multiple tokens ahead, which are then verified by the target model in a single forward pass. Eagle3 is a state-of-the-art speculative decoding algorithm that operates at the feature level, reusing top-layer features from the target model to achieve higher acceptance rates and faster generation. llama.cpp is a popular open-source C++ implementation for running LLMs efficiently on consumer hardware.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://platform.claude.com/docs/en/agents-and-tools/tool-use/code-execution-tool">Code execution tool - Claude API Docs</a></li>
+<li><a href="https://developer.nvidia.com/blog/an-introduction-to-speculative-decoding-for-reducing-latency-in-ai-inference/">An Introduction to Speculative Decoding for Reducing Latency ...</a></li>
+<li><a href="https://github.com/SafeAILab/EAGLE">GitHub - SafeAILab/EAGLE: Official Implementation of EAGLE-1 ... [2503.01840] EAGLE-3: Scaling up Inference Acceleration of ... [2401.15077] EAGLE: Speculative Sampling Requires Rethinking ... Eagle3 - Speculators Docs Eagle-3 Speculative Decoding on GPU Cloud: 3-4x Faster LLM ... Speculative Decoding - SGLang Documentation</a></li>
+<li><a href="https://arxiv.org/abs/2503.01840">[2503.01840] EAGLE-3: Scaling up Inference Acceleration of ... [2401.15077] EAGLE: Speculative Sampling Requires Rethinking ... Eagle3 - Speculators Docs Eagle-3 Speculative Decoding on GPU Cloud: 3-4x Faster LLM ... Speculative Decoding - SGLang Documentation</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Anthropic`, `#SDK`, `#Python`, `#API`, `#tool`
+**Tags**: `#llama.cpp`, `#speculative decoding`, `#LLM inference`, `#Qwen`
 
 ---
 
-<a id="item-19"></a>
-## [Ubiquiti Unveils Enterprise NAS Built on ZFS](https://blog.ui.com/article/introducing-enterprise-nas) ⭐️ 7.0/10
+<a id="item-12"></a>
+## [Hyundai fully acquires Boston Dynamics from SoftBank](https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/) ⭐️ 7.0/10
 
-Ubiquiti has announced a new enterprise NAS product line built on the ZFS file system, marking its entry into the network-attached storage market. This move could disrupt the enterprise NAS market by combining Ubiquiti's networking expertise with ZFS's advanced data integrity and scalability, but concerns about Ubiquiti's software quality and product abandonment history may temper adoption. The Enterprise NAS features a 3U rack-mount chassis with sixteen 3.5-inch SATA bays, dual 25 Gbps SFP28 and 10 GbE RJ45 ports, hot-swappable M.2 NVMe support, and redundant CRPS power supplies.
+Hyundai Motor Group exercised a put option to acquire SoftBank's remaining 9.65% stake in Boston Dynamics for $325 million, making the robotics firm a wholly owned subsidiary. This acquisition gives Hyundai full control over Boston Dynamics, positioning it to commercialize humanoid robots like Atlas in industrial settings, competing with Tesla's Optimus and others. The deal follows Hyundai's 2020 purchase of an 80% stake for $880 million, which valued Boston Dynamics at $1.1 billion. SoftBank exercised its put option to sell the remaining stake.
 
-hackernews · ksec · Jun 18, 14:24 · [Discussion](https://news.ycombinator.com/item?id=48585866)
+hackernews · ck2 · Jun 19, 16:28 · [Discussion](https://news.ycombinator.com/item?id=48600312)
 
-**Background**: ZFS is a combined file system and logical volume manager known for its data integrity features, including checksums, snapshots, and replication. Ubiquiti is primarily known for networking equipment like UniFi access points and switches, and its entry into storage represents a significant expansion.
+**Background**: Boston Dynamics is known for advanced robots like Atlas, a humanoid robot designed for industrial work. Hyundai, a major automaker, aims to leverage robotics for manufacturing and beyond, especially as South Korea faces a declining working-age population.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://store.ui.com/us/en/products/enas">Enterprise NAS - Ubiquiti Store United States</a></li>
-<li><a href="https://docs.oracle.com/cd/E19253-01/819-5461/zfsover-2/">What Is ZFS? - Oracle</a></li>
-<li><a href="https://nascompares.com/2025/11/05/unifi-unas-series-of-nas-devices-12-months-later-should-you-buy-one/">UniFi UNAS Series of NAS Devices - 12 Months Later, Should ...</a></li>
+<li><a href="https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/">Hyundai takes full control of Boston Dynamics as SoftBank ...</a></li>
+<li><a href="https://auto.economictimes.indiatimes.com/news/auto-technology/hyundai-acquires-softbanks-entire-stake-in-boston-dynamics-for-325-million/131851203">Hyundai Acquires SoftBank's Entire Stake in Boston Dynamics ...</a></li>
+<li><a href="https://cryptobriefing.com/hyundai-acquires-softbank-boston-dynamics-stake/">Hyundai to acquire SoftBank’s remaining stake in Boston ...</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Community sentiment is mixed: some users welcome Ubiquiti's entry into ZFS-based NAS, citing ZFS's superiority, while others express skepticism due to past software quality issues and product abandonment. Concerns about enterprise readiness and Ubiquiti's track record are prominent.
+**Discussion**: Commenters debated the value of humanoid vs. purpose-built robots, with some questioning the efficiency of humanoid forms in manufacturing. Others noted the demographic pressures in South Korea driving automation, and that Atlas still isn't ready for factory use.
 
-**Tags**: `#Ubiquiti`, `#NAS`, `#ZFS`, `#enterprise storage`, `#community discussion`
-
----
-
-<a id="item-20"></a>
-## [Swiss parliament lifts ban on new nuclear plants](https://www.bluewin.ch/en/news/switzerland/parliament-lifts-ban-on-new-nuclear-power-plants-3257535.html) ⭐️ 7.0/10
-
-The Swiss parliament has voted to lift a ban on building new nuclear power plants, a policy shift that still requires approval in a public referendum. This decision could reshape Switzerland's energy strategy, potentially allowing nuclear power to complement renewables in addressing seasonal energy imbalances. The ban was originally enacted after the Fukushima disaster in 2011. The referendum is expected to be highly contested, with left-leaning and green parties strongly opposing nuclear energy.
-
-hackernews · leonidasrup · Jun 18, 14:17 · [Discussion](https://news.ycombinator.com/item?id=48585746)
-
-**Background**: Switzerland currently relies on hydropower and nuclear plants for much of its electricity, but faces a summer-winter energy gap due to seasonal variations in solar and hydro output. Lifting the ban would allow new nuclear projects, including small modular reactors (SMRs), to be considered.
-
-**Discussion**: Comments reveal deep divisions: some see nuclear as a necessary future energy source, while others argue it is too expensive and slow compared to renewables. There is skepticism that the referendum will pass, and some suggest collaborating with France's nuclear expertise instead.
-
-**Tags**: `#nuclear energy`, `#Switzerland`, `#energy policy`, `#renewable energy`, `#referendum`
+**Tags**: `#robotics`, `#acquisition`, `#Hyundai`, `#Boston Dynamics`, `#humanoid robots`
 
 ---
 
-<a id="item-21"></a>
-## [Cornell's CS 6120 Advanced Compilers Free Online](https://www.cs.cornell.edu/courses/cs6120/2025fa/self-guided/) ⭐️ 7.0/10
+<a id="item-13"></a>
+## [Bipartisan Bill Targets Government Jawboning of Online Speech](https://www.eff.org/deeplinks/2026/06/new-bill-takes-aim-government-pressure-silence-lawful-online-speech) ⭐️ 7.0/10
 
-Cornell University's CS 6120: Advanced Compilers course is now available as a free, self-guided online resource, covering topics from static single assignment (SSA) form to dynamic compilation. This provides high-quality, advanced compiler education to a global audience for free, helping train the next generation of compiler engineers and researchers. The course includes lecture videos, notes, and assignments, and has been discussed on Hacker News multiple times since 2020, with over 400 total comments.
+Senators Cruz and Wyden introduced the JAWBONE Act, a bipartisan bill that creates a federal cause of action against government officials who coerce or attempt to coerce online platforms, broadcasters, or AI providers into removing lawful speech, and establishes a transparency system for such communications. This bill directly addresses the growing concern of government 'jawboning'—informal pressure on intermediaries to censor speech—which has been criticized for bypassing due process. If passed, it would empower individuals and organizations to sue government officials for unconstitutional censorship, strengthening First Amendment protections in the digital age. The bill is supported by the EFF, ACLU, and FIRE, among other free-speech organizations. It covers not only social media platforms but also broadcasters and AI providers, and includes transparency requirements for government communications about user content.
 
-hackernews · ibobev · Jun 18, 11:04 · [Discussion](https://news.ycombinator.com/item?id=48583606)
+hackernews · hn_acker · Jun 19, 17:34 · [Discussion](https://news.ycombinator.com/item?id=48600950)
 
-**Background**: SSA form is an intermediate representation where each variable is assigned exactly once, simplifying many compiler optimizations. Dynamic compilation generates code at runtime to improve performance, as used in Java and other languages.
+**Background**: Government 'jawboning' refers to informal pressure by officials on private intermediaries to remove or suppress speech, often without a court order. This practice has been used in contexts like election misinformation and immigration enforcement, raising concerns about First Amendment violations. The EFF has represented clients affected by such coercion, including the creator of the ICEBlock app.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Static_single-assignment_form">Static single-assignment form - Wikipedia</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Dynamic_compilation">Dynamic compilation - Wikipedia</a></li>
+<li><a href="https://www.eff.org/deeplinks/2026/06/new-bill-takes-aim-government-pressure-silence-lawful-online-speech">A New Bill Takes Aim at Government Pressure to Silence Lawful Online Speech | Electronic Frontier Foundation</a></li>
+<li><a href="https://rollcall.com/2026/06/11/bipartisan-bill-targets-government-censorship-threats/">Bipartisan bill targets government censorship threats – Roll Call</a></li>
+<li><a href="https://www.bedrockprinciple.com/p/the-jawbone-act-would-create-a-strong">The JAWBONE Act Would Create A Strong Remedy Against Government Speech Interference</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Commenters praised the course's availability and quality, but some noted that trace compilation is considered a dead end and that some topics (e.g., dead code elimination) are not truly advanced. Others appreciated the inclusion of type feedback and speculation.
+**Discussion**: Commenters expressed mixed reactions: some praised the bipartisan effort and the bill's acronym (JAWBONE), while others questioned whether it would truly protect all lawful speech or could be exploited by future administrations. One commenter noted the irony of Ted Cruz co-sponsoring a bill that could benefit ICEBlock, an app he likely opposes.
 
-**Tags**: `#compilers`, `#education`, `#programming languages`, `#systems`
+**Tags**: `#digital rights`, `#online speech`, `#government coercion`, `#bipartisan bill`, `#EFF`
 
 ---
 
-<a id="item-22"></a>
-## [The Token Compression Illusion: Why I'm Skeptical of RTK](https://mroczek.dev/articles/the-token-compression-illusion-why-im-skeptical-of-rtk/) ⭐️ 7.0/10
+<a id="item-14"></a>
+## [Google Workspace may block Firefox via Context-Aware Access](https://tales.fromprod.com/2026/169/google-workspace-threatening-to-block-firefox.html) ⭐️ 7.0/10
 
-A critical article argues that RTK (Rust Token Killer), a CLI proxy that claims to reduce LLM token consumption by 60-90%, creates an illusion of compression that can confuse LLM agents and lacks proper accuracy evaluation. This matters because RTK is gaining popularity among developers and being pushed by management to cut costs, but if it degrades agent performance or introduces errors, the savings may come at the expense of reliability. The article notes that RTK only compresses command output, not input tokens, and that agents can be made aware of truncation via an environment variable like RTK_DISABLE=1. However, the author and commenters report agents going in circles or using ridiculous workarounds due to compressed output.
+Google Workspace's Context-Aware Access product can be configured by corporate IT to block access from Firefox, based on browser detection via user-agent strings. This highlights ongoing tensions between browser diversity and corporate security policies, and reignites debate over browser detection versus feature detection. The blocking is not a Google-wide policy but an admin-configurable feature in Context-Aware Access, meaning corporate IT decides which browsers are allowed.
 
-hackernews · lackoftactics · Jun 18, 17:37 · [Discussion](https://news.ycombinator.com/item?id=48588755)
+hackernews · birdculture · Jun 19, 16:30 · [Discussion](https://news.ycombinator.com/item?id=48600345)
 
-**Background**: Token compression is an optimization technique that reduces the number of tokens in LLM inputs to improve efficiency and reduce costs. RTK is an open-source CLI proxy that filters and compresses command outputs before they reach the LLM context, claiming up to 89% compression. However, critics argue that aggressive compression can lose critical information and confuse agents.
+**Background**: Context-Aware Access is a Google Workspace security feature that lets admins set access policies based on user identity, device, and location. User-agent strings are HTTP headers that identify the browser and OS, often used for browser detection but criticized for being unreliable and encouraging browser fingerprinting.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://github.com/rtk-ai/rtk">GitHub - rtk-ai/rtk: CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies · GitHub</a></li>
-<li><a href="https://www.rtk-ai.app/">RTK — Rust Token Killer</a></li>
-<li><a href="https://madplay.github.io/en/post/rtk-reduce-ai-coding-agent-token-usage">I Only Compressed CLI Output, Yet Tokens Dropped by 80%? | MadPlay🚀</a></li>
+<li><a href="https://support.google.com/a/answer/9275380?hl=en-ID">Protect your business with Context - Aware Access - Google ...</a></li>
+<li><a href="https://knowledge.workspace.google.com/admin/security/assign-context-aware-access-levels-to-apps">Assign Context - Aware Access levels to apps | Security & data...</a></li>
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/Browser_detection_using_the_user_agent">Browser detection using the user agent string (UA sniffing) - HTTP | MDN</a></li>
 
 </ul>
 </details>
 
-**Discussion**: The community discussion (82 comments) shows mixed sentiment: some agree with the author's skepticism, sharing experiences of agents getting confused by RTK output, while others suggest workarounds like using RTK_DISABLE=1. A commenter also mentions an alternative tool called headroom with broader scope.
+**Discussion**: Commenters note that the blocking is configurable by corporate IT, not a Google decision, and criticize the use of browser detection over feature detection. Some express concern that Google may slowly push changes that limit browser choice.
 
-**Tags**: `#LLM`, `#token compression`, `#RTK`, `#software engineering`, `#critical analysis`
-
----
-
-<a id="item-23"></a>
-## [Beyond .gitignore: Alternative Git Ignore Methods](https://nelson.cloud/.gitignore-isnt-the-only-way-to-ignore-files-in-git/) ⭐️ 7.0/10
-
-An article explores lesser-known Git ignore mechanisms beyond .gitignore, including per-repository local excludes via .git/info/exclude and global excludes via core.excludesFile. The community discussion adds .gitattributes for suppressing diffs as an 'almost ignore' technique. Understanding these alternatives helps developers avoid cluttering shared .gitignore files with personal or environment-specific patterns, improving team collaboration. The .gitattributes diff suppression technique can reduce noise in code reviews for files like package-lock.json. The .git/info/exclude file works like a local .gitignore that is not committed, while global excludes apply to all repositories via core.excludesFile. The .gitattributes file can mark files as binary or set diff attributes to suppress diffs without ignoring the files entirely.
-
-hackernews · FergusArgyll · Jun 18, 10:29 · [Discussion](https://news.ycombinator.com/item?id=48583356)
-
-**Background**: Git provides multiple ways to ignore files: .gitignore is the most common and is shared via version control. However, for personal preferences like IDE files or OS artifacts, using a global exclude or local exclude prevents polluting project files. The .gitattributes file controls attributes like diff generation, allowing selective suppression of diffs.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://devtut.github.io/git/ignoring-files-and-folders.html">Git - Ignoring Files and Folders</a></li>
-<li><a href="https://docs.github.com/en/get-started/git-basics/ignoring-files">You can configure Git to ignore files you don't want to check in to GitHub.</a></li>
-<li><a href="https://git-scm.com/docs/gitattributes">Git - gitattributes Documentation</a></li>
-
-</ul>
-</details>
-
-**Discussion**: Commenters praised the global exclude feature for avoiding clutter in shared .gitignore files, with one noting it's a pleasant surprise for teammates. Another highlighted .gitattributes for suppressing diffs of noisy files like package-lock.json. Some debated the proper location for global git config, preferring ~/.config/git/ignore over ~/.gitignore_global.
-
-**Tags**: `#Git`, `#Version Control`, `#Developer Tools`, `#Best Practices`
+**Tags**: `#Google Workspace`, `#Firefox`, `#browser compatibility`, `#corporate IT`, `#user-agent`
 
 ---
 
-<a id="item-24"></a>
-## [W Social Criticized as Performative European Digital Sovereignty](https://blog.elenarossini.com/w-social-public-institutions-and-the-theater-of-european-digital-sovereignty/) ⭐️ 7.0/10
-
-Elena Rossini's blog post critiques W Social, a new European social network, as a performative, profit-driven venture lacking transparency, and contrasts it with Eurosky, a more open alternative built by a non-profit foundation. This critique highlights tensions in Europe's push for digital sovereignty, questioning whether initiatives like W Social genuinely serve public interests or merely mimic U.S. platforms while lacking openness and accountability. W Social is a Swedish limited company with a team of entrepreneurs and investors from media, tech, and AI sectors, while Eurosky is run by Stichting Modal, a non-profit foundation, and builds everything in the open with a public roadmap.
-
-hackernews · nemoniac · Jun 18, 12:46 · [Discussion](https://news.ycombinator.com/item?id=48584497)
-
-**Background**: European digital sovereignty refers to the EU's efforts to reduce dependence on non-European tech platforms, especially from the U.S. and China. W Social and Eurosky are both attempts to create a European alternative to platforms like X (formerly Twitter) and Bluesky, but they differ significantly in governance and transparency.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://wsocial.news/">W - The European social network for verified humans</a></li>
-<li><a href="https://eurosky.tech/">Eurosky - Building a thriving open social web for Europe</a></li>
-
-</ul>
-</details>
-
-**Discussion**: Commenters expressed skepticism about W Social's transparency and motives, with some comparing it to TruthSocial and noting its corporate structure. Others highlighted Eurosky as a more trustworthy alternative, criticizing the lack of press coverage for Eurosky compared to W Social's high-profile launch.
-
-**Tags**: `#digital sovereignty`, `#social media`, `#Europe`, `#transparency`, `#open source`
-
----
-
-<a id="item-25"></a>
-## [Gerrymandle: Daily Puzzle Game Teaches Gerrymandering](https://gerrymandle.cc/) ⭐️ 7.0/10
-
-Gerrymandle is a daily puzzle game that lets players redraw electoral districts to achieve a desired outcome, teaching the concept of gerrymandering through interactive play. The game makes a complex and often opaque political tactic accessible to a broad audience, with potential use in civics education to foster understanding of electoral system vulnerabilities. The game simplifies real-world gerrymandering by ignoring tie-breaking rules and focusing on the core tactics of 'cracking' and 'packing' voters. It has received positive feedback for its clear instructions and engaging presentation.
-
-hackernews · realmofthemad · Jun 18, 14:16 · [Discussion](https://news.ycombinator.com/item?id=48585739)
-
-**Background**: Gerrymandering is the manipulation of electoral district boundaries to favor a particular party or group, often through 'cracking' (diluting opposition votes) or 'packing' (concentrating them). The term originates from a 1812 Massachusetts redistricting plan signed by Governor Elbridge Gerry, which created a district shaped like a salamander. This practice is widely considered a corruption of democratic processes.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Gerrymandering">Gerrymandering</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Electoral_district">Electoral district</a></li>
-
-</ul>
-</details>
-
-**Discussion**: Commenters praised the game's educational value, suggesting it could be used in high school civics classes. Some noted simplifications, like ignoring ties, but felt the core concept was well conveyed. Others discussed alternative voting systems and mathematical approaches to fair districting.
-
-**Tags**: `#game`, `#gerrymandering`, `#education`, `#politics`, `#puzzle`
-
----
-
-<a id="item-26"></a>
-## [Emacs 31 Preview: Daily Driving New Features](https://www.rahuljuliato.com/posts/emacs-31-around-the-corner) ⭐️ 7.0/10
-
-A detailed preview of Emacs 31 highlights changes the author uses daily, including improved LLM integration and other enhancements. Emacs remains a vital tool for serious developers, and this preview shows it continues to evolve with modern needs like AI integration. The article covers specific changes the author uses daily, but exact version numbers or release dates are not provided in the summary.
-
-hackernews · frou_dh · Jun 18, 12:10 · [Discussion](https://news.ycombinator.com/item?id=48584135)
-
-**Background**: Emacs is a highly extensible, customizable text editor first released in 1976. It uses a Lisp-based scripting language for configuration and extension, making it powerful for developers.
-
-**Discussion**: The community is enthusiastic about Emacs 31, with users affirming its enduring relevance and noting that LLM integration makes it even more powerful. Some jokingly admit they will upgrade but continue using Emacs the same way as before.
-
-**Tags**: `#emacs`, `#editor`, `#open-source`, `#software-update`, `#community-discussion`
-
----
-
-<a id="item-27"></a>
+<a id="item-15"></a>
 ## [Datasette Apps: Sandboxed HTML/JS Apps with SQL Access](https://simonwillison.net/2026/Jun/18/datasette-apps/#atom-everything) ⭐️ 7.0/10
 
-Datasette Apps is a new plugin that allows hosting custom HTML+JavaScript applications inside a sandboxed iframe, with read-only and optionally write SQL access to Datasette data. This plugin significantly expands Datasette's capabilities by enabling interactive, custom frontends directly within the platform, similar to Claude Artifacts, and opens up new possibilities for data exploration and visualization. Apps run in a sandboxed iframe with `allow-scripts allow-forms` and an injected CSP header that prevents HTTP requests to external hosts, blocking data exfiltration. Write access requires pre-configured stored queries.
+Simon Willison launched datasette-apps, a new plugin for Datasette that allows hosting sandboxed HTML+JavaScript applications inside Datasette with read/write SQL capabilities. This plugin transforms Datasette from a data exploration tool into a platform for building custom interactive applications, enabling users to create rich frontends directly on top of their SQLite data without external hosting. Apps run in a sandboxed iframe with 'allow-scripts allow-forms' and a CSP header that blocks outbound HTTP requests, preventing data exfiltration. Write queries require pre-configured stored queries.
 
 rss · Simon Willison — AI工具 · Jun 18, 23:58
 
-**Background**: Datasette is an open-source tool for exploring and publishing structured data, with a plugin ecosystem that extends its functionality. The sandboxed iframe pattern isolates untrusted code, while the CSP header adds an extra layer of security against data exfiltration.
+**Background**: Datasette is an open-source tool for exploring and publishing data, built on SQLite. It has a plugin ecosystem that extends its functionality. Sandboxed iframes are a web security mechanism that restricts what embedded content can do, preventing access to cookies, localStorage, and external network requests.
 
 <details><summary>References</summary>
 <ul>
@@ -618,275 +361,100 @@ rss · Simon Willison — AI工具 · Jun 18, 23:58
 </ul>
 </details>
 
-**Tags**: `#datasette`, `#plugin`, `#sql`, `#web-development`, `#sandbox`
+**Tags**: `#datasette`, `#plugin`, `#web-development`, `#sql`, `#sandbox`
 
 ---
 
-<a id="item-28"></a>
-## [ChatGPT Health Upgrade Outperforms Doctors, OpenAI Claims](https://the-decoder.com/chatgpts-new-health-upgrade-beats-doctor-written-answers-openai-says/) ⭐️ 7.0/10
+<a id="item-16"></a>
+## [Norway bans generative AI in elementary schools](https://the-decoder.com/norway-bans-generative-ai-tools-in-elementary-schools-to-protect-kids-basic-learning-skills/) ⭐️ 7.0/10
 
-OpenAI has upgraded ChatGPT with GPT-5.5 Instant, achieving a 71% reduction in error rate for health-related statements and outperforming doctor-written answers in accuracy, clarity, and completeness according to OpenAI's internal tests. This marks a significant leap in AI healthcare capabilities, potentially enabling more reliable and accessible health information for consumers and supporting clinical decision-making, though the claims are based on OpenAI's own evaluations. The upgrade is part of GPT-5.5 Instant, released on May 5, 2026, which also improves photo analysis, STEM question answering, and web search usage. OpenAI introduced HealthBench, a benchmark developed with over 250 physicians, to evaluate model performance in realistic healthcare scenarios.
+Norway announced a ban on generative AI tools in elementary schools (grades 1-7) starting in late August, while secondary schools will allow supervised use only. This policy sets a precedent for AI regulation in education, prioritizing foundational skills like reading, writing, and math over early AI adoption, and may influence other countries' approaches. Prime Minister Jonas Gahr Støre emphasized that children must first learn basic skills before using AI. The ban applies to all generative AI tools, including chatbots and image generators.
 
-rss · The Decoder — AI新闻 · Jun 18, 19:17
+rss · The Decoder — AI新闻 · Jun 19, 18:45
 
-**Background**: GPT-5.5 Instant is the latest iteration in OpenAI's GPT series, succeeding GPT-5.4 and earlier models. HealthBench is a new evaluation benchmark designed to test AI models on realistic health queries, covering diagnosis, treatment suggestions, and patient support. The benchmark aims to provide a shared standard for safety and accuracy in healthcare AI.
+**Background**: Generative AI refers to artificial intelligence that can create new content such as text, images, or code. Norway's education system includes compulsory primary and lower secondary school (grades 1-10), with grades 1-7 corresponding to elementary level. The debate over AI in education centers on balancing technological benefits with potential harm to foundational learning.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://openai.com/index/healthbench/">Introducing HealthBench | OpenAI</a></li>
-<li><a href="https://openai.com/index/gpt-5-5-instant/">GPT-5.5 Instant: smarter, clearer, and more personalized</a></li>
+<li><a href="https://www.gkmit.co/blog/top-generative-ai-tools-boost-productivity-in-2024/">Top Generative AI Tools : Boost Productivity in 2024</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI`, `#Healthcare`, `#OpenAI`, `#GPT-5.5`, `#Natural Language Processing`
+**Tags**: `#AI regulation`, `#education`, `#generative AI`, `#policy`
 
 ---
 
-<a id="item-29"></a>
-## [Anthropic adds Artifacts to Claude Code for team sharing](https://the-decoder.com/anthropic-brings-artifacts-to-claude-code-letting-teams-share-live-pages-from-coding-sessions/) ⭐️ 7.0/10
+<a id="item-17"></a>
+## [In the Weights: Tool Reveals AI Model Recall of Individuals](https://the-decoder.com/website-in-the-weights-shows-whether-ai-models-know-who-you-are/) ⭐️ 7.0/10
 
-Anthropic has introduced Artifacts to Claude Code, allowing developers to turn coding session outputs into live, interactive web pages that can be shared with team members via a private URL. This feature enhances real-time collaboration by enabling teams to preview and iterate on code-generated artifacts directly from the coding environment, reducing context switching and improving feedback loops. Artifacts pull from the full session context, update automatically when changes are made, and maintain a version history. They are hosted at a private URL accessible only within the user's organization.
+Two former OpenAI employees launched a website called 'In the Weights' that shows how strongly AI models can recall specific individuals from their training data, with celebrities like Mozart, Shakespeare, and Taylor Swift scoring highest. This tool highlights potential privacy risks in AI training data memorization, as it demonstrates that models can retain identifiable information about individuals, raising concerns for data protection and regulatory compliance. The website assigns a strength score up to 996 to indicate how deeply a person is embedded in the model's training data, and it is built by former OpenAI employees, adding credibility to the findings.
 
-rss · The Decoder — AI新闻 · Jun 18, 19:02
+rss · The Decoder — AI新闻 · Jun 19, 08:24
 
-**Background**: Claude Code is Anthropic's agentic coding tool that integrates with VS Code and operates across entire projects to understand codebases, execute multi-file changes, and complete development tasks autonomously. Artifacts are live, interactive files that Claude creates and renders directly in the chat interface, previously available in Claude.ai but now extended to the coding environment.
+**Background**: Large language models (LLMs) are trained on vast datasets that may include personal information, and they can sometimes memorize and reproduce that data. 'In the Weights' provides a public interface to probe this memorization, making the phenomenon more transparent.
+
+**Tags**: `#AI`, `#privacy`, `#training data`, `#OpenAI`, `#tool`
+
+---
+
+<a id="item-18"></a>
+## [Elastic to Acquire AI Bug Detection Startup DeductiveAI for $85M](https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/) ⭐️ 7.0/10
+
+Elastic has agreed to acquire DeductiveAI, a startup that uses AI to automatically detect and resolve software bugs, for up to $85 million. This acquisition signals that AI-native operations tooling is becoming core infrastructure for observability platforms, potentially transforming how software teams handle bug detection and resolution. DeductiveAI was founded in 2023 and came out of stealth in November 2025 with a $7.5 million seed round led by CRV, with participation from Databricks Ventures and Thomvest Ventures.
+
+rss · TechCrunch — 科技创投 · Jun 19, 00:51
+
+**Background**: Elastic is the company behind Elasticsearch, a popular search and analytics engine. Its observability platform helps organizations monitor and troubleshoot their systems. DeductiveAI's technology will be integrated into Elastic's platform to provide automated bug detection and resolution capabilities.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://claude.com/blog/artifacts-in-claude-code">Claude Code now supports artifacts | Claude</a></li>
-<li><a href="https://code.claude.com/docs/en/artifacts">Share session output as artifacts - Claude Code Docs</a></li>
-<li><a href="https://dev.to/hira_jabeen_ccaa191c13070/ultimate-claude-artifacts-guide-45k3">Ultimate claude artifacts-guide - DEV Community</a></li>
+<li><a href="https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/">Source: Elastic agrees to buy CRV-backed DeductiveAI for up ...</a></li>
+<li><a href="https://startupfortune.com/elastics-85-million-bet-on-deductiveai-is-a-signal-that-ai-native-ops-tooling-is-now-acquisition-currency/">Elastic's $85 million bet on DeductiveAI is a signal that AI ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI`, `#Claude Code`, `#collaboration`, `#developer tools`
+**Tags**: `#acquisition`, `#AI`, `#bug detection`, `#Elastic`, `#startup`
 
 ---
 
-<a id="item-30"></a>
-## [US Blocks SK Telecom's Access to Anthropic's AI Model Over China Ties](https://the-decoder.com/alleged-china-ties-at-sk-telecom-alarmed-us-officials-and-triggered-anthropic-crisis/) ⭐️ 7.0/10
+<a id="item-19"></a>
+## [Microsoft discovers lightweight backdoor stealing crypto via USB](https://arstechnica.com/security/2026/06/microsoft-spots-new-self-propagating-malware-for-stealing-cryptocurrency/) ⭐️ 7.0/10
 
-US officials intervened to block SK Telecom's access to Anthropic's Claude Mythos AI model through the Project Glasswing partner program, citing alleged ties between the South Korean conglomerate and China. This incident highlights escalating geopolitical tensions in the AI industry, where national security concerns can override commercial partnerships and restrict access to cutting-edge AI models. SK Telecom had invested $100 million in Anthropic in 2023 and formed a commercial partnership to develop a telecom-specific AI model. The White House asked Anthropic to revoke SK Telecom's access to Mythos, and Anthropic immediately complied.
+Microsoft Threat Intelligence has identified a new malware campaign, dubbed 'Crypto Clipper,' that spreads via infected USB drives and uses the Tor network for command-and-control communication to steal cryptocurrency. This malware combines clipboard theft, wallet replacement, and worm-like propagation with a lightweight backdoor, enabling persistent access and follow-on attacks, posing a significant threat to cryptocurrency users and Windows systems. The campaign has been active since February 2026, using LNK files delivered via USB to infect Windows machines, and the malware communicates with its command-and-control server over Tor to hide its traffic.
 
-rss · The Decoder — AI新闻 · Jun 18, 18:54
+rss · ArsTechnica — 深度科技 · Jun 18, 23:28
 
-**Background**: Project Glasswing is an Anthropic initiative that provides early access to advanced AI models for cybersecurity defense. Claude Mythos is Anthropic's most capable model for cybersecurity and biology research, released in April 2026. The US government has increasingly scrutinized foreign investments in AI companies over national security concerns.
+**Background**: Tor (The Onion Router) is a free, open-source network that anonymizes internet traffic by routing it through multiple volunteer-operated relays, making it difficult to trace. Cryptocurrency clipper malware monitors the clipboard for wallet addresses and replaces them with the attacker's address to redirect funds. Worm-like propagation allows the malware to self-replicate via removable media like USB drives.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.anthropic.com/glasswing">Project Glasswing: Securing critical software for the AI era - Anthropic</a></li>
-<li><a href="https://www.anthropic.com/claude/mythos">Claude Mythos \ Anthropic</a></li>
-<li><a href="https://www.bbc.com/news/articles/crk1py1jgzko">What is Anthopic's Claude Mythos and what risks does it pose?</a></li>
+<li><a href="https://www.microsoft.com/en-us/security/blog/2026/06/17/crypto-clipper-uses-tor-worm-like-propagation-for-persistence-control/">Crypto Clipper uses Tor and worm-like propagation for ...</a></li>
+<li><a href="https://thehackernews.com/2026/06/microsoft-details-windows-clipper.html">Microsoft Details Windows Clipper Malware Campaign Using USB ...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Tor_(network)">Tor (network)</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Commenters expressed skepticism about the official rationale, suggesting the block may be politically motivated against Anthropic's perceived liberal leanings. Some noted the irony that SK Telecom's investment in a US company backfired, while others questioned why the model is not available in the US either.
-
-**Tags**: `#AI`, `#geopolitics`, `#Anthropic`, `#national security`, `#SK Telecom`
+**Tags**: `#malware`, `#cryptocurrency`, `#security`, `#Tor`, `#USB`
 
 ---
 
-<a id="item-31"></a>
-## [LeCun warns AI labs face bubble explosion](https://the-decoder.com/yann-lecun-warns-ai-labs-like-openai-and-anthropic-face-a-big-bubble-explosion/) ⭐️ 7.0/10
+<a id="item-20"></a>
+## [uv 0.11.22: Publish order tweaks, env vars, preview config](https://github.com/astral-sh/uv/releases/tag/0.11.22) ⭐️ 6.0/10
 
-Yann LeCun warned that AI labs like OpenAI and Anthropic are heading for a 'big bubble explosion' because their operations are subsidized by investors and operating costs are not dropping fast enough. This warning from a prominent AI figure highlights potential unsustainability in the current AI investment boom, which could lead to a market correction affecting startups, investors, and the broader AI ecosystem. LeCun's criticism is not entirely selfless, as his own startup AMI Labs raised $1 billion for an alternative approach to AI focused on world models rather than large language models.
-
-rss · The Decoder — AI新闻 · Jun 18, 13:35
-
-**Background**: Yann LeCun is a Turing Award winner and former Chief AI Scientist at Meta. He co-founded AMI Labs in December 2025, which raised $1.03 billion from investors including Bezos Expeditions, Nvidia, and Samsung. The AI industry has seen massive investment in large language models like GPT-4, but concerns about high costs and limited revenue have led to bubble warnings.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/AMI_Labs">AMI Labs</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#AI industry`, `#bubble`, `#Yann LeCun`, `#OpenAI`, `#Anthropic`
-
----
-
-<a id="item-32"></a>
-## [Midjourney Unveils Full-Body Ultrasound Scanner and Spa](https://the-decoder.com/midjourney-known-for-ai-image-generation-unveils-a-full-body-ultrasound-scanner-and-its-own-spa/) ⭐️ 7.0/10
-
-Midjourney, the AI image generation startup, has announced a full-body ultrasound scanner with 500,000 transducers and a 60-second scan time, and plans to open a spa in San Francisco by the end of 2027 to house it. This unexpected pivot from an AI software company into medical hardware and wellness services signals a potential new trend where AI firms leverage their expertise in data and imaging to enter healthcare. If successful, it could democratize full-body scanning and make preventive health monitoring more accessible. The scanner uses ultrasonic CT technology with 500,000 transducers, generating 17 GB/s of data, and completes a full-body scan in 60 seconds without radiation. Midjourney aims to reach 1 billion scans per month by 2031.
-
-rss · The Decoder — AI新闻 · Jun 18, 13:21
-
-**Background**: Midjourney is best known for its AI image generation platform that creates art from text prompts. The company has been rumored to be working on hardware for years, and its CEO David Holz previously co-founded Leap Motion, a motion-tracking hardware company. This move into medical imaging and wellness represents a significant expansion beyond its core AI software business.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://tech-ish.com/2026/06/18/midjourney-full-body-ultrasound-scanner/">Midjourney Built a Full-Body Ultrasound Scanner. Here's What ...</a></li>
-<li><a href="https://explainx.ai/blog/midjourney-medical-full-body-scanner-spa-2026">Midjourney Medical: Full-Body Ultrasonic CT Scanner, 60 ...</a></li>
-<li><a href="https://www.engadget.com/2196998/midjourney-full-body-ultrasonic-scanner/">Midjourney, the AI image generator, is developing a full-body ...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#Midjourney`, `#hardware`, `#healthcare`, `#AI`, `#startup`
-
----
-
-<a id="item-33"></a>
-## [Adobe Adds AI Agents to Creative Cloud Apps](https://the-decoder.com/adobe-adds-ai-agents-to-photoshop-premiere-and-more-creative-cloud-apps/) ⭐️ 7.0/10
-
-Adobe is rolling out its Firefly AI assistant as an agent across Photoshop, Premiere Pro, Illustrator, InDesign, and Frame.io, enabling users to describe tasks in natural language and have the software execute multi-step workflows automatically. This marks a significant shift from AI as a simple tool to AI as an autonomous agent that can handle complex creative workflows, potentially saving professionals hours of manual work and lowering the barrier for non-experts to produce high-quality content. The AI agent integrates with third-party platforms like ChatGPT and Claude, and includes pre-built 'Creative Skills' for specific tasks such as batch photo editing and video color grading. The rollout began on June 18, 2026.
-
-rss · The Decoder — AI新闻 · Jun 18, 12:59
-
-**Background**: Adobe's Firefly AI assistant was originally introduced as a generative AI tool for image and text effects. The new agentic approach allows it to orchestrate multiple steps across different apps, similar to how AI agents in other domains automate complex tasks. This evolution reflects the broader industry trend toward agentic AI systems that can plan and execute workflows autonomously.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.adobe.com/products/firefly/features/ai-assistant.html">Firefly AI Assistant: A new way to create. - Adobe</a></li>
-<li><a href="https://techcrunch.com/2026/06/18/adobe-adds-its-ai-assistant-to-premiere-illustrator-and-indesign/">Adobe adds its AI assistant to Premiere, Illustrator and ...</a></li>
-<li><a href="https://9to5mac.com/2026/06/18/adobe-expands-firefly-capabilities-extends-agentic-tools-to-creative-cloud-apps/">Adobe expands Firefly capabilities, extends agentic tools to ...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#AI`, `#Adobe`, `#Creative Cloud`, `#AI agents`, `#Photoshop`
-
----
-
-<a id="item-34"></a>
-## [Waymo Recalls 3,900 Robotaxis Over Construction Zone Incidents](https://techcrunch.com/2026/06/18/waymo-recalls-nearly-4000-robotaxis-to-stop-them-driving-into-highway-construction-zones/) ⭐️ 7.0/10
-
-Waymo voluntarily recalled nearly 3,900 robotaxis after at least 13 incidents where the vehicles drove into highway construction zones, and deployed a software update to improve detection and response to freeway closures. This recall highlights a critical safety challenge for autonomous vehicles operating in dynamic environments like construction zones, and underscores the need for robust perception systems that can handle unexpected road changes. The recall was conducted voluntarily with the National Highway Traffic Safety Administration (NHTSA), and Waymo initially restricted freeway driving until the software fix was applied. The incidents involved robotaxes ignoring ramp-closure signs and entering closed sections.
-
-rss · TechCrunch — 科技创投 · Jun 18, 11:59
-
-**Background**: Autonomous vehicles rely on pre-mapped data and sensors to navigate, but construction zones present dynamically changing environments that can differ significantly from stored maps. Waymo's robotaxis operate as part of a ridesharing service in several U.S. cities, and this recall is one of the first major safety actions for the company.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.cnbc.com/2026/06/18/waymo-nhtsa-voluntary-recall-robotaxis-entered-freeway-construction-zones.html">Waymo recalls about 3,900 robotaxis some drove into ... - CNBC</a></li>
-<li><a href="https://www.cbsnews.com/news/waymo-recall-robotaxi-closed-freeway-construction-zone/">Waymo recalls robotaxis after some vehicles entered ...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#autonomous vehicles`, `#Waymo`, `#safety`, `#recall`, `#AI`
-
----
-
-<a id="item-35"></a>
-## [NASA Halts Work on Northrop Grumman's Lunar HALO Module](https://arstechnica.com/space/2026/06/nasas-1-1-billion-gateway-habitation-module-is-unlikely-to-be-used-for-something-else/) ⭐️ 7.0/10
-
-NASA has directed Northrop Grumman to stop work on the Habitation and Logistics Outpost (HALO) module for the lunar Gateway, reassigning most affected employees to other programs. This halt signals a major shift in NASA's Artemis program, potentially delaying the lunar Gateway and affecting international partnerships, as HALO is a core pressurized module for crew habitation. The HALO module had arrived in Arizona in April 2025 for final outfitting at Northrop Grumman's Gilbert facility, and was planned to launch together with the Power and Propulsion Element on a commercial rocket.
-
-rss · ArsTechnica — 深度科技 · Jun 18, 20:49
-
-**Background**: The Lunar Gateway is a planned small space station in orbit around the Moon, serving as a staging point for Artemis missions. HALO, built by Northrop Grumman based on its Cygnus spacecraft design, is one of two foundational modules, providing living quarters and docking ports for visiting spacecraft.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Habitation_and_Logistics_Outpost">Habitation and Logistics Outpost - Wikipedia</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Lunar_Gateway">Lunar Gateway - Wikipedia</a></li>
-<li><a href="https://www.nasa.gov/missions/artemis/nasa-welcomes-gateway-lunar-space-stations-halo-module-to-us/">NASA Welcomes Gateway Lunar Space Station’s HALO Module to US</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#NASA`, `#space exploration`, `#lunar Gateway`, `#contractor`
-
----
-
-<a id="item-36"></a>
-## [Android Developer Verification Timeline Announced](https://arstechnica.com/gadgets/2026/06/google-shares-updated-timeline-for-rolling-out-android-developer-verification/) ⭐️ 7.0/10
-
-Google has announced a timeline for its Android developer verification system, with a new system service rolling out this month and major changes starting in September. This verification system will impact the entire Android app store ecosystem, requiring developers to undergo identity verification, which could reduce fraud and improve app security. The rollout begins with a system service this month, followed by significant changes in September, though specific requirements for developers and app stores have not yet been detailed.
-
-rss · ArsTechnica — 深度科技 · Jun 18, 19:53
-
-**Background**: Android developer verification is a process where Google confirms the identity of app developers to prevent malicious apps and ensure trust. This system will likely require developers to provide government-issued ID or other verification documents.
-
-**Tags**: `#Android`, `#developer verification`, `#app stores`, `#Google`
-
----
-
-<a id="item-37"></a>
-## [Chinese Investors Secretly Acquired SpaceX Stakes Before IPO](https://arstechnica.com/information-technology/2026/06/before-spacex-ipo-investors-in-china-secretly-acquired-stakes/) ⭐️ 7.0/10
-
-A ProPublica investigation revealed that a previously undisclosed SpaceX investor has ties to Chinese military contractors, uncovered through court records obtained after a legal battle. This raises national security concerns as SpaceX is a key U.S. military contractor, and the revelation could impact its planned $75 billion IPO and regulatory scrutiny. The investor's ties were revealed only after ProPublica went to court to obtain the information, and SpaceX has previously taken money directly from Chinese investors according to sealed testimony.
-
-rss · ArsTechnica — 深度科技 · Jun 18, 17:42
-
-**Background**: SpaceX, led by Elon Musk, is a leading aerospace manufacturer and space transportation company that also serves as a major U.S. military contractor. Foreign ownership in such companies is subject to strict regulations due to national security concerns. The company is preparing for an initial public offering (IPO) valued at around $75 billion.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.propublica.org/article/spacex-elon-musk-ipo-foreign-investors-china">Before SpaceX IPO, Investors in China Secretly Acquired Stakes</a></li>
-<li><a href="https://www.cnbc.com/2026/02/05/sens-warren-kim-ask-pentagon-to-probe-spacex-for-potential-chinese-ownership.html">Sens. Warren, Kim ask Pentagon to probe SpaceX for ... - CNBC</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#SpaceX`, `#national security`, `#investing`, `#China`, `#IPO`
-
----
-
-<a id="item-38"></a>
-## [Sanders Proposes $7 Trillion AI Wealth Fund](https://arstechnica.com/tech-policy/2026/06/bernie-sanders-unveils-7-trillion-plan-to-give-americans-control-of-ai-industry/) ⭐️ 7.0/10
-
-Senator Bernie Sanders has unveiled a $7 trillion plan to give Americans direct ownership stakes in major AI companies through a sovereign wealth fund funded by a one-time 50% tax on company stock. This proposal could fundamentally reshape the AI industry by transferring massive corporate wealth to the public, potentially setting a precedent for how AI profits are distributed and regulated. The plan would create a sovereign wealth fund through a one-time 50% tax on the stock of the largest AI companies, giving Americans a direct ownership stake. The total value is estimated at $7 trillion.
-
-rss · ArsTechnica — 深度科技 · Jun 18, 17:02
-
-**Background**: Sovereign wealth funds are state-owned investment funds that manage a country's reserves. Sanders' proposal draws on ideas like Alaska's Permanent Fund, which distributes oil revenues to residents. The AI industry has seen massive growth, raising concerns about wealth concentration and public control.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://arstechnica.com/tech-policy/2026/06/bernie-sanders-unveils-7-trillion-plan-to-give-americans-control-of-ai-industry/">Bernie Sanders unveils $7 trillion plan to give Americans control of AI ...</a></li>
-<li><a href="https://reason.com/2026/06/02/bernie-sanders-ai-wealth-fund-bill-shows-that-he-doesnt-understand-ai-or-wealth/">Bernie Sanders' AI wealth fund bill shows that he doesn't understand.....</a></li>
-<li><a href="https://financebuzz.com/news/direct-payments-proposed-ai-wealth-fund">Millions Would Get Direct Payments Under Newly Proposed AI Wealth ...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#AI policy`, `#regulation`, `#economics`, `#US politics`
-
----
-
-<a id="item-39"></a>
-## [llama.cpp b9701 Refactors Preprocessor, Adds New API](https://github.com/ggml-org/llama.cpp/releases/tag/b9701) ⭐️ 6.0/10
-
-llama.cpp b9701 refactors the mtmd preprocessor, adds the mtmd_image_preproc_out API, removes an unused clip API, and changes the preprocess() call signature. This release improves the multimodal preprocessing pipeline, making it cleaner and more extensible for developers integrating vision capabilities into llama.cpp. The new API provides a dedicated output interface for preprocessed images, simplifying downstream usage. The refactoring removes the unused clip_image_f32_batch::grid field and the old clip API, indicating a cleanup of legacy code. The preprocess() call signature change may require updates in downstream code that directly calls this function.
-
-github · github-actions[bot] · Jun 18, 13:39
-
-**Background**: llama.cpp is an open-source project that enables running large language models (LLMs) locally on consumer hardware. The mtmd (multimodal) module provides support for vision-language models like LLaVA, allowing the software to process images alongside text. This release focuses on internal cleanup and API improvements rather than new model support.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://github.com/ggml-org/llama.cpp/blob/master/tools/mtmd/README.md">llama.cpp/tools/mtmd/README.md at master · ggml-org/llama.cpp</a></li>
-<li><a href="https://modelswar.com/change/llamacpp-release-b9701-mtmd-preprocessing-refactor-and-api-signature-changes-14855/">llama.cpp b9701 adds mtmd_image_preproc_out and changes ...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#llama.cpp`, `#machine learning`, `#open source`, `#release`
-
----
-
-<a id="item-40"></a>
-## [uv 0.11.22: Wheel-first publishing and preview features](https://github.com/astral-sh/uv/releases/tag/0.11.22) ⭐️ 6.0/10
-
-uv 0.11.22, released on June 18, 2026, introduces wheel-first publishing in `uv publish`, adds `TY` and `RUFF` environment variables for binary paths, and enables configuration of preview features in `uv.toml` and `pyproject.toml`. Wheel-first publishing reduces installation time for end users by ensuring the faster-to-install wheel format is available first. The preview feature configuration and SARIF output support pave the way for more flexible and standardized tooling integration. The `TY` and `RUFF` env vars allow users to specify custom paths for binaries used by `uv format` and `uv check`. Preview features now include SARIF output for `uv audit`, `--script` flag for `uv check` and `uv metadata`, and workspace-exclusive dependency group reporting.
+uv 0.11.22, released on 2026-06-18, changes the publish order to upload wheels before source distributions, adds TY and RUFF environment variables for specifying binaries used by uv format and uv check, and allows configuring preview features in uv.toml and pyproject.toml. These incremental improvements enhance the developer experience by making publishing more robust (wheels first), simplifying integration with type checkers (TY) and linters (Ruff), and providing more flexible preview feature management. The performance improvement in the resolver also benefits all users. The TY and RUFF env vars allow users to point uv format and uv check to custom binaries, useful in CI or when using different versions. Preview features can now be enabled per-project via configuration files, and uv check --no-sync updates the lockfile without syncing the environment.
 
 github · github-actions[bot] · Jun 18, 23:05
 
-**Background**: uv is a fast Python package and project manager written in Rust, developed by Astral Software. Wheel-first publishing means that when running `uv publish`, wheels (compiled packages) are uploaded before source distributions (sdists), allowing users to install the wheel immediately without waiting for the sdist to be processed. SARIF (Static Analysis Results Interchange Format) is an industry standard for outputting static analysis results, enabling integration with various tools.
+**Background**: uv is a fast Python package manager and toolchain developed by Astral, the company behind Ruff. It aims to replace pip, pip-tools, virtualenv, and other tools with a single, performant binary. Preview features in uv allow users to opt into experimental changes before they become stable.
 
 <details><summary>References</summary>
 <ul>
+<li><a href="https://docs.astral.sh/uv/guides/package/">Building and publishing a package | uv - Astral</a></li>
 <li><a href="https://docs.astral.sh/uv/concepts/preview/">Preview features | uv</a></li>
-<li><a href="https://github.com/microsoft/sarif-tutorials">GitHub - microsoft/sarif-tutorials: User-friendly ...</a></li>
-<li><a href="https://sarifweb.azurewebsites.net/">SARIF Home</a></li>
+<li><a href="https://github.com/XanderBaatz/python-uv">GitHub - XanderBaatz/python- uv : A production-ready Python...</a></li>
 
 </ul>
 </details>
@@ -895,154 +463,249 @@ github · github-actions[bot] · Jun 18, 23:05
 
 ---
 
-<a id="item-41"></a>
-## [TesterArmy Launches Agentic Testing Platform for Web and Mobile](https://tester.army/) ⭐️ 6.0/10
+<a id="item-21"></a>
+## [AirPods as Social Escape Tools](https://www.theescapenewsletter.com/p/the-airpods-effect) ⭐️ 6.0/10
 
-TesterArmy, a YC-backed startup, launched an agentic testing platform that uses LLM agents to execute end-to-end tests specified in natural language for web and mobile apps, replacing traditional script-based testing. This approach could significantly reduce the time and cost of maintaining test scripts, making automated testing more accessible to teams that lack dedicated QA resources, and potentially accelerating development cycles. The platform uses a fast model (Google Gemini 3 Flash) for quick tests and a deep model (OpenAI GPT-5.4) for complex scenarios, with a 15-minute timeout per test run. It costs $300 for 1,000 tests ($0.30 per test).
+An article titled 'The AirPods Effect' argues that AirPods allow people to physically remove themselves from unwanted social interactions in public spaces, especially in cities. This cultural commentary highlights how a popular technology is reshaping urban social norms, potentially increasing isolation and reducing spontaneous interactions. The article has sparked significant discussion, with 334 points and 598 comments on Hacker News, indicating strong engagement with the premise.
 
-hackernews · okwasniewski · Jun 18, 14:49 · [Discussion](https://news.ycombinator.com/item?id=48586299)
+hackernews · herbertl · Jun 18, 23:08 · [Discussion](https://news.ycombinator.com/item?id=48592832)
 
-**Background**: Traditional end-to-end testing requires writing and maintaining complex scripts (e.g., using Playwright or Selenium), which is time-consuming and brittle. AI-powered testing tools have emerged that use LLMs to generate test scripts from natural language, but TesterArmy goes further by having agents autonomously execute tests and report failures.
+**Background**: AirPods are wireless earbuds that have become ubiquitous in urban environments. They are often used to listen to music or podcasts, but also serve as a social signal that the wearer is not available for conversation.
+
+**Discussion**: Commenters debated the article's premise, with some arguing that earbuds are a necessary tool to cope with loud and aggressive environments, while others noted the loss of daydreaming time due to constant audio input.
+
+**Tags**: `#technology`, `#society`, `#urban life`, `#headphones`
+
+---
+
+<a id="item-22"></a>
+## [Amazon drops OpenAI film after $50B deal](https://the-decoder.com/amazon-drops-its-openai-drama-film-after-signing-a-50-billion-deal-with-sam-altmans-company/) ⭐️ 6.0/10
+
+Amazon MGM Studios has dropped 'Artificial,' a nearly finished film about OpenAI directed by Luca Guadagnino and starring Andrew Garfield as Sam Altman, after Amazon signed a $50 billion partnership with OpenAI in February. This incident highlights how large business deals in the tech industry can restrict creative freedom, raising concerns about corporate influence on artistic expression. According to an insider, both Sam Altman and Elon Musk are portrayed negatively in the film. The project was nearly complete before being shelved.
+
+rss · The Decoder — AI新闻 · Jun 19, 17:14
+
+**Background**: Amazon MGM Studios is a film production and distribution company owned by Amazon. Luca Guadagnino is an acclaimed Italian director known for films like 'Call Me by Your Name.' The $50 billion partnership between Amazon and OpenAI was announced in February 2026, covering cloud services and AI integration.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.mabl.com/">Agentic Testing for the Next Generation of Software | mabl</a></li>
-<li><a href="https://www.uipath.com/platform/agentic-testing">Agentic Testing Platform & Features | UiPath</a></li>
-<li><a href="https://www.virtuosoqa.com/post/natural-language-end-to-end-testing-plain-english">Write End - to - End Tests in Plain English with Virtuoso QA</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Amazon_MGM_Studios">Amazon MGM Studios</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Luca_Guadagnino">Luca Guadagnino</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Community members raised concerns about cost and determinism, noting that LLM-based tests are non-deterministic and potentially expensive per run. Some questioned whether the platform is necessary when coding assistants can already generate deterministic test scripts cheaply. Others appreciated the product's vision and ease of use.
-
-**Tags**: `#testing`, `#AI agents`, `#startup`, `#web development`, `#mobile development`
+**Tags**: `#Amazon`, `#OpenAI`, `#corporate influence`, `#film`, `#tech industry`
 
 ---
 
-<a id="item-42"></a>
-## [Migrating from GNU Stow to Chezmoi for Dotfiles](https://rednafi.com/misc/chezmoi/) ⭐️ 6.0/10
+<a id="item-23"></a>
+## [AI Chatbot News Usage Rises, Trust Stays Low](https://the-decoder.com/more-people-get-news-from-ai-chatbots-but-trust-remains-low/) ⭐️ 6.0/10
 
-A developer detailed their migration from GNU Stow to Chezmoi for managing dotfiles, citing issues with symlink behavior across multiple machines. The post sparked discussion comparing Chezmoi with alternatives like Nix and Home Manager. This matters because dotfile management is a common pain point for developers, and the discussion highlights trade-offs between simplicity (Stow), feature-rich tools (Chezmoi), and declarative systems (Nix/Home Manager). It helps developers choose the right tool for their workflow. Chezmoi offers features like templating, secret management, and per-machine configuration, which GNU Stow lacks. However, some commenters argue that Chezmoi is a stepping stone to Nix and Home Manager, which provide even more declarative and reproducible setups.
+The Reuters Institute's Digital News Report 2026 found that 10% of people worldwide now use AI chatbots for news weekly, up from 7% last year, but only 4% regularly click through to the original source. This trend indicates growing reliance on AI for news consumption, yet low trust and source engagement raise concerns about misinformation and the decline of direct journalism. The report surveyed 47 markets and highlights that while chatbot usage for news is increasing, trust in AI-generated news remains low, and most users do not verify sources.
 
-hackernews · speckx · Jun 18, 17:09 · [Discussion](https://news.ycombinator.com/item?id=48588413)
+rss · The Decoder — AI新闻 · Jun 19, 14:42
 
-**Background**: GNU Stow is a symlink farm manager that helps organize dotfiles by creating symlinks from a central directory to the home directory. Chezmoi is a more modern dotfile manager that supports templating, encryption, and applying configurations across multiple machines. Nix and Home Manager take a declarative approach, managing both packages and configurations in a reproducible way.
+**Background**: The Reuters Institute Digital News Report is an annual study tracking news consumption trends globally. AI chatbots like ChatGPT and Google Gemini are increasingly used to summarize news, but they can produce inaccurate or biased content, leading to trust issues.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.chezmoi.io/">chezmoi - chezmoi</a></li>
-<li><a href="https://www.josean.com/posts/how-to-manage-dotfiles-with-gnu-stow">How To Easily Manage Your Dotfiles With GNU Stow</a></li>
-<li><a href="https://github.com/nix-community/home-manager">GitHub - nix-community/home-manager: Manage a user ... How to manage dotfiles with home-manager? - Help - NixOS ... Home Manager Manual - GitHub Pages GitHub - notusknot/dotfiles-nix: Configuration files for my ... Managing dotfiles with Nix - seroperson’s website Managing dotfiles with Nix</a></li>
+<li><a href="https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2026/dnr-executive-summary">Overview and key findings of the 2026 Digital News Report</a></li>
+<li><a href="https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2026">Digital News Report 2026 | Reuters Institute for the Study of ...</a></li>
 
 </ul>
 </details>
 
-**Discussion**: The community had mixed reactions: some praised Chezmoi as a solid tool, while others advocated for Nix and Home Manager as a more powerful alternative. One commenter noted that Chezmoi is a 'darling of the community,' but another suggested that once you reach Chezmoi, you're only six months from Nix. A few users preferred rolling their own setup for full understanding.
-
-**Tags**: `#dotfiles`, `#devtools`, `#configuration management`, `#Chezmoi`, `#GNU Stow`
+**Tags**: `#AI`, `#news`, `#trust`, `#chatbots`, `#media`
 
 ---
 
-<a id="item-43"></a>
-## [How Alberta Eradicated Rats](https://worksinprogress.co/issue/albertas-war-on-rats/) ⭐️ 6.0/10
+<a id="item-24"></a>
+## [Fusion Startups with Over $100M Raised](https://techcrunch.com/2026/06/19/every-fusion-startup-that-has-raised-over-100m/) ⭐️ 6.0/10
 
-An article details Alberta's successful rat eradication program, highlighting government policy, public cooperation, and innovative pest control methods. This case study demonstrates that large-scale pest eradication is achievable through coordinated policy and community effort, offering a model for other regions. The program involved strict border controls, baiting stations, and public reporting systems, and has kept Alberta rat-free for decades.
+TechCrunch published a list of fusion startups that have raised over $100 million, noting that total industry funding has reached $7.1 billion. This overview highlights the growing investor confidence in fusion energy, a potential source of nearly limitless clean power, and shows which companies are leading the race. The $7.1 billion total is concentrated among a handful of startups, with the majority of funding going to the top companies on the list.
 
-hackernews · tzury · Jun 18, 13:05 · [Discussion](https://news.ycombinator.com/item?id=48584709)
+rss · TechCrunch — 科技创投 · Jun 19, 16:50
 
-**Background**: Rats are invasive rodents that cause crop damage and spread disease. Alberta launched its eradication program in the 1950s, using a combination of poisoning, trapping, and public education.
+**Background**: Nuclear fusion, the process that powers the sun, has long been pursued as a clean energy source. Unlike fission, fusion produces minimal radioactive waste and has no risk of meltdown. However, achieving sustained fusion reactions at commercial scale remains a major engineering challenge.
 
-**Discussion**: Commenters provided corrections (e.g., the political party mentioned was Social Credit, not UCP) and shared amusing anecdotes, such as an official eating rat poison to prove its safety. Overall sentiment was positive and engaged.
-
-**Tags**: `#history`, `#public policy`, `#pest control`, `#Canada`
+**Tags**: `#fusion energy`, `#startups`, `#funding`, `#clean energy`
 
 ---
 
-<a id="item-44"></a>
-## [A2A Protocol Adoption Questioned](https://news.ycombinator.com/item?id=48582679) ⭐️ 6.0/10
+<a id="item-25"></a>
+## [US Ban on Anthropic Models May Boost Brand](https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/) ⭐️ 6.0/10
 
-A developer on Hacker News asked whether anyone is actually using Google's A2A (Agent-to-Agent) protocol in production, noting confusion about its utility compared to the more popular MCP (Model Context Protocol). The discussion highlights the ongoing fragmentation in the AI agent ecosystem, where multiple competing protocols (A2A, MCP) vie for adoption, potentially slowing down interoperability and real-world deployment of multi-agent systems. A2A is an open-source protocol donated by Google to the Linux Foundation, designed for agent-to-agent communication, while MCP, introduced by Anthropic, focuses on connecting agents to tools and data sources. Some commenters argue that A2A does not solve the right problem, as agents lack inherent identity and communication between agents is not fundamentally different from agent-to-tool communication.
+The US government forced Anthropic to pull its two newest AI models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to bypass Fable 5's guardrails. This move highlights the tension between AI safety regulation and innovation, and the ban may inadvertently increase Anthropic's brand visibility and credibility among users who value safety. Cybersecurity researchers signed an open letter calling the ban dangerous, and Anthropic noted that similar jailbreaks exist in other models, suggesting the ban may be disproportionate.
 
-hackernews · asim · Jun 18, 08:52
+rss · TechCrunch — 科技创投 · Jun 19, 16:08
 
-**Background**: The A2A (Agent2Agent) protocol was announced by Google in April 2025 as an open standard for enabling different AI agents to communicate directly. It is governed by a technical steering committee including major cloud providers. In contrast, the Model Context Protocol (MCP) from Anthropic, released in November 2024, standardizes how AI models connect to external tools and data, and has seen broader adoption across platforms like Claude, ChatGPT, and VS Code.
+**Background**: AI jailbreaks are techniques that bypass safety guardrails in AI models, allowing them to generate harmful content. The US government has been increasingly scrutinizing AI models for national security risks, especially those with advanced capabilities. Anthropic's Fable 5 and Mythos 5 are among the most powerful models, with Mythos 5 being a higher-tier model with additional safeguards.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://github.com/a2aproject/A2A">GitHub - a2aproject/A2A: Agent2Agent (A2A) is an open ...</a></li>
-<li><a href="https://developers.googleblog.com/en/a2a-a-new-era-of-agent-interoperability/">Announcing the Agent2Agent Protocol (A2A) - Google Developers ...</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Model_Context_Protocol">Model Context Protocol - Wikipedia</a></li>
+<li><a href="https://www.anthropic.com/news/claude-fable-5-mythos-5">Claude Fable 5 and Claude Mythos 5 \ Anthropic</a></li>
+<li><a href="https://www.cnbc.com/2026/06/09/anthropic-mythos-claude-fable-5.html">Anthropic releases Mythos-like AI model to the public two ...</a></li>
+<li><a href="https://techxplore.com/news/2026-06-mathematical-proof-reveals-ai-guardrails.html">Mathematical proof reveals why fixed AI guardrails can never block...</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Commenters expressed mixed opinions: some dismissed A2A as a distraction, arguing that agent-to-agent communication is not fundamentally different from agent-to-tool communication, while others found it useful within the Google ecosystem. One user reported using A2A at work, likening it to a microservices architecture for agents.
-
-**Tags**: `#A2A protocol`, `#agent-to-agent`, `#Google`, `#MCP`, `#AI agents`
+**Tags**: `#AI`, `#regulation`, `#Anthropic`, `#national security`
 
 ---
 
-<a id="item-45"></a>
-## [Datasette-acl 0.6a0 Expands to General Resource Sharing](https://simonwillison.net/2026/Jun/18/datasette-acl/#atom-everything) ⭐️ 6.0/10
+<a id="item-26"></a>
+## [Reliance to Embed AI in Telecom for 500M+ Users](https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home/) ⭐️ 6.0/10
 
-Datasette-acl 0.6a0 expands from table-only permissions to a general resource-sharing system, allowing multi-user Datasette instances to have finely grained control over access to various resources. This release is significant because it lays the groundwork for more sophisticated access control in Datasette, enabling collaborative data exploration with precise permission management, which is essential for enterprise and team use cases. The plugin is under active development and currently only supports configuring permissions for individual tables, but this release moves toward a broader resource-sharing model. Permissions are saved in the internal database, and the plugin requires Datasette 1.0a15 or higher.
+Reliance Industries announced plans to integrate AI into its telecom services, including an AI call assistant and a smart home hub called TeleFrame, targeting over 500 million Jio users. This move could accelerate AI adoption across India's vast telecom user base, setting a precedent for large-scale AI integration in telecom and smart home ecosystems. The AI call assistant can handle spam detection and call transcription, while TeleFrame serves as a central AI hub for managing smart home devices. Reliance also plans to build a giant AI data center to support these services.
 
-rss · Simon Willison — AI工具 · Jun 18, 19:03
+rss · TechCrunch — 科技创投 · Jun 19, 15:23
 
-**Background**: Datasette is an open-source tool for exploring and publishing data, allowing users to turn SQLite databases into interactive websites and APIs. The datasette-acl plugin adds advanced permission controls, enabling multi-user instances to restrict access to specific tables or resources. This release is a step toward a more general system that can manage permissions across different resource types within Datasette.
+**Background**: Reliance Jio is India's largest telecom operator with over 500 million subscribers. AI in telecom is being used to optimize networks, enhance customer experience, and support 5G rollout. The company's AGM 2026 highlighted its AI ambitions across data centers, apps, and smart home platforms.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://pypi.org/project/datasette-acl/">datasette-acl · PyPI</a></li>
-<li><a href="https://simonwillison.net/2026/Jun/18/datasette-acl/">Release: datasette-acl 0.6a0 - simonwillison.net</a></li>
+<li><a href="https://telecom.economictimes.indiatimes.com/news/industry/reliance-jio-launches-ai-call-assistant-and-advanced-teleframe-ai-os-for-enhanced-connectivity/131857098">Jio News: Reliance Jio Launches AI Call Assistant and ...</a></li>
+<li><a href="https://in.mashable.com/tech/111111/meet-teleframe-jio-just-unveiled-an-ai-hub-for-your-home-how-it-works">Meet TeleFrame, Jio Just Unveiled an AI Hub for Your Home ...</a></li>
+<li><a href="https://www.digit.in/news/general/reliance-agm-2026-from-ai-data-centers-to-jio-ai-apps-top-announcements.html">Reliance AGM 2026: From AI data centers to Jio AI apps, top ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#datasette`, `#access-control`, `#plugin`, `#open-source`
+**Tags**: `#AI`, `#telecom`, `#India`, `#Reliance`
 
 ---
 
-<a id="item-46"></a>
-## [Snap spins off AI video team into new company Dotmo](https://techcrunch.com/2026/06/18/snap-spins-off-ai-video-team-into-new-company-dotmo-due-to-costs/) ⭐️ 6.0/10
+<a id="item-27"></a>
+## [US Claims ASML's Top Chip Tool May Be in China](https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/) ⭐️ 6.0/10
 
-Snap is spinning off its AI video team into a new company called Dotmo, which will focus on developing AI models for interactive gaming experiences. The move is driven by cost pressures and a strategic refocusing at Snap. This spin-off indicates Snap's effort to reduce costs while still investing in AI video technology, and it could allow Dotmo to operate more nimbly as an independent startup. It also reflects broader industry trends of large tech companies spinning off internal units to unlock value and focus on core businesses. Dotmo will be composed of current Snap staff who are leaving the social media company to focus on AI video development. The new company will specifically develop AI models that can create interactive gaming experiences.
+The US Commerce Secretary warned ASML that one of its advanced extreme ultraviolet (EUV) lithography machines may have been illegally transferred to China, but ASML denies the claim. This dispute underscores escalating tensions over semiconductor export controls between the US and China, potentially impacting global chip supply chains and ASML's business operations. ASML's EUV machines are the only tools capable of producing the most advanced chips, and their export to China is strictly prohibited under US-led controls. ASML stated it has no evidence of such a transfer and is cooperating with authorities.
+
+rss · TechCrunch — 科技创投 · Jun 19, 07:59
+
+**Background**: Extreme ultraviolet (EUV) lithography is a cutting-edge technology used to manufacture the smallest, most powerful semiconductor chips. The US has imposed export controls to prevent China from acquiring advanced chip-making equipment, citing national security concerns. ASML, a Dutch company, dominates the EUV market and must comply with these regulations.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/">The US says ASML’s top chip tool may be in China. ASML says ...</a></li>
+<li><a href="https://www.bloomberg.com/news/articles/2026-06-19/us-tells-asml-it-s-concerned-china-may-have-top-chip-tool">US Tells ASML It’s Concerned China May Have Top Chip Tool</a></li>
+<li><a href="https://www.hindustantimes.com/world-news/us-tells-dutch-chipmaker-asml-it-s-concerned-china-may-have-top-chip-tool-euv-101781891130709.html">US tells Dutch chipmaker ASML it’s concerned China may have ...</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#semiconductors`, `#geopolitics`, `#ASML`, `#export controls`, `#China`
+
+---
+
+<a id="item-28"></a>
+## [Baseten reportedly raising $1.5B at $13B valuation](https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/) ⭐️ 6.0/10
+
+AI inference startup Baseten is reportedly close to finalizing a $1.5 billion funding round at a $13 billion valuation, just months after its previous mega-round. This massive round underscores the ongoing 'inference gold rush' as demand for AI inference infrastructure surges, signaling that investors see huge potential in the inference layer of AI deployment. The round values Baseten at $13 billion, and the company focuses on optimizing and serving AI model inference, a critical but computationally intensive stage after model training.
+
+rss · TechCrunch — 科技创投 · Jun 18, 21:20
+
+**Background**: AI inference is the phase where a trained model processes new data to generate outputs, such as when a large language model responds to a user query. As AI models grow in size and usage, inference costs and latency become major bottlenecks, creating a market for specialized inference infrastructure providers like Baseten.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/">AI inference startup Baseten reportedly raising $1.5B months ...</a></li>
+<li><a href="https://geniustechlab.com/posts/2026-05-22-ai-inference-chip-gold-rush">The $200 Billion AI Inference Gold Rush: Why Specialized ...</a></li>
+<li><a href="https://cloud.google.com/discover/what-is-ai-inference">What is AI inference? How it works and examples | Google Cloud</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#AI`, `#startup`, `#funding`, `#inference`
+
+---
+
+<a id="item-29"></a>
+## [Snap Spins Off AI Video Team into New Company Dotmo](https://techcrunch.com/2026/06/18/snap-spins-off-ai-video-team-into-new-company-dotmo-due-to-costs/) ⭐️ 6.0/10
+
+Snap is spinning off its internal generative AI video team into a standalone company called Dotmo, which will focus on developing AI models for interactive gaming experiences. This move highlights the high cost of developing advanced AI products within a public company under pressure to cut costs, and it may signal a trend of tech companies spinning off AI units to reduce financial burden. Dotmo will be composed of current Snap employees who are leaving the social media company to focus exclusively on AI video development, and it will license Snap's AI technology.
 
 rss · TechCrunch — 科技创投 · Jun 18, 20:30
 
-**Background**: A corporate spin-off is when a company creates a new independent entity by separating a division or unit, often to reduce costs, improve focus, or unlock shareholder value. Snap has previously spun off other internal units, and this move follows similar cost-cutting and restructuring efforts in the tech industry.
+**Background**: Snap, the parent company of Snapchat, has been under financial pressure to cut costs. Spinning off internal units allows the company to reduce expenses while still potentially benefiting from the new venture's success. This is not Snap's first spinoff; it has previously carved out other businesses.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://techcrunch.com/2026/06/18/snap-spins-off-ai-video-team-into-new-company-dotmo-due-to-costs/">Snap spins off AI video team into new company, Dotmo, due to costs | TechCrunch</a></li>
-<li><a href="https://finance.yahoo.com/technology/ai/articles/snap-spins-off-ai-video-203000405.html">Snap spins off AI video team into new company, Dotmo, due to costs - Yahoo Finance</a></li>
+<li><a href="https://techcrunch.com/2026/06/18/snap-spins-off-ai-video-team-into-new-company-dotmo-due-to-costs/">Snap spins off AI video team into new company, Dotmo, due to ...</a></li>
+<li><a href="https://superintelligencenews.com/applications/ai-video-spinoff-snap-dotmo/">AI video spinoff: Snap launches Dotmo</a></li>
+<li><a href="https://cryptobriefing.com/snap-spins-off-ai-video-team-dotmo/">Snap spins off AI video team into new company called Dotmo</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Snap`, `#AI video`, `#corporate restructuring`, `#startup`
+**Tags**: `#Snap`, `#AI video`, `#spinoff`, `#cost cutting`, `#social media`
 
 ---
 
-<a id="item-47"></a>
-## [Apple Patches High-Severity Eavesdropping Bug in Beats Studio Buds](https://arstechnica.com/apple/2026/06/apple-patches-high-severity-eavesdropping-vulnerability-in-beats-studio-buds/) ⭐️ 6.0/10
+<a id="item-30"></a>
+## [Satellite rescue mission organized in record time](https://arstechnica.com/space/2026/06/a-bold-satellite-rescue-mission-came-together-in-record-time-but-will-it-work/) ⭐️ 6.0/10
 
-Apple has released firmware version 1B211 for Beats Studio Buds to fix CVE-2025-20701, a high-severity Bluetooth vulnerability that could allow an attacker within range to eavesdrop via the microphone of an unpaired device seeking connections. This vulnerability affects multiple manufacturers and was disclosed a year ago, highlighting the slow response to critical Bluetooth security issues; the patch protects users from potential privacy breaches in everyday scenarios. The flaw resides in a third-party SDK used in the Bluetooth chip firmware, allowing improper authentication; the fix is delivered via a firmware update (version 1B211) for Beats Studio Buds.
+A bold satellite rescue mission was organized in record time to save NASA's Swift Observatory, which is falling out of orbit. The team considers the attempt itself a success regardless of the outcome. This mission demonstrates the feasibility of rapid-response satellite rescue, potentially extending the life of valuable space assets. Success could set a precedent for future satellite servicing and debris mitigation. The rescue mission must launch by summer 2026 to intercept Swift before it re-enters the atmosphere. Katalyst Space Technologies is leading the effort, which involves boosting the satellite to a higher orbit.
 
-rss · ArsTechnica — 深度科技 · Jun 18, 19:41
+rss · ArsTechnica — 深度科技 · Jun 19, 00:39
 
-**Background**: Bluetooth headphones and earbuds often use third-party chipsets and SDKs, which can introduce vulnerabilities. CVE-2025-20701 is a high-severity flaw that enables an attacker within Bluetooth range to impersonate a trusted device and activate the microphone without pairing. Such eavesdropping attacks can compromise sensitive conversations in public or private settings.
+**Background**: Satellites in low Earth orbit gradually lose altitude due to atmospheric drag. Without intervention, they eventually burn up in the atmosphere. Rescue missions involve rendezvousing with the satellite and using propulsion to raise its orbit, a complex and risky operation.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://arstechnica.com/apple/2026/06/apple-patches-high-severity-eavesdropping-vulnerability-in-beats-studio-buds/">Apple patches eavesdropping vulnerability in Beats Studio Buds</a></li>
-<li><a href="https://qpulse.quasarcybertech.com/news/4184/apple-patches-high-severity-bluetooth-vulnerability-in-beats-studio-buds">Apple Patches High-Severity Bluetooth Vulnerability in Beats ...</a></li>
-<li><a href="https://undercodenews.com/apple-quietly-pushes-critical-security-fix-for-beats-studio-buds-as-bluetooth-vulnerability-exposed-firmware-update-1b211-strengthens-wireless-privacy-protection-video/">Apple Quietly Pushes Critical Security Fix for Beats Studio ...</a></li>
+<li><a href="https://arstechnica.com/space/2026/06/a-bold-satellite-rescue-mission-came-together-in-record-time-but-will-it-work/">A bold satellite rescue mission came together in record time ...</a></li>
+<li><a href="https://www.usatoday.com/story/news/nation/2026/06/18/nasa-swift-satellite-boost-rescue/90587226007/">NASA eyes unprecedented mission to save a falling space telescope</a></li>
+<li><a href="https://arstechnica.com/space/2026/03/a-unique-nasa-satellite-is-falling-out-of-orbit-this-team-is-trying-to-rescue-it/">A unique NASA satellite is falling out of orbit—this team is ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#security`, `#vulnerability`, `#Apple`, `#Bluetooth`, `#patch`
+**Tags**: `#space`, `#satellite`, `#rescue mission`
+
+---
+
+<a id="item-31"></a>
+## [Taiwan ramps up drone production amid China tensions](https://arstechnica.com/ai/2026/06/as-china-looms-taiwan-makes-more-drones-for-defense-and-the-us-military/) ⭐️ 6.0/10
+
+Taiwan has approved a NT$44.2 billion ($1.4 billion) program to expand local drone production by 2030, aiming to boost defense readiness and supply chain independence. The initiative also seeks to increase overseas sales, including to the US military. This move strengthens Taiwan's defense capabilities against potential Chinese aggression and reduces reliance on foreign suppliers. It also positions Taiwan as a key player in the global drone market, particularly for military applications. The program includes producing various drone types, such as loitering munitions and surveillance UAVs, with a focus on indigenous technology. Taiwan's drone market was valued at $275.6 million in 2024 and is expected to grow to $334.1 million by 2025.
+
+rss · ArsTechnica — 深度科技 · Jun 18, 21:21
+
+**Background**: Drones have become central to modern warfare, as seen in the Ukraine war. Taiwan faces increasing military pressure from China, which claims the island as its territory. Historically, Taiwan has relied on imported weapons, but now seeks to build its own defense industry.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://arstechnica.com/ai/2026/06/as-china-looms-taiwan-makes-more-drones-for-defense-and-the-us-military/">As China looms, Taiwan makes more drones for defense and the ...</a></li>
+<li><a href="https://www.armyrecognition.com/news/aerospace-news/2025/taiwan-ramps-up-drone-production-with-1-4b-program-to-counter-rising-threats-from-china">Taiwan ramps up drone production with $1,4B program to ...</a></li>
+<li><a href="https://globaltaiwan.org/2026/02/tw-drone-production/">Taiwan’s Emerging Indigenous Drone Industry—An Overview</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#drones`, `#defense`, `#Taiwan`, `#geopolitics`, `#military`
+
+---
+
+<a id="item-32"></a>
+## [NASA Halts Work on Northrop Grumman's Lunar HALO Module](https://arstechnica.com/space/2026/06/nasas-1-1-billion-gateway-habitation-module-is-unlikely-to-be-used-for-something-else/) ⭐️ 6.0/10
+
+NASA has directed Northrop Grumman to stop work on the HALO (Habitation and Logistics Outpost) module for the Gateway lunar space station, reassigning most affected employees to other projects. This halt could delay the Artemis campaign's timeline for returning humans to the Moon and establishing a sustainable lunar presence, as HALO is a critical pressurized module for crew life support and command functions. The HALO module, with a mass of 8-9 metric tons when fully outfitted, arrived in Arizona in April 2025 for final assembly, but NASA now considers it unlikely to be used as originally planned due to changing priorities.
+
+rss · ArsTechnica — 深度科技 · Jun 18, 20:49
+
+**Background**: The Gateway is a planned lunar orbital space station that will support NASA's Artemis program. HALO is one of its two foundational elements, designed to provide life support, command, and control for visiting crews. Northrop Grumman was the prime contractor for HALO, which had passed critical design review and was in advanced stages of development.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://arstechnica.com/space/2026/06/nasas-1-1-billion-gateway-habitation-module-is-unlikely-to-be-used-for-something-else/">NASA asks Northrop Grumman to stop working on lunar HALO module</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Habitation_and_Logistics_Outpost">Habitation and Logistics Outpost - Wikipedia</a></li>
+<li><a href="https://www.nasa.gov/missions/artemis/nasa-welcomes-gateway-lunar-space-stations-halo-module-to-us/">NASA Welcomes Gateway Lunar Space Station’s HALO Module to US</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#NASA`, `#space exploration`, `#lunar module`, `#HALO`
 
 ---
 
